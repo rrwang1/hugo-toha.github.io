@@ -1,9 +1,9 @@
 # section information
 section:
-  name: Experiences
+  name: Research
   id: experiences
-  enable: true
-  weight: 3
+  enable: false
+  weight: 6
   showOnNavbar: true
   # Can optionally hide the title in sections
   # hideTitle: true 
@@ -11,8 +11,29 @@ section:
 # Your experiences
 experiences:
 - company:
-    name: Example Co.
+    name: IoT sensing systems and applications
     url: "https://www.example.com"
+    #location: Dhaka Branch
+    # company overview
+    #overview: 
+  positions:
+  - designation: Powerline radiation sensing
+    start: 1
+    # don't provide end date if you are currently working there. It will be replaced by "Present"
+    # end: Dec 2020
+    # give some points about what was your responsibilities at the company.
+    responsibilities:
+    - The periodic electric and magnetic fields emitted by the service power cables distributed in civil infrastructures provide both time and location information. Our research exploits these fields to develop clock synchronization, natural timestamping, localization, and device authentication services for indoor and wearable IoT objects.
+
+  - designation: LoRa radio sensing
+    start: 1
+    end: 1
+    responsibilities:
+    - LoRa is a low-power wide-area network (LPWAN) technology that can interconnect IoT objects distributed in large geographic areas or deep indoor/underground structures. Its long-range communication capability enables wide-area sensing using its own radio frequency signals. We sense the arrival time, frequency bias, and strength of LoRa signal for data timestamping, network security, and object localization.
+
+- company:
+    name: Example Co.
+    url: /posts/introduction/index.md
     location: Dhaka Branch
     # company overview
     overview: Example Co. is a widely recognized company for cloud-native development. It builds tools for Kubernetes.
@@ -35,30 +56,3 @@ experiences:
     - Support client for abc tool.
     - Learn k,d,w technology for xyz.
 
-- company:
-    name: PreExample Co.
-    url: "https://www.example.com"
-    location: Nowhere
-    overview: PreExample Co. is a gateway company to enter into Example co. So, nothing special here.
-  positions:
-  - designation: Software Engineer
-    start: March 2016
-    end: May 2017
-    responsibilities:
-    - Write lots of example codes.
-    - Read lots of examples.
-    - See lots of example videos.
-
-- company:
-    name: Intern Counting Company (ICC).
-    url: "https://www.example.com"
-    location: Intern Land
-    overview: Intern counting Company (ICC) is responsible for counting worldwide intern Engineers.
-  positions:
-  - designation: Intern
-    start: Jun 2015
-    end: Jan 2016
-    responsibilities:
-    - Count lost of interns.
-    - Count more interns.
-    - Count me as an intern.

@@ -4,97 +4,93 @@ section:
   id: about
   enable: true
   weight: 1
-  showOnNavbar: true
+  showOnNavbar: false
   template: sections/about.html
 
 # your designation
-designation: Software Engineer
+designation: 
 # your company information
 company:
-  name: Example Co.
-  url: "https://www.example.com"
+  name: NTU.
+  url: "https://www.ntu.edu.sg/scse"
 
 # your resume. this file path should be relative to you "static" directory
 # Dreprecated. Use resourceLinks instead.
 # resume: "files/resume.pdf"
 
 # a summary about you
-summary: 'I am a passionate software engineer with x years of working experience. I built OSS tools for [Kubernetes](https://kubernetes.io/) using GO. My tools help people to deploy their workloads in Kubernetes. Sometimes, I work on some fun projects such as writing a theme, etc.'
+summary: 'We are a research group based in the School of Computer Science and Engineering, Nanyang Technological University. We focus on the research, design, and evaluation of networked, energy-efficient, and secure sensing systems found in the Internet of Things (IoT) and its AI-empowered generation (AIoT). Our research has two main sub-directions of IoT sensing systems/applications and security/privacy of AIoT sensing. In the first sub-direction, with a strong experimental focus, we study a number of sensing modalities (e.g., powerline radiation, radio frequency, acoustics, image, thermal, and energy), exploit them to construct system functions and applications. In the second sub-direction, we study the security and privacy of AIoT sensing systems that use machine learning to process the sensed data. Due to the immediate application potential, our research has been funded (or co-funded) externally by government authorities and companies in the ICT, energy, and manufacturing sectors.'
 
 # your social links
 # give as many as you want. use font-awesome for the icons.
-socialLinks:
-- name: Email
-  icon: "fas fa-envelope"
-  url: "example@gmail.com"
+#socialLinks:
+#- name: Email
+#  icon: "fas fa-envelope"
+#  url: "example@gmail.com"
 
-- name: Github
-  icon: "fab fa-github"
-  url: "https://www.github.com/example"
+#- name: Github
+#  icon: "fab fa-github"
+##  url: "https://www.github.com/example"
 
-- name: Stackoverflow
-  icon: "fab fa-stack-overflow"
-  url: "#"
+#- name: Stackoverflow
+#  icon: "fab fa-stack-overflow"
+#  url: "#"
 
-- name: LinkedIn
-  icon: "fab fa-linkedin"
-  url: "#"
+#- name: LinkedIn
+#  icon: "fab fa-linkedin"
+#  url: "#"
 
-- name: Twitter
-  icon: "fab fa-twitter"
-  url: "#"
+#- name: Twitter
+#  icon: "fab fa-twitter"
+#  url: "#"
 
-- name: Facebook
-  icon: "fab fa-facebook"
-  url: "#"
-
-- name: Mastadon
-  icon: "fab fa-mastodon"
-  url: "#"
-  rel: "me noopener"
-
-# You can put custom buttons to link your relevant resources.
-# For example, you can put link for your resume.
-resourceLinks:
-- title: "My Resume"
-  url: "files/resume.pdf"
 
 # Show your badges
 # You can show your verifiable certificates from https://www.credly.com.
 # You can also show a circular bar indicating the level of expertise on a certain skill
 badges:
-- type: certification
-  name: Certified Kubernetes Security Specialist
-  url: "https://www.credly.com/org/the-linux-foundation/badge/exam-developer-certified-kubernetes-security-specialist"
-  badge: "https://images.credly.com/size/680x680/images/f4bf92ed-8985-40b2-bc07-2f9308780854/kubernetes-security-specialist-logo-examdev.png"
+#- type: certification
+#  name: Certified Kubernetes Security Specialist
+#  url: "https://www.credly.com/org/the-linux-foundation/badge/exam-developer-certified-kubernetes-security-specialist"
+#  badge: "https://images.credly.com/size/680x680/images/f4bf92ed-8985-40b2-bc07-2f9308780854/kubernetes-security-specialist-logo-examdev.png"
 
-- type: certification
-  name: Istio and IBM Cloud Kubernetes Service
-  url: "https://www.credly.com/org/the-linux-foundation/badge/exam-developer-certified-kubernetes-security-specialist"
-  badge: "https://images.credly.com/size/680x680/images/8d34d489-84bf-4861-a4a0-9e9d68318c5c/Beyond_basics_of_Istio_on_Cloud_v2.png"
+#- type: certification
+ # name: Istio and IBM Cloud Kubernetes Service
+#  url: "https://www.credly.com/org/the-linux-foundation/badge/exam-developer-certified-kubernetes-security-specialist"
+#  badge: "https://images.credly.com/size/680x680/images/8d34d489-84bf-4861-a4a0-9e9d68318c5c/Beyond_basics_of_Istio_on_Cloud_v2.png"
 
-- type: certification
-  name: Artificial Intelligence and Machine Learning
-  url: "https://www.credly.com/org/grupo-bancolombia/badge/artificial-intelligence-and-machine-learning"
-  badge: "https://images.credly.com/size/680x680/images/e027514f-9d07-4b29-862f-fe21a8aaebf1/ae.png"
+#- type: certification
+#  name: Artificial Intelligence and Machine Learning
+#  url: "https://www.credly.com/org/grupo-bancolombia/badge/artificial-intelligence-and-machine-learning"
+#  badge: "https://images.credly.com/size/680x680/images/e027514f-9d07-4b29-862f-fe21a8aaebf1/ae.png"
 
 - type: soft-skill-indicator
-  name: Leadership
-  percentage: 85
+  name: AIoT 
+  percentage: 100
   color: blue
 
 - type: soft-skill-indicator
-  name: Team Work
-  percentage: 90
+  name: Sensing for resilient system
+  percentage: 100
   color: yellow
 
 - type: soft-skill-indicator
-  name: Hard Working
-  percentage: 85
+  name: Energy management in data centers
+  percentage: 100
   color: orange
 
 # you can also provide color code instead of the color name
-# - type: soft-skill-indicator
-#   name: Example 1
-#   percentage: 75
-#   color: "#00adb5"
+- type: soft-skill-indicator
+  name: Secure sensing and control in smart grids
+  percentage: 100
+  color: "#00adb5"
+
+- type: soft-skill-indicator
+  name: Cyber-physical systems
+  percentage: 100
+  color: pink
+
+- type: soft-skill-indicator
+  name: Mobile computing
+  percentage: 100
+  color: "#CCCCFF"

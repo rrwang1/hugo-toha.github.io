@@ -1,6 +1,6 @@
 # section information
 section:
-  name: Skills
+  name: Recent research
   id: skills
   enable: true
   weight: 2
@@ -11,39 +11,31 @@ section:
 # Your Skills.
 # Give a summary of you each skill in the summary section.
 skills:
-- name: Kubernetes
-  logo: /images/sections/skills/kubernetes.png
-  summary: "Capable of deploying, managing application on Kubernetes. Experienced in writing Kubernetes controllers for CRDs."
+- name: Powerline radiation sensing
+  logo: /images/research/powerline.png
+  summary: "Our research exploits electric and magnetic fields from civil powerlines for localization, device authentication, natural timestamping, and clock synchronization,  of indoor and wearable IoT objects."
   url: "https://kubernetes.io/"
 
-- name: Go Development
-  logo: /images/sections/skills/go.png
-  summary: "Using as the main language for professional development. Capable of writing scalable, testable, and maintainable program."
+- name: LoRa radio sensing
+  logo: /images/research/lora.png
+  summary: "We sense the arrival time, frequency bias, and strength of LoRa signal for data timestamping, network security, and object localization."
   url: "https://golang.org/"
 
-- name: Cloud Computing
-  logo: /images/sections/skills/cloud.png
-  summary: "Worked with most of the major clouds such as GCP, AWS, Azure etc."
+- name: Acoustic and imagery sensing
+  logo: /images/research/audio.png
+  summary: "By deep learning, we develop coordinated signal processing algorithms running on IoT objects and edge/cloud servers for image-based object detection, indoor localization, and voice recognition systems."
 
-- name: Docker
-  logo: /images/sections/skills/docker.svg
-  summary: "Write most of the programs as dockerized container. Experienced with multi-stage, multi-arch build process."
+- name: Building sensing
+  logo: /images/research/building.png
+  summary: "Our research work provides enabling technologies for implementing very energy-efficient data centers in Singapore’s year-round hot and humid tropical condition."
   url: "https://www.docker.com/"
 
-- name: Prometheus
-  logo: /images/sections/skills/prometheus.png
-  summary: "Capable of setup, configure Prometheus metrics. Experienced with PromQL, AlertManager. Also, experienced with writing metric exporters."
+- name: Secure sensing in AIoT
+  logo: /images/research/secure.png
+  summary: "We design and implement countermeasures that can be used by resource-constrained IoT devices against the adversarial example attack."
   url: "https://prometheus.io/"
 
-- name: Linux
-  logo: /images/sections/skills/linux.png
-  summary: "Using as the main operating system. Capable of writing bash/shell scripts."
+- name: Privacy-preserving sensing
+  logo: /images/research/datacenter.png
+  summary: "Our approaches for resource-constrained IoT sensors enable deep neural network-based learning and inference on sensing data while protecting the users’ privacy."
 
-- name: Git
-  logo: /images/sections/skills/git.png
-  summary: "Experienced with git-based development. Mostly, use Github. Also, have experience in working with GitLab."
-  url: "https://git-scm.com/"
-
-- name: C++
-  logo: /images/sections/skills/c++.png
-  summary: "Know basic C/C++ programming. Used for contest programming and problem solving."

@@ -1,82 +1,125 @@
 # section information
 section:
-  name: Publications
+  name: Featured publications
   id: publications
   enable: true
-  weight: 6
+  weight: 3
   showOnNavbar: true
   # Can optionally hide the title in sections
   # hideTitle: true
 
 # filter buttons
-buttons:
-- name: All
-  filter: "all"
-- name: "Machine Learning"
-  filter: "machinelearning"
-- name: "Image Processing"
-  filter: "image-processing"
-- name: Security
-  filter: "security"
+#buttons:
+#- name: All
+#  filter: "all"
+#- name: "Machine Learning"
+#  filter: "machinelearning"
+#- name: "Image Processing"
+#  filter: "image-processing"
+#- name: Security
+#  filter: "security"
 
 # your publications
 publications:
-- title: An Example Paper on Machine Learning
+- title: PhyAug Physics-Directed Data Augmentation for Deep Sensing Model Transfer in Cyber-Physical Systems.
   publishedIn:
-    name: 2020 IEEE Region Symposium (TENSYMP)
-    date: 7 June 2020
-    url: https://example.com
+    name: ACM/IEEE IPSN'21 -- Best Artifact Award Runner-Up
+    #date: Best Artifact Award Runner-Up
+    #url: https://example.com
   authors:
-  - name: Dr. Madman
-    url: https://example.com
-  - name: Dr. Lessmad
-    url: https://example.com
-  - name: Dr. Moremad
-    url: https://example.com
-  - name: Dr. Goodman
-    url: https://example.com
+  - name: Wenjie Luo
+    url: https://www.linkedin.com/in/wen-jie-luo-258899b3/
+  - name: Zhenyu Yan
+    url: https://yanzhenyu.com/
+  - name: Qun Song
+    url: https://song-qun.github.io/
+  - name: Rui Tan
+    url: https://personal.ntu.edu.sg/tanrui/
   paper:
-    summary: Voluptate in id id voluptate laboris. Minim mollit aliquip sit aliqua ut exercitation voluptate eiusmod consequat pariatur sunt enim veniam. Velit esse tempor laboris anim tempor officia. Magna non labore duis do esse sit do ipsum culpa. Officia consequat id non duis culpa dolor. Excepteur magna non nostrud cupidatat aute aliqua aliquip.
-    url: https://example.com
-  categories: ["machinelearning","image-processing"]
-  tags: ["Machine Learning", "Autonomous Driving", "Computer Vision"]
+    summary: Domain shift can greatly degrade the performance of deep model. We exploit the first principle governing the domain shift to augment data for retraining the model. In the case studies of speech recognition, with 5-second unlabelled data collected from the target-domain microphones, we can recover the accuracy losses due to microphone characteristic variations by up to 72%.
+    url: https://arxiv.org/pdf/2104.01160.pdf
+  #categories: ["machinelearning","image-processing"]
+  tags: ["Cyber-physical system", "Nneural networks", "Data augmentation", "Domain adaptation"]
 
-- title: An Sample Paper on Image Processing
+- title: Resilience Bounds of Network Clock Synchronization with Fault Correction
   publishedIn:
-    name: 2020 IEEE Region Symposium (TENSYMP)
-    date: 7 June 2020
-    url: https://example.com
+    name: ACM TOSN'20
+    #date: 7 June 2020
+    #url: https://example.com
   authors:
-  - name: Dr. Madman
-    url: https://example.com
-  - name: Dr. Lessmad
-    url: https://example.com
-  - name: Dr. Moremad
-    url: https://example.com
-  - name: Dr. Goodman
-    url: https://example.com
-  paper:
-    summary: Ullamco magna minim cupidatat Lorem ea ex aliqua fugiat et. Dolor quis cillum ea duis irure et commodo aliquip consectetur ullamco labore ut anim nisi. Commodo reprehenderit est consectetur tempor adipisicing occaecat exercitation amet do aliquip dolor do irure. Labore officia ut magna pariatur reprehenderit et ex sit sunt. Magna proident ullamco adipisicing sit.
-    url: https://example.com
-  categories: ["image-processing"]
-  tags: ["Image Processing", "Computer Vision"]
+  - name: Linshan Jiang
+    url: https://scholar.google.com.sg/citations?user=S01E5-cAAAAJ&hl=en
+  - name: Rui Tan
+    url: https://personal.ntu.edu.sg/tanrui/
+  - name: Arvind Easwaran
+    url: https://personal.ntu.edu.sg/arvinde/
 
-- title: An Example Paper on Security
-  publishedIn:
-    name: 2020 IEEE Region Symposium (TENSYMP)
-    date: 7 June 2020
-    url: https://example.com
-  authors:
-  - name: Dr. Madman
-    url: https://example.com
-  - name: Dr. Lessmad
-    url: https://example.com
-  - name: Dr. Moremad
-    url: https://example.com
-  - name: Dr. Goodman
-    url: https://example.com
   paper:
-    summary: Dolor ad cupidatat pariatur nulla ipsum ex ullamco nisi anim ullamco. Dolore elit esse in exercitation minim aliqua. Amet velit incididunt magna laboris. Proident reprehenderit deserunt ad officia duis dolor. Tempor nostrud ullamco ullamco sint deserunt cupidatat irure minim consectetur nulla adipisicing sunt.
-    url: https://example.com
-  categories: ["security"]
-  tags: ["Machine Learning", "Autonomous Driving", "Machine Vision"]
+    summary: Naturally occurring disturbances and malicious attacks can lead to faults in synchronizing the clocks of two network nodes. In this work, we investigate the fundamental resilience bounds of network clock synchronization for a system of N nodes against the peer-to-peer synchronization faults. The analysis in the work provides basic understanding and useful guidelines to the design of resilient clock synchronization systems.
+    url: https://personal.ntu.edu.sg/tanrui/pub/ncs-bounds.pdf
+  #categories: ["image-processing"]
+  tags: ["Clock synchronization", "Fault tolerance","Bounds","Wireless sensor networks"]
+
+- title: Attack-Aware Data Timestamping in Low-Power Synchronization-Free LoRaWAN
+  publishedIn:
+    name: IEEE ICDCS'20
+    #date: 7 June 2020
+    #url: https://example.com
+  authors:
+  - name: Chaojie Gu
+    url: https://chaojiegu.github.io/
+  - name: Linshan Jiang
+    url: https://scholar.google.com.sg/citations?user=S01E5-cAAAAJ&hl=en
+  - name: Rui Tan
+    url: https://personal.ntu.edu.sg/tanrui/
+  - name: Mo Li
+    url: https://personal.ntu.edu.sg/limo/
+  - name: Jun Huang
+    url: https://ceca.pku.edu.cn/en/people_/others_/1228175.htm
+  paper:
+    summary: Maintaining tight clock synchronization of LoRaWAN end devices for data timestamping is costly due to limited bandwidth. We show that timestamping based on uplink frame arrival time at the gateway is efficient but can be insecure. We design a gateway added with the RTL-SDR to analyze the bias of the uplink carrier frequency to improve the security of gateway-side data timestamping.
+    url: https://tanrui.github.io/pub/timestamping-ICDCS20.pdf
+  #categories: ["security"]
+  tags: ["Frequency modulation","Distributed databases","Signal processing algorithms","Logic gates"]
+
+- title: Moving Target Defense for Embedded Deep Visual Sensing against Adversarial Examples
+  publishedIn:
+    name: ACM SenSys'19
+    #date: 7 June 2020
+    #url: https://example.com
+  authors:
+  - name: Qun Song
+    url: https://song-qun.github.io/
+  - name: Zhenyu Yan
+    url: https://yanzhenyu.com/
+  - name: Rui Tan
+    url: https://personal.ntu.edu.sg/tanrui/
+
+  paper:
+    summary: Deep learning-based visual sensing is vulnerable to adversarial examples, which are slightly perturbed inputs to mislead classification models. We follow the moving target defense method to generate multiple new deep models after system deployment, that will collaboratively detect and thwart adversarial examples. It significantly increases the bar of successful attacks. We also apply serial data fusion with early stopping to reduce the inference time.
+    url: https://personal.ntu.edu.sg/tanrui/pub/deepMTD.pdf
+  #categories: ["security"]
+  tags: ["Neural networks","Adversarial examples","Moving target defense"]
+
+- title: Towards Touch-to-Access Device Authentication Using Induced Body Electric Potentials
+  publishedIn:
+    name: ACM MobiCom'19
+    #date: 7 June 2020
+    #url: https://example.com
+  authors:
+  - name: Zhenyu Yan
+    url: https://yanzhenyu.com/
+  - name: Qun Song
+    url: https://song-qun.github.io/
+  - name: Rui Tan
+    url: https://personal.ntu.edu.sg/tanrui/
+  - name: Yang Li
+    url: https://dl.acm.org/profile/99659314549
+  - name: Adams Wai Kin Kong
+    url: https://personal.ntu.edu.sg/AdamsKong/
+
+  paper:
+    summary: We design a device authentication system in which the user wearing a token device can be granted access to touchable IoT objects in indoor environments. Our design exploits the complex time-periodic electric field generated by the powerlines distributed in the indoor space and the coupling between the field and the human body.
+    url: https://personal.ntu.edu.sg/tanrui/pub/mobicom022-yanA.pdf
+  #categories: ["security"]
+  tags: ["Device authentication","Wearables","Induced body electric potential"]
