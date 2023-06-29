@@ -1,6 +1,6 @@
 # section information
 section:
-  name: Recent research
+  name: Recent Research
   id: skills
   enable: true
   weight: 2

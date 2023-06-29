@@ -2,14 +2,14 @@
 title: Bash Variables
 weight: 210
 menu:
-  notes:
-    name: Variables
-    identifier: notes-bash-variables
-    parent: notes-bash
+  sidebar:
+    name: Journel
+    identifier: journel
+    parent: publics
     weight: 10
 ---
-
 <!-- Variable -->
+
 {{< note title="Variable" >}}
 
 ```bash
@@ -22,6 +22,7 @@ echo "${NAME}
 {{< /note >}}
 
 <!-- Condition -->
+
 {{< note title="Condition" >}}
 
 ```bash

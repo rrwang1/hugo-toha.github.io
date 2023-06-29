@@ -1,6 +1,6 @@
 # section information
 section:
-  name: Featured publications
+  name: Featured Publications
   id: publications
   enable: true
   weight: 3
@@ -21,7 +21,7 @@ section:
 
 # your publications
 publications:
-- title: PhyAug Physics-Directed Data Augmentation for Deep Sensing Model Transfer in Cyber-Physical Systems.
+- title: PhyAug Physics Directed Data Augmentation for Deep Sensing Model Transfer in Cyber-Physical Systems.
   publishedIn:
     name: ACM/IEEE IPSN'21 -- Best Artifact Award Runner-Up
     #date: Best Artifact Award Runner-Up

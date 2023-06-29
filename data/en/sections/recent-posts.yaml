@@ -4,7 +4,7 @@ section:
   id: recent-posts
   enable: true
   weight: 4
-  showOnNavbar: false
+  showOnNavbar: true
   numShow: 3 # Can optionally increase the number of posts to display (default: 3)
   showMoreButton: true #Can optionally show 'More Posts' button (default: false
 
