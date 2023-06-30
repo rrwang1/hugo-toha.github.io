@@ -50,22 +50,22 @@ achievements:
   url: https://youtu.be/6oASB6e-uTg
   summary: Attack-Aware Data Timestamping in Low-Power Synchronization-Free LoRaWAN. Chaojie Gu, Linshan Jiang, Rui Tan, Mo Li, Jun Huang. The 40th IEEE International Conference on Distributed Computing Systems (ICDCS), July 8-10, 2020, Singapore.
 
-- title: Demo video of residential power usage monitoring
-  image: /images/section/monitor.png
-  url: https://youtu.be/4sSZaaV0Kv4
-  summary: Unsupervised Residential Power Usage Monitoring using a Wireless Sensor Network. Rui Tan, Dennis E. Phillips; Mohammad-Mahdi Moazzami; Guoliang Xing; Jinzhu Chen. ACM Transactions on Sensor Networks (TOSN). Vol. 13, No. 3, September 2017.
+#- title: Demo video of residential power usage monitoring
+#  image: /images/section/monitor.png
+#  url: https://youtu.be/4sSZaaV0Kv4
+#  summary: Unsupervised Residential Power Usage Monitoring using a Wireless Sensor Network. Rui Tan, Dennis E. Phillips; Mohammad-Mahdi Moazzami; Guoliang Xing; Jinzhu Chen. ACM Transactions on Sensor Networks (TOSN). Vol. 13, No. 3, September 2017.
 
-- title: Code package of PhyAug
-  image: /images/section/phy.png
-  url: https://github.com/jiegev5/PhyAug
-  summary: PhyAug Physics-Directed Data Augmentation for Deep Sensing Model Transfer in Cyber-Physical Systems. Wenjie Luo, Zhenyu Yan, Qun Song, Rui Tan. The 20th ACM/IEEE International Conference on Information Processing in Sensor Networks (IPSN), May 18-21, Nashville, Tennessee, USA. CPS-IoT Week 2021.
+#- title: Code package of PhyAug
+#  image: /images/section/phy.png
+#  url: https://github.com/jiegev5/PhyAug
+#  summary: PhyAug Physics-Directed Data Augmentation for Deep Sensing Model Transfer in Cyber-Physical Systems. Wenjie Luo, Zhenyu Yan, Qun Song, Rui Tan. The 20th ACM/IEEE International Conference on Information Processing in Sensor Networks (IPSN), May 18-21, Nashville, Tennessee, USA. CPS-IoT Week 2021.
 
-- title: Code package of Sardino
-  image: /images/section/sardino.png
-  url: https://github.com/song-qun/HyperNetwork
-  summary: Sardino Ultra-Fast Dynamic Ensemble for Secure Visual Sensing at Mobile Edge. Qun Song, Zhenyu Yan, Wenjie Luo, Rui Tan. The International Conference on Embedded Wireless Systems and Networks (EWSN 2022).
+#- title: Code package of Sardino
+#  image: /images/section/sardino.png
+#  url: https://github.com/song-qun/HyperNetwork
+#  summary: Sardino Ultra-Fast Dynamic Ensemble for Secure Visual Sensing at Mobile Edge. Qun Song, Zhenyu Yan, Wenjie Luo, Rui Tan. The International Conference on Embedded Wireless Systems and Networks (EWSN 2022).
 
-- title: Code package of ObfNet
-  image: /images/section/obfnet.png
-  url: https://github.com/ntu-aiot/ObfNet
-  summary: Lightweight and Unobtrusive Data Obfuscation at IoT Edge for Remote Inference. Dixing Xu, Mengyao Zheng; Linshan Jiang, Chaojie Gu, Rui Tan, Peng Cheng. IEEE Internet of Things Journal. Special Issue on Artificial Intelligence Powered Edge Computing for Internet of Things. Vol. 7, No. 10, October 2020.
+#- title: Code package of ObfNet
+#  image: /images/section/obfnet.png
+#  url: https://github.com/ntu-aiot/ObfNet
+#  summary: Lightweight and Unobtrusive Data Obfuscation at IoT Edge for Remote Inference. Dixing Xu, Mengyao Zheng; Linshan Jiang, Chaojie Gu, Rui Tan, Peng Cheng. IEEE Internet of Things Journal. Special Issue on Artificial Intelligence Powered Edge Computing for Internet of Things. Vol. 7, No. 10, October 2020.

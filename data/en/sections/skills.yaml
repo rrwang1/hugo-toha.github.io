@@ -1,9 +1,9 @@
 # section information
 section:
-  name: Recent Projects
+  name: Group News
   id: skills
   enable: true
-  weight: 2
+  weight: 6
   showOnNavbar: true
   # Can optionally hide the title in sections
   # hideTitle: true
@@ -11,30 +11,26 @@ section:
 # Your Skills.
 # Give a summary of you each skill in the summary section.
 skills:
-- name: Privacy-preserving sensing
-  logo: /images/research/datacenter.png
-  summary: "Our approaches for resource-constrained IoT sensors enable deep neural network-based learning and inference on sensing data while protecting the users’ privacy."
+- name: Group member Wenjie completed his PhD defense
+  logo: /images/section/ntulogo.png
+  summary: "Wenjie completed his PhD defense on June 27th 2023."
 
-- name: Acoustic and imagery sensing
-  logo: /images/research/audio.png
-  summary: "By deep learning, we develop coordinated signal processing algorithms running on IoT objects and edge/cloud servers for image-based object detection, indoor localization, and voice recognition systems."
+- name: ACM e-Energy'23 successfully concluded
+  logo: /images/section/eenergy2023-logo.png
+  summary: "ACM e-Energy'23 held at Orlando has been successfully concluded, where Prof. Rui Tan served as a TPC Co-Chair."
+ 
+- name: BubCam won best paper award at ICCPS'23
+  logo: /images/section/iccps.jpg
+  summary: "Jiale's work BubCam won best paper award at The 14th ACM/IEEE International Conference on Cyber Physical System."
 
-- name: Powerline radiation sensing
-  logo: /images/research/powerline.png
-  summary: "Our research exploits electric and magnetic fields from civil powerlines for localization, device authentication, natural timestamping, and clock synchronization,  of indoor and wearable IoT objects."
-  url: "https://kubernetes.io/"
+- name: Group members presented at CPS-IoT Week'23
+  logo: /images/section/cpsweek-23.png
+  summary: "Jiale Chen, Wenjie Luo, and Yimin Dai presented their works at CPS-IoT Week'23."
 
-- name: Building sensing
-  logo: /images/research/building.png
-  summary: "Our research work provides enabling technologies for implementing very energy-efficient data centers in Singapore’s year-round hot and humid tropical condition."
-  url: "https://www.docker.com/"
+- name: Group members and alumni presented papers on SenSys'22
+  logo: /images/section/sensys.png
+  summary: "Linshan and alumni Qun and Zhenyu presented their works on SenSys 2022, Boston."
 
-- name: Secure sensing in AIoT
-  logo: /images/research/secure.png
-  summary: "We design and implement countermeasures that can be used by resource-constrained IoT devices against the adversarial example attack."
-  url: "https://prometheus.io/"
-
-- name: LoRa radio sensing
-  logo: /images/research/lora.png
-  summary: "We sense the arrival time, frequency bias, and strength of LoRa signal for data timestamping, network security, and object localization."
-  url: "https://golang.org/"
+- name: PriMask is selected as SenSys 2022 Best Paper Candidate
+  logo: /images/section/sensys.png
+  summary: "Linshan's work PriMask is selected as SenSys 2022 Best Paper Candidate."

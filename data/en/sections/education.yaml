@@ -4,14 +4,14 @@ section:
   id: education
   template: sections/education.html # Use "sections/education-alt.html for alternate template.
   enable: true
-  weight: 6
+  weight: 7
   showOnNavbar: true
   # Can optionally hide the title in sections
   # hideTitle: true
 
 degrees:
 - #name: Conference and workshop
-  icon: fa-file-contract
+  icon: fa-file-invoice
   institution:
     name: Conference and workshop
   publications: 
@@ -165,7 +165,7 @@ degrees:
     url: https://dr.ntu.edu.sg/bitstream/10356/161165/2/thesis.pdf
   
 - #name: Secondary School Certificate
-  icon: fa-open-cover
+  icon: fa-book-bookmark
   institution:
     name: Book chapters
   publications:
@@ -174,7 +174,7 @@ degrees:
   - title: Time Synchronization Management for Wide-Area Applications. Zhenyu Yan, Yang Li, and Rui Tan. Intelligent IoT for the Digital World (Eds. Yang Yang, Xu Chen, Rui Tan, Yong Xiao). Wiley. In production.
 
 - #name: Secondary School Certificate
-  icon: fa-chart-pie
+  icon: fa-chart-line
   institution:
     name: Technical report
   publications:
