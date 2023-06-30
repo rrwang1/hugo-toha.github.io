@@ -16,7 +16,7 @@ mermaid: true
 |&nbsp;|&nbsp;|
 |{{< img src="/notes/member/chaojie_gu.jpg" alt="image alt" width="100px" height="125px" position="center">}}| &nbsp;[Chaojie Gu](https://chaojiegu.github.io/)</br>&nbsp;PhD student and Research Fellow</br>&nbsp;Joined the faculty of ZJU in 2021|
 |&nbsp;|&nbsp;|
-|{{< img src="notes/member/qiping_yang.jpg" alt="image alt" width="100px" height="125px" position="center">}}| &nbsp;Joy Qiping Yang</br>&nbsp;Project officer|
+|{{< img src="/notes/member/qiping_yang.jpg" alt="image alt" width="100px" height="125px" position="center">}}| &nbsp;Joy Qiping Yang</br>&nbsp;Project officer|
 |&nbsp;|&nbsp;|
 |{{< img src="/notes/member/qun_song.jpg" alt="image alt" width="100px" height="125px" position="center">}}| &nbsp;[Qun Song](https://song-qun.github.io/)</br>&nbsp;PhD student</br>&nbsp;Joined the faculty of TU Delft in 2022|
 |&nbsp;|&nbsp;|
