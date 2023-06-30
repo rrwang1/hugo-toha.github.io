@@ -97,12 +97,12 @@ params:
       enable: true
       # Share post on different social media
       shareButtons:
-        facebook: true
-        twitter: true
-        linkedin: true
-        reddit: true
-        whatsapp: true
-        email: true
+        facebook: false
+        twitter: false
+        linkedin: false
+        reddit: false
+        whatsapp: false
+        email: false
         # tumblr: true
         # pocket: true
         # diaspora: true
@@ -275,15 +275,15 @@ params:
       enable: false
     # Show/hide credentials section in the footer. Default is "true".
     credentials:
-      enable: true
+      enable: false
 
     # Show/hide newsletter section in the footer. Default is "true".
     # Currently, it supports "mailchimp".
     newsletter:
-      enable: false
+      enable: true
       #provider: mailchimp
-      mailchimpURL: https://github.us1.list-manage.com/subscribe/post?u=19de52a4603135aae97163fd8&amp;id=094a24c76e
+      mailchimpURL: https://personal.ntu.edu.sg/tanrui/publication.html
 
     # Show/hide disclaimer notice in the footer. Default is "false".
     disclaimer:
-      enable: false
+      enable: true
