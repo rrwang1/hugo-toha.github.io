@@ -19,15 +19,15 @@ categories: ["Basic"]
 {{< vs 3 >}}
 
 
-{{< img src="/posts/gallery/jiale-iccps-23.jpg" height="400" width="600" align="center" title="Jiale Chen" >}}
+{{< img src="/posts/gallery/jiale-iccps-23.jpg" align="center" title="Jiale Chen" >}}
 
 {{< vs 3 >}}
 
-{{< img src="/posts/gallery/di-cps.png" height="400" width="600" align="center" title="Wenjie Luo" >}}
+{{< img src="/posts/gallery/di-cps.png" align="center" title="Wenjie Luo" >}}
 
 {{< vs 3 >}}
 
-{{< img src="/posts/gallery/yimin-ipsn-23.jpg" height="400" width="600" align="center" title="Yimin Dai" >}}
+{{< img src="/posts/gallery/yimin-ipsn-23.jpg" align="center" title="Yimin Dai" >}}
 
 {{< vs 3 >}}
 

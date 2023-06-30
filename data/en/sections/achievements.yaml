@@ -1,25 +1,71 @@
 # section information
 section:
-  name: More About Us
+  name: Application Showcase
   id: achievements
-  enable: false
-  weight: 3
+  enable: true
+  weight: 4
   showOnNavbar: true
   # Can optionally hide the title in sections
   # hideTitle: true
 
 # Your achievements achievements
 achievements:
-- title: Research Projects
-  image: /images/section/research.png
-  #summary: Best presenter in the 2020 XYZ conference.
-- title: Publications
-  image: /images/section/publish.png
-  url: https://personal.ntu.edu.sg/tanrui/pub/mobicom022-yanA.pdf
-  #summary: Champion in cycling inter-city cycling championship 2020.
-- title: Group Members
-  image: /images/section/member.png
-  #summary: Received Bachelor of Science (B.Sc.) in Computer Science and Engineer from XYZ University.
-- title: Call for undergrads
-  image: /images/section/admission.png
-  #summary: Wined best paper award at IEE Conference 2020.
+- title: Video demo of EchoLoc
+  image: /images/section/echoloc.png
+  url: https://youtu.be/5si0Cq6LzT4
+  summary: Demo Abstract Infrastructure-Free Smartphone Indoor Localization Using Room Acoustic Responses. Dongfang Guo, Wenjie Luo; Chaojie Gu; Yuting Wu; Qun Song; Zhenyu Yan; Rui Tan. The 19th ACM Conference on Embedded Networked Sensor Systems (SenSys), November 15-17, 2021, Coimbra, Portugal.
+
+- title: Video demo of EMRLoc
+  image: /images/section/emrloc.png
+  url: https://www.youtube.com/watch?v=8hM7MU6myAo
+  summary: Demo Abstract 3D Simultaneous Localization and Mapping with Power Network Electromagnetic Radiation. Rongrong Wang, Zhenyu Yan, Yuting Wu, Rui Tan, Chris Xiaoxuan Lu. The 21st ACM/IEEE International Conference on Information Processing in Sensor Networks (IPSN), May 4-6, 2022, Milan, Italy.
+
+- title: Presentation of Industrial AIoT at HP Factories
+  image: /images/section/airbubble.png
+  url: https://youtu.be/mtIhYpzSe4I
+  summary: Improving Quality Control with Industrial AIoT at HP Factories Experiences and Learned Lessons. xJoy Qiping Yang, Siyuan Zhou; Duc Van Le; Daren Ho; Rui Tan. International Conference on Sensing, Communication and Networking (SECON), July 6-9, 2021, held online.
+
+- title: Presentation of EFCam
+  image: /images/section/efcam.png
+  url: https://www.youtube.com/watch?v=gX5YxFSjGhw
+  summary: EFCam Configuration-Adaptive Fog-Assisted Wireless Cameras with Reinforcement Learning. Siyuan Zhou, Duc Van Le, Joy Qiping Yang, Rui Tan, Daren Ho. International Conference on Sensing, Communication and Networking (SECON), July 6-9, 2021, held online. 
+
+- title: Presentation of PhyAug
+  image: /images/section/phyaug.png\
+  url: https://www.youtube.com/watch?v=LcIVBRx4x-o
+  summary: PhyAug Physics-Directed Data Augmentation for Deep Sensing Model Transfer in Cyber-Physical Systems. Wenjie Luo, Zhenyu Yan, Qun Song, Rui Tan. The 20th ACM/IEEE International Conference on Information Processing in Sensor Networks (IPSN), May 18-21, Nashville, Tennessee, USA. CPS-IoT Week 2021.
+
+- title: Presentation of air free-cooled tropical data center
+  image: /images/section/afctdc.png
+  url: https://www.youtube.com/watch?app=desktop&v=xZzyC-oh1ec&list=PL6jLuiS6wP5Yp7Ls3rP-EnPbDrDpDiQdJ&index=6
+  summary: Experiences and Learned Lessons from an Air Free-Cooled Tropical Data Center Testbed. Duc Van Le, Yingbo Liu, Rongrong Wang, Rui Tan, Lek Heng Ngoh. The 7th ACM International Conference on Systems for Energy-Efficient Built Environments (BuildSys), November 16-19, 2020, Yokohama, Japan.
+
+- title: Presentation of cooling power attribution for co-located data center
+  image: /images/section/colodc.png
+  url: https://www.youtube.com/watch?app=desktop&v=hx84yNh0Shc&list=PL6jLuiS6wP5Yp7Ls3rP-EnPbDrDpDiQdJ&index=5
+  summary: Real-Time Cooling Power Attribution for Co-located Data Center Rooms with Distinct Temperatures. Rongrong Wang, Duc Van Le, Rui Tan, Yew-Wah Wong, Yonggang Wen. The 7th ACM International Conference on Systems for Energy-Efficient Built Environments (BuildSys), November 16-19, 2020, Yokohama, Japan.
+
+- title: Presentation of LoRaWAN
+  image: /images/section/lorawan.png
+  url: https://youtu.be/6oASB6e-uTg
+  summary: Attack-Aware Data Timestamping in Low-Power Synchronization-Free LoRaWAN. Chaojie Gu, Linshan Jiang, Rui Tan, Mo Li, Jun Huang. The 40th IEEE International Conference on Distributed Computing Systems (ICDCS), July 8-10, 2020, Singapore.
+
+- title: Demo video of residential power usage monitoring
+  image: /images/section/monitor.png
+  url: https://youtu.be/4sSZaaV0Kv4
+  summary: Unsupervised Residential Power Usage Monitoring using a Wireless Sensor Network. Rui Tan, Dennis E. Phillips; Mohammad-Mahdi Moazzami; Guoliang Xing; Jinzhu Chen. ACM Transactions on Sensor Networks (TOSN). Vol. 13, No. 3, September 2017.
+
+- title: Code package of PhyAug
+  image: /images/section/phy.png
+  url: https://github.com/jiegev5/PhyAug
+  summary: PhyAug Physics-Directed Data Augmentation for Deep Sensing Model Transfer in Cyber-Physical Systems. Wenjie Luo, Zhenyu Yan, Qun Song, Rui Tan. The 20th ACM/IEEE International Conference on Information Processing in Sensor Networks (IPSN), May 18-21, Nashville, Tennessee, USA. CPS-IoT Week 2021.
+
+- title: Code package of Sardino
+  image: /images/section/sardino.png
+  url: https://github.com/song-qun/HyperNetwork
+  summary: Sardino Ultra-Fast Dynamic Ensemble for Secure Visual Sensing at Mobile Edge. Qun Song, Zhenyu Yan, Wenjie Luo, Rui Tan. The International Conference on Embedded Wireless Systems and Networks (EWSN 2022).
+
+- title: Code package of ObfNet
+  image: /images/section/obfnet.png
+  url: https://github.com/ntu-aiot/ObfNet
+  summary: Lightweight and Unobtrusive Data Obfuscation at IoT Edge for Remote Inference. Dixing Xu, Mengyao Zheng; Linshan Jiang, Chaojie Gu, Rui Tan, Peng Cheng. IEEE Internet of Things Journal. Special Issue on Artificial Intelligence Powered Edge Computing for Internet of Things. Vol. 7, No. 10, October 2020.

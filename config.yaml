@@ -35,10 +35,10 @@ markup:
   goldmark:
     renderer:
       unsafe: true
-  tableOfContents:
-    startLevel: 2
-    endLevel: 6
-    ordered: true
+  tableOfContents: 
+    startLevel: 1
+    endLevel: 1
+    ordered: false
 
 # At least HTML and JSON are required for the main HTML content and
 # client-side JavaScript search
@@ -70,8 +70,9 @@ params:
 
   # Configure the number of section title visible in the top navbar
   topNavbar:
-    maxVisibleSections: 10
+    maxVisibleSections: 5
 
+  enableTOC: false
   # Configure various features of this theme
   features:
 
@@ -90,19 +91,19 @@ params:
 
     # Enable and configure portfolio
     portfolio:
-      enable: true
+      enable: false
 
     # Enable and configure blog posts
     blog:
       enable: true
       # Share post on different social media
-      shareButtons:
-        facebook: false
-        twitter: false
-        linkedin: false
-        reddit: false
-        whatsapp: false
-        email: false
+      #shareButtons:
+      #  facebook: true
+       # twitter: true
+       # linkedin: true
+      #  reddit: true
+       # whatsapp: true
+       # email: true
         # tumblr: true
         # pocket: true
         # diaspora: true
@@ -181,7 +182,7 @@ params:
 
     # specify whether you want to show Table of Contents in reading page
     toc:
-      enable: true
+      enable: false
 
     # Show tags under the post title
     tags:
@@ -241,7 +242,7 @@ params:
     #   codeFences: false
     # ```
     syntaxHighlight:
-      enable: true
+      enable: false
       services:
         hljs:
           # see: https://highlightjs.readthedocs.io/en/latest/api.html#configure
@@ -269,7 +270,11 @@ params:
     navigation:
       enable: true
       # show custom menus in the footer
-      customMenus: true
+      customMenus: 
+        enable: true
+        name: test
+        hideFromNavbar: true
+        showOnFooter: false
     # Show/hide "Contact Me" section in the footer. Default is "true".
     contactMe:
       enable: false
@@ -280,9 +285,9 @@ params:
     # Show/hide newsletter section in the footer. Default is "true".
     # Currently, it supports "mailchimp".
     newsletter:
-      enable: true
+      enable: false
       #provider: mailchimp
-      mailchimpURL: https://personal.ntu.edu.sg/tanrui/publication.html
+      #mailchimpURL: https://personal.ntu.edu.sg/tanrui/publication.html
 
     # Show/hide disclaimer notice in the footer. Default is "false".
     disclaimer:

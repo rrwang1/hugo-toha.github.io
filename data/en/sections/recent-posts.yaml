@@ -3,9 +3,9 @@ section:
   name: Blog
   id: recent-posts
   enable: true
-  weight: 4
-  showOnNavbar: true
-  numShow: 3 # Can optionally increase the number of posts to display (default: 3)
+  weight: 5
+  showOnNavbar: false
+  numShow: 6 # Can optionally increase the number of posts to display (default: 3)
   showMoreButton: true #Can optionally show 'More Posts' button (default: false
 
 # no additional configuration is required

@@ -75,18 +75,18 @@ badges:
   color: yellow
 
 - type: soft-skill-indicator
-  name: Energy management in data centers
+  name: Efficient data centers
   percentage: 100
   color: orange
 
 # you can also provide color code instead of the color name
 - type: soft-skill-indicator
-  name: Secure sensing and control in smart grids
+  name: Secure sensing
   percentage: 100
   color: "#00adb5"
 
 - type: soft-skill-indicator
-  name: Cyber-physical systems
+  name: CPS
   percentage: 100
   color: pink
 

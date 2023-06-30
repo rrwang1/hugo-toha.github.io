@@ -1,6 +1,6 @@
 # section information
 section:
-  name: Recent Research
+  name: Recent Projects
   id: skills
   enable: true
   weight: 2
@@ -11,19 +11,18 @@ section:
 # Your Skills.
 # Give a summary of you each skill in the summary section.
 skills:
-- name: Powerline radiation sensing
-  logo: /images/research/powerline.png
-  summary: "Our research exploits electric and magnetic fields from civil powerlines for localization, device authentication, natural timestamping, and clock synchronization,  of indoor and wearable IoT objects."
-  url: "https://kubernetes.io/"
-
-- name: LoRa radio sensing
-  logo: /images/research/lora.png
-  summary: "We sense the arrival time, frequency bias, and strength of LoRa signal for data timestamping, network security, and object localization."
-  url: "https://golang.org/"
+- name: Privacy-preserving sensing
+  logo: /images/research/datacenter.png
+  summary: "Our approaches for resource-constrained IoT sensors enable deep neural network-based learning and inference on sensing data while protecting the users’ privacy."
 
 - name: Acoustic and imagery sensing
   logo: /images/research/audio.png
   summary: "By deep learning, we develop coordinated signal processing algorithms running on IoT objects and edge/cloud servers for image-based object detection, indoor localization, and voice recognition systems."
+
+- name: Powerline radiation sensing
+  logo: /images/research/powerline.png
+  summary: "Our research exploits electric and magnetic fields from civil powerlines for localization, device authentication, natural timestamping, and clock synchronization,  of indoor and wearable IoT objects."
+  url: "https://kubernetes.io/"
 
 - name: Building sensing
   logo: /images/research/building.png
@@ -35,7 +34,7 @@ skills:
   summary: "We design and implement countermeasures that can be used by resource-constrained IoT devices against the adversarial example attack."
   url: "https://prometheus.io/"
 
-- name: Privacy-preserving sensing
-  logo: /images/research/datacenter.png
-  summary: "Our approaches for resource-constrained IoT sensors enable deep neural network-based learning and inference on sensing data while protecting the users’ privacy."
-
+- name: LoRa radio sensing
+  logo: /images/research/lora.png
+  summary: "We sense the arrival time, frequency bias, and strength of LoRa signal for data timestamping, network security, and object localization."
+  url: "https://golang.org/"

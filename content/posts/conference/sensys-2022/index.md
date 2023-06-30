@@ -7,8 +7,7 @@ menu:
     identifier: sensys-2022
     parent: conference
     weight: 10
-hero: /posts/shortcodes/boat.jpg
-mermaid: true
+hero: /images/site/logo.png
 tags: ["Conference", "SenSys"]
 categories: ["Basic"]
 ---

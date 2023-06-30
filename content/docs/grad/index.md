@@ -2,7 +2,7 @@
 title: "2020"
 date: 2019-11-10
 menu:
-  sidebar:
+  notes:
     name: 2020
     identifier: grad
     parent: docs
@@ -20,7 +20,10 @@ Paper presentation â€œChallenges of Privacy-Preserving Machine Learning in IoTâ€
 
 {{< vs 3 >}}
 
-{{< img src="/posts/gallery/qun_sensys19.jpg" align="center">}}
+{{< img src="/posts/gallery/qun_sensys19.jpg" align="center">}} 
+
+{{< ref "/posts/conference/cps-iot-2023/index.md" >}}
+
 
 {{< vs 3 >}}
 
