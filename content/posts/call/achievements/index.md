@@ -1,12 +1,11 @@
 ---
 title: Undergrad achievements
-weight: 2
+weight: 8
 menu:
   sidebar:
     name: Undergrad achievements
     parent: call
     identifier: achievements
-    weight: 10
 hero: /images/section/achievement.jpg
 ---
 Our group has good interest and records in working with well motivated undergraduate students either from our own School and the external on research topics that we know. We guide them to read literature, perform hands-on work, and write the research report on a selected and timely topic, such that they can make their little but novel and publishable contributions. We believe that a senior undergraduate, if willing to undertake exploratory and challenging tasks, is ready for research. With the above rationale, our group has produced the following research publications driven by undergrads:

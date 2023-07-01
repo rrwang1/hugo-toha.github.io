@@ -1,5 +1,6 @@
 ---
 title: Jiale Chen
+weight: 14
 menu:
   sidebar:
     name: Jiale Chen

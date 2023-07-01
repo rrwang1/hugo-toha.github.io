@@ -1,5 +1,6 @@
 ---
 title: Wenjie Luo
+weight: 12
 menu:
   sidebar:
     name: Wenjie Luo

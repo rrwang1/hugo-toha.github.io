@@ -4,5 +4,4 @@ menu:
   sidebar:
     name: 3. Call for Undergrads
     identifier: call
-    weight: 20
 ---

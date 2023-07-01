@@ -1,5 +1,6 @@
 ---
 title: Dongfang Guo
+weight: 13
 menu:
   sidebar:
     name: Dongfang Guo

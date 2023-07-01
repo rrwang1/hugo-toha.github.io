@@ -4,5 +4,5 @@ menu:
   sidebar:
     name: 2. Members
     identifier: members
-    weight: 20
+
 ---

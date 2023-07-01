@@ -1,12 +1,11 @@
 ---
 title: Faculty
-weight: 1
+weight: 10
 menu:
   sidebar:
     name: Faculty
     identifier: faculty
     parent: members
-    weight: 1
 
 hero: /images/section/faculty.png
 ---

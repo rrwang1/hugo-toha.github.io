@@ -1,12 +1,11 @@
 ---
 title: Huimin Chen
-weight: 4
+weight: 18
 menu:
   sidebar:
     name: Huimin Chen
     identifier: huimin
     parent: visit
-    weight: 5
 hero: /images/section/visit.png
 ---
 {{< img src="/posts/members/photo/huimin_chen.jpg" alt="image alt" width="200px" height="250px" align="center">}}
