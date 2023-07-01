@@ -1,12 +1,14 @@
 ---
 title: Secure sensing in AIoT
-weight: 210
+weight: 2
+date: 2023-07-01
 menu:
   sidebar:
     name: Secure sensing in AIoT
     identifier: secure
     parent: security
-    weight: 10
+    weight: 2
+hero: /images/section/secure.png
 ---
 > Main contributors from the group: Qun Song (topic coordinator), Zhenyu Yan
 

@@ -7,7 +7,7 @@ menu:
     identifier: career qun
     parent: event
     weight: 10
-hero: /posts/shortcodes/boat.jpg
+hero: /images/section/newfac.png
 mermaid: true
 tags: ["Event","Career"]
 categories: ["Basic"]

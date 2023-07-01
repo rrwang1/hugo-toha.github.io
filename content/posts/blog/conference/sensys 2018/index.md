@@ -7,8 +7,7 @@ menu:
     identifier: sensys 2018
     parent: conference
     weight: 10
-hero: /posts/shortcodes/boat.jpg
-mermaid: true
+hero: /images/section/sensys18.png
 tags: ["Workshop", "SenSys"]
 categories: ["Basic"]
 ---

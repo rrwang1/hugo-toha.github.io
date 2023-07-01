@@ -7,7 +7,7 @@ menu:
     identifier: los cabos 2019
     parent: event
     weight: 10
-hero: /posts/shortcodes/boat.jpg
+hero: /images/section/los.jpg
 mermaid: true
 tags: ["Event","scenery","MobiCom"]
 categories: ["Basic"]
@@ -24,7 +24,6 @@ categories: ["Basic"]
 
 {{< vs 3 >}}
 
-
 #### Twilights of Los Cabos.
 
 {{< vs 3 >}}
@@ -32,7 +31,6 @@ categories: ["Basic"]
 {{< img src="/posts/gallery/loscabos1.jpg" align="center">}}
 
 {{< vs 3 >}}
-
 
 #### Sunrise in Cabos.
 
@@ -49,6 +47,5 @@ categories: ["Basic"]
 {{< img src="/posts/gallery/loscabos4.jpg" align="center">}}
 
 {{< vs 3 >}}
-
 
 ---

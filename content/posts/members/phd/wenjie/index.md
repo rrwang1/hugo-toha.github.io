@@ -5,6 +5,8 @@ menu:
     name: Wenjie Luo
     identifier: wenjie
     parent: phd
+
+hero: /images/section/phd.jpg
 ---
 {{< img src="/posts/members/photo/wenjie_luo.jpg" alt="image alt" width="200px" height="250px" align="center">}}
 {{< vs 3 >}}

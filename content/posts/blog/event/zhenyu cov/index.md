@@ -7,7 +7,7 @@ menu:
     identifier: zhenyu cov
     parent: event
     weight: 10
-hero: /posts/shortcodes/boat.jpg
+hero: /images/section/convo.png
 mermaid: true
 tags: ["Event","Convocation"]
 categories: ["Basic"]

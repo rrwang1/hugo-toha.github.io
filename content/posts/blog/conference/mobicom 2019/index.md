@@ -7,8 +7,7 @@ menu:
     identifier: mobicom 2019
     parent: conference
     weight: 10
-hero: /posts/shortcodes/boat.jpg
-mermaid: true
+hero: /images/section/mobicom.jpg
 tags: ["Conference", "MobiCom"]
 categories: ["Basic"]
 ---

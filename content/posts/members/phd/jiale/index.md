@@ -5,6 +5,8 @@ menu:
     name: Jiale Chen
     identifier: jiale
     parent: phd
+
+hero: /images/section/phd.jpg
 ---
 {{< img src="/posts/members/photo/jiale_chen.jpg" alt="image alt" width="200px" height="250px" align="center">}}
 {{< vs 3 >}}

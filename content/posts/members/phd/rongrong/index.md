@@ -5,11 +5,11 @@ menu:
     name: Rongrong Wang
     identifier: rongrong
     parent: phd
----
 
+hero: /images/section/phd.jpg
+---
 {{< img src="/posts/members/photo/rongrong_wang.jpg" alt="image alt" width="200px" height="250px" align="center">}}
 {{< vs 3 >}}
-
 
 - Position: PhD Student, Research Associate
 - Contact: rrwang@ntu.edu.sg

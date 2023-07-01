@@ -7,8 +7,7 @@ menu:
     identifier: isorc 2018
     parent: conference
     weight: 10
-hero: /posts/shortcodes/boat.jpg
-mermaid: true
+hero: /images/section/isorc.png
 tags: ["Workshop", "ISORC"]
 categories: ["Basic"]
 ---

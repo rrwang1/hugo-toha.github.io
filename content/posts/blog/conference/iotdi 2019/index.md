@@ -7,7 +7,7 @@ menu:
     identifier: iotdi 2019
     parent: conference
     weight: 10
-hero: /posts/shortcodes/boat.jpg
+hero: /images/section/iotdi.jpg
 mermaid: true
 tags: ["Conference", "IoTDI"]
 categories: ["Basic"]
@@ -23,7 +23,5 @@ categories: ["Basic"]
 {{< img src="/posts/gallery/iotdi19.jpg" align="center">}}
 
 {{< vs 3 >}}
-
-
 
 ---

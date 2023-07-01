@@ -7,6 +7,7 @@ menu:
     identifier: ipsn 2021
     parent: conference
     weight: 10
+hero: /images/section/ipsn21.png
 tags: ["Conference", "IPSN"]
 categories: ["Basic"]
 ---

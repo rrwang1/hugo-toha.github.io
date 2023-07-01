@@ -16,7 +16,7 @@ skills:
   summary: "Wenjie completed his PhD defense on June 27th 2023."
 
 - name: ACM e-Energy'23 successfully concluded
-  logo: /images/section/eenergy2023-logo.png
+  logo: /images/section/eenergy.png
   summary: "ACM e-Energy'23 held at Orlando has been successfully concluded, where Prof. Rui Tan served as a TPC Co-Chair."
  
 - name: BubCam won best paper award at ICCPS'23
@@ -24,7 +24,7 @@ skills:
   summary: "Jiale's work BubCam won best paper award at The 14th ACM/IEEE International Conference on Cyber Physical System."
 
 - name: Group members presented at CPS-IoT Week'23
-  logo: /images/section/cpsweek-23.png
+  logo: /images/section/cpsweek.png
   summary: "Jiale Chen, Wenjie Luo, and Yimin Dai presented their works at CPS-IoT Week'23."
 
 - name: Group members and alumni presented papers on SenSys'22

@@ -7,7 +7,7 @@ menu:
     identifier: zhenyu award
     parent: event
     weight: 10
-hero: /posts/shortcodes/boat.jpg
+hero: /images/section/acmsigbed.png
 mermaid: true
 tags: ["Event","Career"]
 categories: ["Basic"]

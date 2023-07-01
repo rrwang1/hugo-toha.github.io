@@ -7,6 +7,7 @@ menu:
     identifier: e-Energy 2021 - SECON 2021
     parent: conference
     weight: 10
+hero: /images/section/eenergy.png
 tags: ["Conference", "e-Energy","SECON"]
 categories: ["Basic"]
 ---

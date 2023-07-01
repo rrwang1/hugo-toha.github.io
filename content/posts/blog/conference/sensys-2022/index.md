@@ -7,7 +7,7 @@ menu:
     identifier: sensys-2022
     parent: conference
     weight: 10
-hero: /images/section/sensys.png
+hero: /images/section/sensys22.png
 tags: ["Conference", "SenSys"]
 categories: ["Basic"]
 ---

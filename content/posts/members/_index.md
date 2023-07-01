@@ -1,8 +1,8 @@
 ---
-title: Members
+title: 2. Members
 menu:
   sidebar:
-    name: Members
+    name: 2. Members
     identifier: members
     weight: 20
 ---

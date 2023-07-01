@@ -7,8 +7,7 @@ menu:
     identifier: hawaii 2018
     parent: event
     weight: 10
-hero: /posts/shortcodes/boat.jpg
-mermaid: true
+hero: /images/section/hawaii.jpg
 tags: ["Event","scenery","INFOCOM"]
 categories: ["Basic"]
 ---

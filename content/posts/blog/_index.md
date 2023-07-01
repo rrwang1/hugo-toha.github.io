@@ -1,8 +1,8 @@
 ---
-title: Blog
+title: 4. Blog
 menu:
   sidebar:
-    name: Blog
+    name: 4. Blog
     identifier: blog
     weight: 20
 ---
