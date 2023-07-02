@@ -1,5 +1,5 @@
 # some information about you
-name: "NTU IoT Sensing Group "
+name: "NTU IoT Sensing Group"
 #nickname: "NTU SCSE"
 # greeting message before your name. it will default to "Hi! I am" if not provided
 #greeting: "Hi, we are the NTU IoT Sensing Group."
@@ -12,7 +12,8 @@ image: "/images/site/logo.png"
 #  linkedin: johndoe
 
 # some summary about what you do
-#summary:
+#summary: 
+   #- Webmasters are Chaojie Gu and Zhenyu Yan (06 2020-07 2021); Dongfang Guo and Wenjie Luo (07 2021-06 2023); Rongrong Wang (07 2023-).
 #  - I am a Developer
 #  - I am a Devops
 

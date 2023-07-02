@@ -1,6 +1,6 @@
 # section information
 section:
-  name: Featured Works
+  name: Highlights
   id: publications 
   enable: true
   weight: 3

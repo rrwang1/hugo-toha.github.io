@@ -11,7 +11,7 @@ section:
 designation: 
 # your company information
 company:
-  name: NTU.
+  name: NTU SCSE.
   url: "https://www.ntu.edu.sg/scse"
 
 # your resume. this file path should be relative to you "static" directory
@@ -19,7 +19,7 @@ company:
 # resume: "files/resume.pdf"
 
 # a summary about you
-summary: 'We are a research group based in the School of Computer Science and Engineering, Nanyang Technological University. We focus on the research, design, and evaluation of networked, energy-efficient, and secure sensing systems found in the Internet of Things (IoT) and its AI-empowered generation (AIoT). Our research has two main sub-directions of IoT sensing systems/applications and security/privacy of AIoT sensing. In the first sub-direction, with a strong experimental focus, we study a number of sensing modalities (e.g., powerline radiation, radio frequency, acoustics, image, thermal, and energy), exploit them to construct system functions and applications. In the second sub-direction, we study the security and privacy of AIoT sensing systems that use machine learning to process the sensed data. Due to the immediate application potential, our research has been funded (or co-funded) externally by government authorities and companies in the ICT, energy, and manufacturing sectors.'
+summary: 'We are a research group based in the School of Computer Science and Engineering, Nanyang Technological University. We focus on the research, design, and evaluation of networked, energy-efficient, and secure sensing systems found in the Internet of Things (IoT) and its AI-empowered generation (AIoT). Our research has two main sub-directions of **IoT sensing systems/applications** and **security/privacy of AIoT sensing**. In the first sub-direction, with a strong experimental focus, we study a number of sensing modalities (e.g., powerline radiation, radio frequency, acoustics, image, thermal, and energy), exploit them to construct system functions and applications. In the second sub-direction, we study the security and privacy of AIoT sensing systems that use machine learning to process the sensed data. Due to the immediate application potential, our research has been funded externally by government authorities and companies in the ICT, energy, and manufacturing sectors.'
 
 # your social links
 # give as many as you want. use font-awesome for the icons.
@@ -75,7 +75,7 @@ badges:
   color: yellow
 
 - type: soft-skill-indicator
-  name: Efficient data centers
+  name: Green data centers
   percentage: 100
   color: orange
 
@@ -91,6 +91,6 @@ badges:
   color: pink
 
 - type: soft-skill-indicator
-  name: Mobile computing
+  name: Autonomous driving perception
   percentage: 100
   color: "#CCCCFF"

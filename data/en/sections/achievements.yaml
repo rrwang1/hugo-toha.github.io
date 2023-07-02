@@ -1,6 +1,6 @@
 # section information
 section:
-  name: Application Showcase
+  name: Demos
   id: achievements
   enable: true
   weight: 4

@@ -1,7 +1,7 @@
 baseURL: https://rrwang1.github.io
 
 languageCode: en-us
-title: "NTU IoT Sensing Group"
+title: "NTU IoT Research Group"
 
 # Use Hugo modules to add theme
 module:
@@ -66,7 +66,7 @@ params:
 
   # Configure the number of section title visible in the top navbar
   topNavbar:
-    maxVisibleSections: 4
+    maxVisibleSections: 10
 
   enableTOC: false
   # Configure various features of this theme
@@ -267,7 +267,7 @@ params:
       enable: false
       # show custom menus in the footer
       customMenus: 
-        enable: true
+        enable: false
         name: test
         hideFromNavbar: false
         showOnFooter: true

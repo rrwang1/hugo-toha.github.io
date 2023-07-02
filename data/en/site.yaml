@@ -1,29 +1,24 @@
 # Copyright Notice
-copyright: NTU IoT Sensing Group Copyright © 2021. All rights reserved.
-
-# A disclaimer notice for the footer. Make sure you have set "params.footer.disclaimer.enable: true" in your `config.yaml` file.
-#disclaimer: "This theme is under MIT license. So, you can use it for non-commercial, commercial, or private uses.
-#You can modify or distribute the theme without requiring any permission from the theme author.
-#However, the theme author does not provide any warranty or takes any liability for any issue with the theme."
+copyright: <sub><sup>NTU IoT Research Group Copyright © 2021. All rights reserved. <br /> Webmasters are Chaojie Gu and Zhenyu Yan (06/2020-07/2021);  <br /> Dongfang Guo and Wenjie Luo (07/2021-06/2023); Rongrong Wang (07/2023-).</sup></sub>  
 
 # Meta description for your site.  This will help the search engines to find your site.
-description: NTU IoT Sensing Group.
+description: NTU IoT Research Group.
 
 # specify the list of custom menus that you want to show in the top navbar.
 # they will be separated by a divider from the main menus.
-customMenus:
-- name: Newss
-  url: "#"
+#customMenus:
+#- name: Newss
+ # url: "#"
   # specify whether to hide the menu item from top navbar or not.
-  hideFromNavbar: true
+  #hideFromNavbar: true
   # specify whether to show the menu item in footer or not.
   # if you set it to true, make sure you have set `footer.navigation.customMenus: true` in your config.yaml
-  showOnFooter: false
+  #showOnFooter: false
 
 # Specify OpenGraph Headers
 openGraph:
-  title: NTU IoT Sensing Group
+  title: NTU IoT Research Group
   type: website
-  description: NTU IoT Sensing Group.
+  description: NTU IoT Research Group.
   image: images/site/logo.png"
   #url: https://hugo-toha.github.io

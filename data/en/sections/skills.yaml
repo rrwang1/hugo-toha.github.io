@@ -1,6 +1,6 @@
 # section information
 section:
-  name: Group News
+  name: News
   id: skills
   enable: true
   weight: 6

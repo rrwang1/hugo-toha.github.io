@@ -1,11 +1,11 @@
 # section information
 section:
-  name: Research Focus
+  name: Research
   id: recent-posts
   enable: true
   weight: 2
-  showOnNavbar: false
+  showOnNavbar: True
   numShow: 6 # Can optionally increase the number of posts to display (default: 3)
-  showMoreButton: true #Can optionally show 'More Posts' button (default: false
+  showMoreButton: false #Can optionally show 'More Posts' button (default: false
 
 # no additional configuration is required
