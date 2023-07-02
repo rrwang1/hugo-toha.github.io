@@ -7,7 +7,7 @@ menu:
     identifier: newyork 2019
     parent: event
     weight: 10
-hero: /posts/shortcodes/boat.jpg
+hero: /images/section/newyork.jpg
 mermaid: true
 tags: ["Event","scenery"]
 categories: ["Basic"]

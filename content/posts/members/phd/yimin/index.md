@@ -1,12 +1,15 @@
 ---
 title: Yimin Dai
 weight: 30
+weight: 17
 menu:
   sidebar:
     name: Yimin Dai
     identifier: yimin
     parent: phd
     weight: 10
+
+hero: /images/section/phd.jpg
 ---
 {{< img src="/posts/members/photo/yimin_dai.jpg" alt="image alt" width="200px" height="250px" align="center">}}
 {{< vs 3 >}}

@@ -1,12 +1,13 @@
 ---
 title: Lilin Xu
-weight: 4
+weight: 19
 menu:
   sidebar:
     name: Lilin Xu
     identifier: lilin
     parent: visit
-    weight: 5
+
+hero: /images/section/visit.png
 ---
 {{< img src="/posts/members/photo/lilin.jpg" alt="image alt" width="200px" height="250px" align="center">}}
 {{< vs 3 >}}

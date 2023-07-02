@@ -7,6 +7,7 @@ menu:
     identifier: embedded AI 2019
     parent: conference
     weight: 10
+hero: /images/section/embed.png
 tags: ["Conference", "Embedded AI"]
 categories: ["Basic"]
 ---
@@ -15,6 +16,7 @@ categories: ["Basic"]
 ---
 
 #### Embedded AI Submit, Shenzhen, Dec 2019
+
 {{< vs 3 >}}
 
 {{< img src="/posts/gallery/embeddedai19.jpg" align="center">}}

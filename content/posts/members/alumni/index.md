@@ -1,26 +1,24 @@
 ---
 title: Alumni
-weight: 20
+weight: 11
 menu:
   sidebar:
     name: Alumni
     identifier: alumni
     parent: members
-    weight: 20
+hero: images/section/alumni.jpg
 ---
-
-
-|||
-|-|-| 
-|{{< img src="/posts/members/photo/zhenyu_yan.jpg" alt="image alt" width="100px" height="125px" position="center">}}| &nbsp;[Zhenyu Yan](https://yanzhenyu.com/)</br>&nbsp;PhD student and Research Fellow    *Joined the faculty of CUHK in 2021*|
-|&nbsp;|&nbsp;|
-|{{< img src="/posts/members/photo/chaojie_gu.jpg" alt="image alt" width="100px" height="125px" position="center">}}| &nbsp;[Chaojie Gu](https://chaojiegu.github.io/)</br>&nbsp;PhD student and Research Fellow    *Joined the faculty of ZJU in 2021*|
-|&nbsp;|&nbsp;|
-|{{< img src="/posts/members/photo/qun_song.jpg" alt="image alt" width="100px" height="125px" position="center">}}| &nbsp;[Qun Song](https://song-qun.github.io/)</br>&nbsp;PhD student *Joined the faculty of TU Delft in 2022*|
-|&nbsp;|&nbsp;|
-|{{< img src="/posts/members/photo/linshan_jiang.jpg" alt="image alt" width="100px" height="125px" position="center">}}| &nbsp;Linshan Jiang</br>&nbsp;PhD student and Research Fellow|
-|&nbsp;|&nbsp;|
-|{{< img src="/posts/members/photo/qiping_yang.jpg" alt="image alt" width="100px" height="125px" position="center">}}| &nbsp;Joy Qiping Yang</br>&nbsp;Project officer|
+|                                                                                                                        |                                                                                                                                                   |
+| ---------------------------------------------------------------------------------------------------------------------- | ------------------------------------------------------------------------------------------------------------------------------------------------- |
+| {{< img src="/posts/members/photo/zhenyu_yan.jpg" alt="image alt" width="100px" height="125px" position="center">}}    | &nbsp;[Zhenyu Yan](https://yanzhenyu.com/) `</br>`&nbsp;PhD student and Research Fellow `</br>`&nbsp;*Joined the faculty of CUHK in 2021*      |
+| &nbsp;                                                                                                                 | &nbsp;                                                                                                                                            |
+| {{< img src="/posts/members/photo/chaojie_gu.jpg" alt="image alt" width="100px" height="125px" position="center">}}    | &nbsp;[Chaojie Gu](https://chaojiegu.github.io/) `</br>`&nbsp;PhD student and Research Fellow `</br>`&nbsp;*Joined the faculty of ZJU in 2021* |
+| &nbsp;                                                                                                                 | &nbsp;                                                                                                                                            |
+| {{< img src="/posts/members/photo/qun_song.jpg" alt="image alt" width="100px" height="125px" position="center">}}      | &nbsp;[Qun Song](https://song-qun.github.io/) `</br>`&nbsp;PhD student `</br>`&nbsp;*Joined the faculty of TU Delft in 2022*                   |
+| &nbsp;                                                                                                                 | &nbsp;                                                                                                                                            |
+| {{< img src="/posts/members/photo/linshan_jiang.jpg" alt="image alt" width="100px" height="125px" position="center">}} | &nbsp;Linshan Jiang `</br>`&nbsp;PhD student and Research Fellow                                                                                |
+| &nbsp;                                                                                                                 | &nbsp;                                                                                                                                            |
+| {{< img src="/posts/members/photo/qiping_yang.jpg" alt="image alt" width="100px" height="125px" position="center">}}   | &nbsp;Joy Qiping Yang `</br>`&nbsp;Project officer                                                                                              |
 
 {{< vs 3 >}}
 

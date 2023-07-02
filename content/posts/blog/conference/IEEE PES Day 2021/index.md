@@ -7,6 +7,7 @@ menu:
     identifier: IEEE PES Day 2021
     parent: conference
     weight: 10
+hero: /images/section/pes.png
 tags: ["Conference", "IEEE EPS"]
 categories: ["Basic"]
 ---

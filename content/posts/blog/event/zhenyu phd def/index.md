@@ -7,7 +7,7 @@ menu:
     identifier: zhenyu phd def
     parent: event
     weight: 10
-hero: /posts/shortcodes/boat.jpg
+hero: /images/section/ntugrad.png
 mermaid: true
 tags: ["Event","Oral defence"]
 categories: ["Basic"]

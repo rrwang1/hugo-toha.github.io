@@ -7,8 +7,7 @@ menu:
     identifier: uobicomp 2018
     parent: conference
     weight: 10
-hero: /posts/shortcodes/boat.jpg
-mermaid: true
+hero: /images/section/ubicomp-2018.jpg
 tags: ["Conference", "UobiComp"]
 categories: ["Basic"]
 ---
@@ -23,6 +22,5 @@ categories: ["Basic"]
 {{< img src="/posts/gallery/qun_ubicomp18.jpg" align="center">}}
 
 {{< vs 3 >}}
-
 
 ---

@@ -1,22 +1,18 @@
 ---
 title: LoRa radio sensing
-weight: 210
+weight: 5
+date: 2023-07-01
 menu:
   sidebar:
     name: LoRa radio sensing
     identifier: lora
     parent: iot sensing
-    weight: 10
+    weight: 5
+hero: /images/section/lora.jpg
 ---
 > Main contributors from the group: Chaojie Gu (topic coordinator), Linshan Jiang, Dongfang Guo
 
 {{< vs 3 >}}
-
-{{< img src="/posts/research/images/lora/LPWAN_0.jpg" align="center">}}
-
-{{< vs 3 >}}
-
-(https://www.smart-energy.com/magazine-article/licensed-spectrum-key-to-success-of-lpwa-networks/)
 
 Low-power wide-area networks (LPWANs) form an important class of wireless networks for many geographically distributed Internet-of-Things (IoT) objects. LPWANs form a new pole in the spectrum of power consumption versus communication ranges, as shown in the figure below. LPWANs’ long-range communication capabilities will increase the degree of connectivity of IoT and enable deep penetration of networked intelligence into urban territories (e.g., wide areas, buildings, and underground structures) that have challenged the existing low-power short-range wireless technologies. Among various LPWAN technologies, we primarily focus on LoRaWAN due to its various advantages, such as the use of license-free industrial, scientific, and medical (ISM) frequency band, open data link layer specification, and low cost (several US dollars per unit).
 
@@ -26,7 +22,6 @@ Low-power wide-area networks (LPWANs) form an important class of wireless networ
 
 {{< vs 3 >}}
 
-
 ### One-hop out-of-band control planes using LoRaWAN
 
 Many IoT networks will still be based on low-power multi-hop wireless networks. In the last decade, many wireless sensor networks are Zigbee-based multi-hop wireless networks. The recently announced Bluetooth 5 has added support of mesh network topology. However, from an engineering point-of-view, multi-hop wireless networks are often fragile and difficult to manage. To improve the network performance and manageability, some multi-hop wireless networks, especially those deployed for mission-critical tasks, have adopted centralized network controls. WirelessHART and ISA100.11a are examples. However, these networks still adopt in-band control planes, that is, the control-plane messages such as network status reports and routing schedules are delivered by the data-plane networks. The coupling between the control and data planes in the in-band scheme may lead to undesirable consequences. For example, when the data plane loses key routing nodes (e.g., due to node hardware/software fault and depletion of battery) or the control plane makes wrong control decisions (e.g., due to design defects or erroneous human operations), the data-plane network may fall apart to disconnected partitions. As a result, restorative network control commands in the control plane may not be able to reach the destination nodes.
@@ -35,11 +30,9 @@ A number of recent IoT node platforms are equipped with both short-range radio a
 
       
 
-
-
-||||
-| ---- | -- | ---- |
-|{{< img src="/posts/research/images/lora/LoRaCP_0.png" alt="image alt" width="320px" position="center">}}|&nbsp;|{{< img src="/posts/research/images/lora/LoRaCP_1.png" alt="image alt" width="450px" position="center">}}|
+|                                                                                                           |        |                                                                                                           |
+| --------------------------------------------------------------------------------------------------------- | ------ | --------------------------------------------------------------------------------------------------------- |
+| {{< img src="/posts/research/images/lora/LoRaCP_0.png" alt="image alt" width="320px" position="center">}} | &nbsp; | {{< img src="/posts/research/images/lora/LoRaCP_1.png" alt="image alt" width="450px" position="center">}} |
 
 The above figure shows our prototype LoRaCP end node and controller node, both providing Zigbee and LoRaWAN radios. We developed a software stack for LoRaCP to construct the control-plane network based on LoRaWAN radios. Our initial profiling experiments show that the TI CC1352R shown below (which is the CC1352R launchpad) can also support our approach of one-hop out-of-band control planes. The work of porting our software stack to CC1352R (the ported version can be called subG-CP) is in our plan.
 
@@ -48,7 +41,6 @@ The above figure shows our prototype LoRaCP end node and controller node, both p
 {{< img src="/posts/research/images/lora/CC1352R.png" align="center">}}
 
 {{< vs 3 >}}
-
 
 On a testbed of 16 LoRaCP nodes, we apply LoRaCP to separate the control-plane network of the Collection Tree Protocol (CTP) from its Zigbee-based data-plane network. LoRaCP brings substantial benefits such as increased frame delivery ratio in the presence of intensive Wi-Fi interference. This research was published on IEEE INFOCOM’18 ([PDF](https://personal.ntu.edu.sg/tanrui/pub/LoRaCP-infocom.pdf)) and ACM Transactions on Sensor Networks ([PDF](https://personal.ntu.edu.sg/tanrui/pub/LoRaCP-TOSN.pdf)).
 
@@ -62,7 +54,6 @@ LoRaWAN is promising for the applications of collecting low-rate data. Data samp
 
 {{< vs 3 >}}
 
-
 However, this gateway-side timestamping is vulnerable to a frame delay attack that can be launched in three steps as shown in the above figure: (1) frame collision and eavesdropping, (2) data transfer, and (3) delay injection and frame replay. We conducted experiments in a campus network, and showed that, by setting up two attack devices (collider and eavesdropper) as shown in the below figure, all LoRaWAN end devices in the yellow polygon with an estimated area of 50,000 square meters will be affected by the attack.
 
 {{< vs 3 >}}
@@ -70,7 +61,6 @@ However, this gateway-side timestamping is vulnerable to a frame delay attack th
 {{< img src="/posts/research/images/lora/real_attack.png" align="center">}}
 
 {{< vs 3 >}}
-
 
 ***Vulnerable area of a campus LoRaWAN. (Satellite image credit: Google Map)***
 
@@ -81,8 +71,6 @@ To preserve the bandwidth efficiency of the gateway-side timestamping and develo
 {{< img src="/posts/research/images/lora/LoRaTS_1.png" align="center">}}
 
 {{< vs 3 >}}
-
-
 
 ### In-Hall Localization with Standard LoRaWAN Uplink Frames
 
@@ -96,8 +84,6 @@ We design and evaluate a time difference of arrival (TDoA)-based, unobtrusive in
 
 {{< vs 3 >}}
 
-
-
 To address these technical challenges, we propose the ILLOC system featuring two LoRaWAN-specific techniques: (1) the cross-correlation among the differential phase sequences (DPS) received by two anchors to estimate TDoA, exploiting LoRa's CCS characteristic; and (2) the just-in-time (JIT) synchronization enabled by a specially deployed LoRaWAN end device providing time reference upon detecting a target device’s transmission, using LoRa’s Channel Activity Detection (CAD) feature. In a long tunnel corridor, a 70 × 32 sqm sports hall, and a 110 × 70 sqm indoor plaza with extensive non-line-of-sight (NLOS) propagation paths, ILLOC achieves median localization errors of 6 m (with 2 anchors), 8.36 m (with 6 anchors), and 15.16 m (with 6 anchors and frame fusion), respectively. The achieved accuracy makes ILLOC useful for applications including zone-level asset tracking, misplacement detection, airport trolley management, and cybersecurity enforcement like detecting impersonation attacks launched by remote radios. This research was published on ACM IMWUT/UbiComp'22 ([PDF](https://tanrui.github.io/pub/ILLOC-final.pdf)).
 
 {{< vs 3 >}}
@@ -106,19 +92,14 @@ To address these technical challenges, we propose the ILLOC system featuring two
 
 {{< vs 3 >}}
 
-
 ***The indoor plaza deployment (with extensive NLOS paths). The crosses in the call-out figure are the localization results for position 5.***
-
-
-
-
 
 ### Bibliography
 
 #### Our research
 
-[1] One-Hop Out-of-Band Control Planes for Low-Power Multi-Hop Wireless Networks. Chaojie Gu, Rui Tan, Xin Lou, Dusit Niyato. *The 37th Annual IEEE International Conference on Computer Communications (INFOCOM)*, April 15 - 19, 2018, Honolulu, HI.  
-[2] One-hop Out-of-band Control Planes for Multi-hop Wireless Sensor Networks. Chaojie Gu, Rui Tan, Xin Lou. *ACM Transactions on Sensor Networks (TOSN)*. July 2019, Article No. 40.  
-[3] Attack-Aware Data Timestamping in Low-Power Synchronization-Free LoRaWAN. Chaojie Gu, Linshan Jiang, Rui Tan, Mo Li, Jun Huang. *The 40th IEEE International Conference on Distributed Computing Systems (ICDCS)*, July 8-10, 2020, Singapore.  
+[1] One-Hop Out-of-Band Control Planes for Low-Power Multi-Hop Wireless Networks. Chaojie Gu, Rui Tan, Xin Lou, Dusit Niyato. *The 37th Annual IEEE International Conference on Computer Communications (INFOCOM)*, April 15 - 19, 2018, Honolulu, HI.
+[2] One-hop Out-of-band Control Planes for Multi-hop Wireless Sensor Networks. Chaojie Gu, Rui Tan, Xin Lou. *ACM Transactions on Sensor Networks (TOSN)*. July 2019, Article No. 40.
+[3] Attack-Aware Data Timestamping in Low-Power Synchronization-Free LoRaWAN. Chaojie Gu, Linshan Jiang, Rui Tan, Mo Li, Jun Huang. *The 40th IEEE International Conference on Distributed Computing Systems (ICDCS)*, July 8-10, 2020, Singapore.
 [4] LoRa-Based Localization: Opportunities and Challenges. Chaojie Gu, Linshan Jiang, Rui Tan. *The 1st Workshop on Low Power Wide Area Networks for Internet of Things (LPNET), co-located with EWSN'19*, Feb 25, 2019, Beijing, China. Invited paper.
 [5] ILLOC: In-Hall Localization with Standard LoRaWAN Uplink Frames. Dongfang Guo, Chaojie Gu, Linshan Jiang, Wenjie Luo, Rui Tan. *Proceedings of the ACM on Interactive, Mobile, Wearable and Ubiquitous Technologies (IMWUT)*, March, 2022.

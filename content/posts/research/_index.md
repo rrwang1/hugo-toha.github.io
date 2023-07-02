@@ -1,8 +1,7 @@
 ---
-title: Research
+title: 1. Research
 menu:
   sidebar:
-    name: Research
+    name: 1. Research
     identifier: research
-    weight: 20
 ---

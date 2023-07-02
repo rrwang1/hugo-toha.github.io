@@ -1,14 +1,16 @@
 ---
 title: Siyuan Zhou
+weight: 16
 menu:
   sidebar:
     name: Siyuan Zhou
     identifier: siyuan
     parent: phd
+
+hero: /images/section/phd.jpg
 ---
 {{< img src="/posts/members/photo/siyuan_zhou.png" alt="image alt" width="200px" height="250px" align="center">}}
 {{< vs 3 >}}
-
 
 - Position: PhD Student, Research Associate
 - Contact: siyuan.zhou@ntu.edu.sg

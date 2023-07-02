@@ -7,7 +7,7 @@ menu:
     identifier: montreal 2019
     parent: event
     weight: 10
-hero: /posts/shortcodes/boat.jpg
+hero: /images/section/montreal.jpg
 mermaid: true
 tags: ["Event","scenery","CPS-IoT"]
 categories: ["Basic"]

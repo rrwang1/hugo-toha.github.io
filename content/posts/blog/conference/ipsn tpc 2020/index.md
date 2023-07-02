@@ -7,6 +7,7 @@ menu:
     identifier: ipsn tpc 2020
     parent: conference
     weight: 10
+hero: /images/section/ipsn20.jpg
 tags: ["Conference", "IPSN"]
 categories: ["Basic"]
 ---

@@ -1,21 +1,19 @@
 ---
 title: Acoustic and imagery sensing
-weight: 210
+weight: 7
+date: 2023-07-01
 menu:
   sidebar:
     name: Acoustic and imagery sensing
     identifier: acoustic
     parent: iot sensing
-    weight: 10
+    weight: 7
+
+hero: /images/section/cover.png
 ---
 > Main contributors from the group: Wenjie Luo (topic coordinator), Qun Song, Chaojie Gu, Zhenyu Yan, Duc Van Le, Siyuan Zhou, Jiale Chen, Qiping (Joy) Yang
 
 {{< vs 3 >}}
-
-{{< img src="/posts/research/images/sensing/cover.png" align="center">}}
-
-{{< vs 3 >}}
-(https://trajectorymagazine.com/generating-synthetic-data-for-remote-sensing/)
 
 The acoustic and imagery sensing modalities provide abundant information about the sensed target. As a result, the volume of an acoustic/imagery signal sample is often high and the data processing to extract useful information requires intensive computing. Such characteristics introduce various system challenges in data acquisition, computing, storage, and network transmission on networked sensing platforms with constrained processing capabilities, network bandwidth, and bounded energy supply.
 
@@ -41,8 +39,8 @@ We conducted extensive experiments to evaluate our approach. Results show 99.7%,
 
 {{< vs 3 >}}
 
-|                          |                                                                                                            |        |                                                                                                      |
-| ------------------------ | ---------------------------------------------------------------------------------------------------------- | ------ | ---------------------------------------------------------------------------------------------------- |
+|                          |                                                                                                            |        |                                                                                                            |
+| ------------------------ | ---------------------------------------------------------------------------------------------------------- | ------ | ---------------------------------------------------------------------------------------------------------- |
 | &nbsp;&nbsp;&nbsp;&nbsp; | {{< img src="/posts/research/images/sensing/fig_24.png" alt="image alt" width="480px" position="center">}} | &nbsp; | {{< img src="/posts/research/images/sensing/fig_25.png" alt="image alt" width="200px" position="center">}} |
 
 ### Imagery sensing for manufacturing system

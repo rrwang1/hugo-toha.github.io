@@ -1,12 +1,14 @@
 ---
 title: Building sensing
-weight: 210
+weight: 6
+date: 2023-07-01
 menu:
   sidebar:
     name: Building sensing
     identifier: building
     parent: iot sensing
-    weight: 10
+    weight: 6
+hero: /images/section/dc.png
 ---
 > Main contributors from the group: Duc Van Le (topic coordinator), Rongrong Wang, Yingbo Liu (alumnus)
 

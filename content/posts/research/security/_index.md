@@ -6,5 +6,4 @@ menu:
     name: Security and privacy of AIoT sensing
     identifier: security
     parent: research
-    weight: 40
 ---

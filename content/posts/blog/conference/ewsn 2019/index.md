@@ -7,9 +7,9 @@ menu:
     identifier: ewsn 2019
     parent: conference
     weight: 10
-hero: /posts/shortcodes/boat.jpg
+hero: /images/section/ewsn.jpg
 mermaid: true
-tags: ["Conference", "IoTDI"]
+tags: ["Conference", "EWSN"]
 categories: ["Basic"]
 ---
 # Keynote of LPNET, EWSN'19
@@ -23,7 +23,5 @@ categories: ["Basic"]
 {{< img src="/posts/gallery/ewsn19.jpg" align="center">}}
 
 {{< vs 3 >}}
-
-
 
 ---

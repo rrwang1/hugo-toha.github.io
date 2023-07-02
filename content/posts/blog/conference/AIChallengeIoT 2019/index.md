@@ -7,9 +7,8 @@ menu:
     identifier: AIChallengeIoT 2019
     parent: conference
     weight: 10
-hero: /posts/shortcodes/boat.jpg
-mermaid: true
-tags: ["Conference", "SenSys"]
+hero: /images/section/alchallenge.png
+tags: ["Conference", "Al challenge IoT"]
 categories: ["Basic"]
 ---
 # Paper presentation at AIChallengeIoT'19

@@ -1,23 +1,20 @@
 ---
 title: Privacy-preserving sensing in AIoT
-weight: 210
+weight: 3
+date: 2023-07-01
 menu:
   sidebar:
     name: Privacy-preserving sensing in AIoT
     identifier: privacy
     parent: security
-    weight: 10
+    weight: 3
+hero: /images/section/privicy.jpg
 ---
 > Main contributors from the group: Linshan Jiang (topic coordinator), Chaojie Gu, Mengyao Zheng (alumnus), Dixing Xu (alumnus)
 
 ### Privacy-Preserving Machine Learning in IoT
 
 {{< vs 3 >}}
-
-{{< img src="/posts/research/images/privacy_preserving/cover.jpg" align="center">}}
-
-{{< vs 3 >}}
-(https://www.cumanagement.com/articles/2019/05/protecting-privacy-contract-management-software)
 
 As explained in our [post](/research/secure/), a hybrid computing paradigm consisting of edge computing at the front end and cloud computing at the back end will prevail along with the formation of IoT as a global infrastructure. In addition, the deep neural network-based learning and inference will be important for improving the sensing performance of IoT systems. In a number of scenarios, the IoT edge and the cloud back end need to work together to implement AI-empowered sensing, during which privacy-sensitive data generated at the edge may be exchanged between the edge and the cloud. The group has ongoing research on designing and evaluating privacy-preserving learning and inference approaches in AIoT systems. Our challenge paper [(PDF)](https://github.com/tanrui/www/blob/master/pub/aichallengeiot19-final3.pdf) provides a taxonomy of the existing privacy-preserving learning and inference approaches.
 
