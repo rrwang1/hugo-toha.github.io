@@ -5,6 +5,7 @@ section:
   enable: true
   weight: 6
   showOnNavbar: true
+  showMoreButton: true
   # Can optionally hide the title in sections
   # hideTitle: true
 
@@ -14,7 +15,8 @@ skills:
 - name: Group member Wenjie completed his PhD defense
   logo: /images/section/ntulogo.png
   summary: "Wenjie completed his PhD defense on June 27th 2023."
-
+  
+  
 - name: ACM e-Energy'23 successfully concluded
   logo: /images/section/acm.png
   summary: "ACM e-Energy'23 held at Orlando has been successfully concluded, where Prof. Rui Tan served as a TPC Co-Chair."
@@ -22,6 +24,7 @@ skills:
 - name: BubCam won best paper award at ICCPS'23
   logo: /images/section/award.png
   summary: "Jiale's work BubCam won best paper award at The 14th ACM/IEEE International Conference on Cyber Physical System."
+  
 
 - name: Group members presented at CPS-IoT Week'23
   logo: /images/section/pre.png
