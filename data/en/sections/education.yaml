@@ -10,12 +10,14 @@ section:
   # hideTitle: true
 
 degrees:
-- #name: Conference and workshop
+- name: " "
   icon: fa-file-invoice
   institution:
     name: Conference and workshop
   publications: 
-  - title: "Effects of Learning-Based Action-Space Attacks on Autonomous Driving Agents.  \n\ Yuting Wu, Xin Lou, Pengfei Zhou, Rui Tan, Zbigniew Kalbarczyk, Ravishankar K. Iyer. \n\ ICCPS Work-in-Progress session, May 9-12, 2023, San Antonio, Texas, USA. CPS-IoT Week 2023."
+  - title: Effects of Learning-Based Action-Space Attacks on Autonomous Driving Agents.
+    authors: Yuting Wu, Xin Lou, Pengfei Zhou, Rui Tan, Zbigniew Kalbarczyk, Ravishankar K. Iyer. 
+    site: ICCPS Work-in-Progress session, May 9-12, 2023, San Antonio, Texas, USA. CPS-IoT Week 2023.
     url: "https://tanrui.github.io/pub/iccpswip2023-final24.pdf"
   - title: Towards Efficient Personalized Driver Behavior Modeling with Machine Unlearning. Qun Song, Rui Tan, Jianping Wang. The 7th IEEE/ACM Workshop on the Internet of Safe Things (SafeThings), May 9, 2023, San Antonio, Texas, USA. CPS-IoT Week 2023.
     url: "https://tanrui.github.io/pub/unlearning.pdf"
@@ -95,7 +97,7 @@ degrees:
 
 
 
-- #name: 
+- name: " "
   icon: fa-book
   institution:
     name: Journal

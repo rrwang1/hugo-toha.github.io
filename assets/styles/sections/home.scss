@@ -13,7 +13,7 @@
     background-attachment: fixed;
     background-position: center;
     transform: scale(1.1);
-    filter: blur(3px);
+    filter: none;
     background-size: cover;
   }
   
@@ -42,8 +42,8 @@
   }
   
   img {
-    width: 148px;
-    height: 148px;
+    width: 200px;
+    height: 200px;
     background-color: #e7e7ef;
     padding: 5px;
     margin-bottom: 10px;
@@ -54,7 +54,7 @@
   }
   
   .typing-carousel {
-    font-size: 14pt;
+    font-size: 20pt;
     color: #f0f0f0;
   }
   

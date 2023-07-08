@@ -47,16 +47,21 @@
                             {{ end }}
                             {{ if .publications }}
                                 <div class="publications">
-                                    <h6 class="text-muted">{{ i18n "publications"}}</h6>
-                                    <ul>
+                                    <!--<h6 class="text-muted">{{ i18n "publications"}}</h6>-->
+                                    <ol>
                                         {{ range .publications }}
                                             {{ if .url }}
-                                                <li><a href="{{ .url }}" title="{{ .title }}" target="_blank" rel="noopener">{{ .title }}</a></li>
+                                                <li><a href="{{ .url }}" title="{{ .title }}" target="_blank" rel="noopener">{{ .title }}</a><br>{{ .authors }}<br>{{ .site }}<p> </li>
                                             {{ else }}
                                                 <li>{{ .title }}</li>
                                             {{ end }}
                                         {{ end }}
-                                    </ul>
+                                    </ol>
+                                </div>
+                                <div class="details-btn">
+                                    {{ if .name }}
+                                    <a href="/posts/" class="btn btn-info ml-1 p-2" >{{"Full list"}}</a>
+                                    {{ end }}
                                 </div>
                             {{ end }}
                             {{ if .takenCourses }}
