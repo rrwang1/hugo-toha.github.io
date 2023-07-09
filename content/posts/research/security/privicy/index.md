@@ -62,6 +62,8 @@ Resource-constrained edge devices may not be able to execute very deep neural ne
 
 #### Our research
 
-\[1\] Challenges of Privacy-Preserving Machine Learning in IoT. Mengyao Zheng, Dixing Xu, Linshan Jiang, Chaojie Gu, Rui Tan, Peng Cheng. *The 1st International Workshop on Challenges in Artificial Intelligence and Machine Learning for Internet of Things (AIChallengeIoT)* with SenSys'19, November 10, 2019, New York, NY, USA.
-\[2\] On Lightweight Privacy-Preserving Collaborative Learning for Internet-of-Things Objects. Linshan Jiang, Rui Tan, Xin Lou, Guosheng Lin. *The 4th ACM/IEEE International Conference on Internet of Things Design and Implementation (IoTDI)*, April 16-18, 2019, Montreal, Canada. CPS-IoT Week 2019.
+\[1\] Challenges of Privacy-Preserving Machine Learning in IoT. Mengyao Zheng, Dixing Xu, Linshan Jiang, Chaojie Gu, Rui Tan, Peng Cheng. *The 1st International Workshop on Challenges in Artificial Intelligence and Machine Learning for Internet of Things (AIChallengeIoT)* with SenSys'19, November 10, 2019, New York, NY, USA.<br>
+
+\[2\] On Lightweight Privacy-Preserving Collaborative Learning for Internet-of-Things Objects. Linshan Jiang, Rui Tan, Xin Lou, Guosheng Lin. *The 4th ACM/IEEE International Conference on Internet of Things Design and Implementation (IoTDI)*, April 16-18, 2019, Montreal, Canada. CPS-IoT Week 2019.<br>
+
 \[3\] Lightweight and Unobtrusive Data Obfuscation at IoT Edge for Remote Inference. Dixing Xu, Mengyao Zheng; Linshan Jiang, Chaojie Gu, Rui Tan, Peng Cheng. *IEEE Internet of Things Journal*. Special Issue on Artificial Intelligence Powered Edge Computing for Internet of Things. 2020.

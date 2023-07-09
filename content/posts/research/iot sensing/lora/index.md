@@ -98,8 +98,12 @@ To address these technical challenges, we propose the ILLOC system featuring two
 
 #### Our research
 
-[1] One-Hop Out-of-Band Control Planes for Low-Power Multi-Hop Wireless Networks. Chaojie Gu, Rui Tan, Xin Lou, Dusit Niyato. *The 37th Annual IEEE International Conference on Computer Communications (INFOCOM)*, April 15 - 19, 2018, Honolulu, HI.
-[2] One-hop Out-of-band Control Planes for Multi-hop Wireless Sensor Networks. Chaojie Gu, Rui Tan, Xin Lou. *ACM Transactions on Sensor Networks (TOSN)*. July 2019, Article No. 40.
-[3] Attack-Aware Data Timestamping in Low-Power Synchronization-Free LoRaWAN. Chaojie Gu, Linshan Jiang, Rui Tan, Mo Li, Jun Huang. *The 40th IEEE International Conference on Distributed Computing Systems (ICDCS)*, July 8-10, 2020, Singapore.
-[4] LoRa-Based Localization: Opportunities and Challenges. Chaojie Gu, Linshan Jiang, Rui Tan. *The 1st Workshop on Low Power Wide Area Networks for Internet of Things (LPNET), co-located with EWSN'19*, Feb 25, 2019, Beijing, China. Invited paper.
+[1] One-Hop Out-of-Band Control Planes for Low-Power Multi-Hop Wireless Networks. Chaojie Gu, Rui Tan, Xin Lou, Dusit Niyato. *The 37th Annual IEEE International Conference on Computer Communications (INFOCOM)*, April 15 - 19, 2018, Honolulu, HI.<br>
+
+[2] One-hop Out-of-band Control Planes for Multi-hop Wireless Sensor Networks. Chaojie Gu, Rui Tan, Xin Lou. *ACM Transactions on Sensor Networks (TOSN)*. July 2019, Article No. 40.<br>
+
+[3] Attack-Aware Data Timestamping in Low-Power Synchronization-Free LoRaWAN. Chaojie Gu, Linshan Jiang, Rui Tan, Mo Li, Jun Huang. *The 40th IEEE International Conference on Distributed Computing Systems (ICDCS)*, July 8-10, 2020, Singapore.<br>
+
+[4] LoRa-Based Localization: Opportunities and Challenges. Chaojie Gu, Linshan Jiang, Rui Tan. *The 1st Workshop on Low Power Wide Area Networks for Internet of Things (LPNET), co-located with EWSN'19*, Feb 25, 2019, Beijing, China. Invited paper.<br>
+
 [5] ILLOC: In-Hall Localization with Standard LoRaWAN Uplink Frames. Dongfang Guo, Chaojie Gu, Linshan Jiang, Wenjie Luo, Rui Tan. *Proceedings of the ACM on Interactive, Mobile, Wearable and Ubiquitous Technologies (IMWUT)*, March, 2022.

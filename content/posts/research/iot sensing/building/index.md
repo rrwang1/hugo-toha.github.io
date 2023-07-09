@@ -67,11 +67,17 @@ To address the high computing overhead of the Shapley value, a multilayer percep
 ### Bibliography
 
 Our research
-[1] Supero: A Sensor System for Unsupervised Residential Power Usage Monitoring. Phillips, Dennis E., Rui Tan, Mohammad-Mahdi Moazzami, Guoliang Xing, Jinzhu Chen, and David KY Yau. *2013 IEEE International Conference on Pervasive Computing and Communications (PerCom)*.
-[2] Unsupervised Residential Power Usage Monitoring using a Wireless Sensor Network. Rui Tan, Dennis E. Phillips, Mohammad-Mahdi Moazzami, Guoliang Xing, and Jinzhu Chen. *ACM Transactions on Sensor Networks (TOSN) 13, no. 3 (2017): 1-28.*
-[3] A High-Fidelity Temperature Distribution Forecasting System for Data Centers. Jinzhu Chen, Rui Tan, Yu Wang, Guoliang Xing, Xiaorui Wang, Xiaodong Wang, Bill Punch, and Dirk Colbry. *2012 IEEE 33rd Real-Time Systems Symposium.*
-[4] PTEC: A System for Predictive Thermal and Energy Control in Data Centers. Jinzhu Chen, Rui Tan, Guoliang Xing, and Xiaorui Wang. *2014 IEEE Real-Time Systems Symposium.*
-[5] Tropical Data Centre Proof-of-Concept. Duc Van Le, Yingbo Liu; Rongrong Wang; Rui Tan. *Technical report, Nanyang Technological University, 2019.* [https://dr.ntu.edu.sg/handle/10356/137780](https://dr.ntu.edu.sg/handle/10356/137780)
-[6] Control of Air Free-Cooled Data Centers in Tropics via Deep Reinforcement Learning. Van Le, Duc, Yingbo Liu, Rongrong Wang, Rui Tan, Yew-Wah Wong, and Yonggang Wen. *The 6th ACM International Conference on Systems for Energy-Efficient Buildings, Cities, and Transportation (BuildSys 2019).*
+[1] Supero: A Sensor System for Unsupervised Residential Power Usage Monitoring. Phillips, Dennis E., Rui Tan, Mohammad-Mahdi Moazzami, Guoliang Xing, Jinzhu Chen, and David KY Yau. *2013 IEEE International Conference on Pervasive Computing and Communications (PerCom)*.<br>
+
+[2] Unsupervised Residential Power Usage Monitoring using a Wireless Sensor Network. Rui Tan, Dennis E. Phillips, Mohammad-Mahdi Moazzami, Guoliang Xing, and Jinzhu Chen. *ACM Transactions on Sensor Networks (TOSN) 13, no. 3 (2017): 1-28.*<br>
+
+[3] A High-Fidelity Temperature Distribution Forecasting System for Data Centers. Jinzhu Chen, Rui Tan, Yu Wang, Guoliang Xing, Xiaorui Wang, Xiaodong Wang, Bill Punch, and Dirk Colbry. *2012 IEEE 33rd Real-Time Systems Symposium.*<br>
+
+[4] PTEC: A System for Predictive Thermal and Energy Control in Data Centers. Jinzhu Chen, Rui Tan, Guoliang Xing, and Xiaorui Wang. *2014 IEEE Real-Time Systems Symposium.*<br>
+
+[5] Tropical Data Centre Proof-of-Concept. Duc Van Le, Yingbo Liu; Rongrong Wang; Rui Tan. *Technical report, Nanyang Technological University, 2019.* [https://dr.ntu.edu.sg/handle/10356/137780](https://dr.ntu.edu.sg/handle/10356/137780)<br>
+
+[6] Control of Air Free-Cooled Data Centers in Tropics via Deep Reinforcement Learning. Van Le, Duc, Yingbo Liu, Rongrong Wang, Rui Tan, Yew-Wah Wong, and Yonggang Wen. *The 6th ACM International Conference on Systems for Energy-Efficient Buildings, Cities, and Transportation (BuildSys 2019).*<br>
+
 [7] Real-Time Cooling Power Attribution for Co-located Data Center Rooms with Distinct Temperatures.
 Rongrong Wang, Duc Van Le, Rui Tan, Yew-Wah Wong, Yonggang Wen. *The 7th ACM International Conference on Systems for Energy-Efficient Built Environments (BuildSys 2020).*

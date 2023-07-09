@@ -17,7 +17,7 @@ hero: /images/section/cover.png
 
 The acoustic and imagery sensing modalities provide abundant information about the sensed target. As a result, the volume of an acoustic/imagery signal sample is often high and the data processing to extract useful information requires intensive computing. Such characteristics introduce various system challenges in data acquisition, computing, storage, and network transmission on networked sensing platforms with constrained processing capabilities, network bandwidth, and bounded energy supply.
 
-Dr. Rui Tan’s early research designed efficient systems for 1) networked seismic sensing that introduces similar challenges [1, 2, 3] and 2) robotic fish’s visual sensing for monitoring aquatic debris [4] and harmful aquatic processes (e.g., oil spill and harmful algal blooms) [5]. The group is currently developing an acoustic echolocation system based on deep learning and networked imagery sensing for inspection tasks in manufacturing systems. This page briefly describes a completed preliminary work of using inaudible echos for room recognition.
+Dr. Rui Tan’s early research designed efficient systems for 1) networked seismic sensing that introduces similar challenges <cite>[^1][^2][^3]</cite> and 2) robotic fish’s visual sensing for monitoring aquatic debris [4] and harmful aquatic processes (e.g., oil spill and harmful algal blooms) [5]. The group is currently developing an acoustic echolocation system based on deep learning and networked imagery sensing for inspection tasks in manufacturing systems. This page briefly describes a completed preliminary work of using inaudible echos for room recognition.
 
 ### Room recognition using inaudible echos
 
@@ -87,12 +87,20 @@ In this paper, we apply PhyAug two acoustic sensing applications and quantify th
 
 #### Our research
 
-[1] Quality-driven Volcanic Earthquake Detection using Wireless Sensor Networks. Rui Tan, Guoliang Xing, Jinzhu Chen, Wen-Zhan Song, Renjie Huang. *The 31st IEEE Real-Time Systems Symposium (RTSS)*, pp. 271-280, Nov 30 - Dec 3, 2010, San Diego, CA, USA.
-[2] Volcanic Earthquake Timing using Wireless Sensor Networks. Guojin Liu, Rui Tan; Ruogu Zhou; Guoliang Xing; Wen-Zhan Song; Jonathan M. Lees. *The 12th ACM/IEEE Conference on Information Processing in Sensor Networks (IPSN)*, April 8-11, 2013, Philadelphia, PA, USA. CPS Week 2013. (The first two authors are listed in alphabetic order.)
-[3] ORBIT: A Smartphone-Based Platform for Data-Intensive Embedded Sensing Applications. Mohammad-Mahdi Moazzami, Dennis E. Phillips, Rui Tan, Guoliang Xing. *IEEE Transactions on Mobile Computing (TMC)*. Vol. 16, No. 3, pp. 801-815, March 2017.
-[4] Aquatic Debris Monitoring Using Smartphone-Based Robotic Sensors. Yu Wang, Rui Tan, Guoliang Xing, Jianxun Wang, Xiaobo Tan, Xiaoming Liu, Xiangmao Chang. *The 13th ACM/IEEE International Conference on Information Processing in Sensor Networks (IPSN)*, April 15-17, 2014, Berlin, Germany.
-[5] Samba: A Smartphone-Based Robot System for Energy-Efficient Aquatic Environment Monitoring. Yu Wang, Rui Tan, Guoliang Xing, Jianxun Wang, Xiaobo Tan, Xiaoming Liu. *The 14th ACM/IEEE International Conference on Information Processing in Sensor Networks (IPSN)*, April 13-17, 2015, Seattle, WA, USA.
-[6] Deep Room Recognition Using Inaudible Echos. Qun Song, Chaojie Gu, Rui Tan. *Proceedings of the ACM on Interactive, Mobile, Wearable and Ubiquitous Technologies (IMWUT)*. *The ACM International Joint Conference on Pervasive and Ubiquitous Computing (Ubicomp)*, October 8-12, 2018, Singapore.
-[7] EFCam: Configuration-Adaptive Fog-Assisted Wireless Cameras with Reinforcement Learning. Siyuan Zhou, Duc Van Le, Joy Qiping Yang, Rui Tan, Daren Ho. *International Conference on Sensing, Communication and Networking (SECON)*, July 6-9, 2021, held online.
-[8] Configuration-Adaptive Wireless Visual Sensing System with Deep Reinforcement Learning. Siyuan Zhou, Duc Van Le, Rui Tan, Joy Qiping Yang, Daren Ho. *IEEE Transactions on Mobile Computing (TMC)*
+[1] Quality-driven Volcanic Earthquake Detection using Wireless Sensor Networks. Rui Tan, Guoliang Xing, Jinzhu Chen, Wen-Zhan Song, Renjie Huang. *The 31st IEEE Real-Time Systems Symposium (RTSS)*, pp. 271-280, Nov 30 - Dec 3, 2010, San Diego, CA, USA.<br>
+
+[2] Volcanic Earthquake Timing using Wireless Sensor Networks. Guojin Liu, Rui Tan; Ruogu Zhou; Guoliang Xing; Wen-Zhan Song; Jonathan M. Lees. *The 12th ACM/IEEE Conference on Information Processing in Sensor Networks (IPSN)*, April 8-11, 2013, Philadelphia, PA, USA. CPS Week 2013. (The first two authors are listed in alphabetic order.)<br>
+
+[3] ORBIT: A Smartphone-Based Platform for Data-Intensive Embedded Sensing Applications. Mohammad-Mahdi Moazzami, Dennis E. Phillips, Rui Tan, Guoliang Xing. *IEEE Transactions on Mobile Computing (TMC)*. Vol. 16, No. 3, pp. 801-815, March 2017.<br>
+
+[4] Aquatic Debris Monitoring Using Smartphone-Based Robotic Sensors. Yu Wang, Rui Tan, Guoliang Xing, Jianxun Wang, Xiaobo Tan, Xiaoming Liu, Xiangmao Chang. *The 13th ACM/IEEE International Conference on Information Processing in Sensor Networks (IPSN)*, April 15-17, 2014, Berlin, Germany.<br>
+
+[5] Samba: A Smartphone-Based Robot System for Energy-Efficient Aquatic Environment Monitoring. Yu Wang, Rui Tan, Guoliang Xing, Jianxun Wang, Xiaobo Tan, Xiaoming Liu. *The 14th ACM/IEEE International Conference on Information Processing in Sensor Networks (IPSN)*, April 13-17, 2015, Seattle, WA, USA.<br>
+
+[6] Deep Room Recognition Using Inaudible Echos. Qun Song, Chaojie Gu, Rui Tan. *Proceedings of the ACM on Interactive, Mobile, Wearable and Ubiquitous Technologies (IMWUT)*. *The ACM International Joint Conference on Pervasive and Ubiquitous Computing (Ubicomp)*, October 8-12, 2018, Singapore.<br>
+
+[7] EFCam: Configuration-Adaptive Fog-Assisted Wireless Cameras with Reinforcement Learning. Siyuan Zhou, Duc Van Le, Joy Qiping Yang, Rui Tan, Daren Ho. *International Conference on Sensing, Communication and Networking (SECON)*, July 6-9, 2021, held online.<br>
+
+[8] Configuration-Adaptive Wireless Visual Sensing System with Deep Reinforcement Learning. Siyuan Zhou, Duc Van Le, Rui Tan, Joy Qiping Yang, Daren Ho. *IEEE Transactions on Mobile Computing (TMC).*<br>
+
 [9] Improving Quality Control with Industrial AIoT at HP Factories: Experiences and Learned Lessons. Joy Qiping Yang, Siyuan Zhou; Duc Van Le; Daren Ho; Rui Tan. *International Conference on Sensing, Communication and Networking (SECON)*, July 6-9, 2021, held online.

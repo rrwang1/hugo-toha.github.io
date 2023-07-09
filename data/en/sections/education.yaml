@@ -19,80 +19,96 @@ degrees:
     authors: Yuting Wu, Xin Lou, Pengfei Zhou, Rui Tan, Zbigniew Kalbarczyk, Ravishankar K. Iyer. 
     site: ICCPS Work-in-Progress session, May 9-12, 2023, San Antonio, Texas, USA. CPS-IoT Week 2023.
     url: "https://tanrui.github.io/pub/iccpswip2023-final24.pdf"
-  - title: Towards Efficient Personalized Driver Behavior Modeling with Machine Unlearning. Qun Song, Rui Tan, Jianping Wang. The 7th IEEE/ACM Workshop on the Internet of Safe Things (SafeThings), May 9, 2023, San Antonio, Texas, USA. CPS-IoT Week 2023.
+  - title: Towards Efficient Personalized Driver Behavior Modeling with Machine Unlearning. 
+    authors: Qun Song, Rui Tan, Jianping Wang. 
+    site: The 7th IEEE/ACM Workshop on the Internet of Safe Things (SafeThings), May 9, 2023, San Antonio, Texas, USA. CPS-IoT Week 2023.
     url: "https://tanrui.github.io/pub/unlearning.pdf"
-  - title: Physics-Informed Machine Learning Model Generalization in AIoT Opportunities and Challenges. Wenjie Luo, Rui Tan. The 3rd Workshop on Data-Driven and Intelligent Cyber-Physical Systems for Smart Cities (DI-CPS), May 9, 2023, San Antonio, Texas, USA. CPS-IoT Week 2023.
+  - title: Physics-Informed Machine Learning Model Generalization in AIoT Opportunities and Challenges. 
+    authors: Wenjie Luo, Rui Tan. 
+    site: The 3rd Workshop on Data-Driven and Intelligent Cyber-Physical Systems for Smart Cities (DI-CPS), May 9, 2023, San Antonio, Texas, USA. CPS-IoT Week 2023.
     url: "https://tanrui.github.io/pub/PIML-AIoT.pdf"
-  - title: BubCam A Vision System for Automated Quality Inspection at Manufacturing Lines. Jiale Chen, Duc Van Le, Rui Tan, Daren Ho. The 14th ACM/IEEE International Conference on Cyber-Physical Systems (ICCPS) May 9-12, 2023, San Antonio, Texas, USA. (Acceptance ratio is 25.6%) CPS-IoT Week 2023.
+  - title: BubCam A Vision System for Automated Quality Inspection at Manufacturing Lines. 
+    authors: Jiale Chen, Duc Van Le, Rui Tan, Daren Ho. 
+    site: The 14th ACM/IEEE International Conference on Cyber-Physical Systems (ICCPS) May 9-12, 2023, San Antonio, Texas, USA. (Acceptance ratio is 25.6%) CPS-IoT Week 2023.
     url: "https://tanrui.github.io/pub/BubCam-ICCPS.pdf"
-  - title: Interpersonal Distance Tracking with mmWave Radar and IMUs. Yimin Dai, Xian Shuai, Rui Tan, Guoliang Xing. The 22nd ACM/IEEE International Conference on Information Processing in Sensor Networks (IPSN), May 9-12, 2023, San Antonio, Texas, USA. Conditionally accepted. CPS-IoT Week 2023.
+  - title: Interpersonal Distance Tracking with mmWave Radar and IMUs. 
+    authors: Yimin Dai, Xian Shuai, Rui Tan, Guoliang Xing. 
+    site: The 22nd ACM/IEEE International Conference on Information Processing in Sensor Networks (IPSN), May 9-12, 2023, San Antonio, Texas, USA. Conditionally accepted. CPS-IoT Week 2023.
     url: https://tanrui.github.io/pub/ImmTrack.pdf
-  - title: Indoor Smartphone SLAM with Learned Echoic Location Features. Wenjie Luo, Qun Song, Zhenyu Yan, Rui Tan, Guosheng Lin. The 20th ACM Conference on Embedded Networked Sensor Systems (SenSys), Nov 6-9, 2022, Boston, USA.
-    url: https://tanrui.github.io/pub/sensys22-ELFSLAM.pdf
-  - title: PriMask Cascadable and Collusion-Resilient Data Masking for Mobile Cloud Inference. Linshan Jiang, Qun Song, Rui Tan, Mo Li. The 20th ACM Conference on Embedded Networked Sensor Systems (SenSys), Nov 6-9, 2022, Boston, USA.
-    url: https://tanrui.github.io/pub/sensys22-PriMask.pdf
-  - title: Telesonar Robocall Alarm System by Detecting Echo Channel and Breath Timing. Zhenyu Yan, Rui Tan, Qun Song, Chris Xiaoxuan Lu. The 20th ACM Conference on Embedded Networked Sensor Systems (SenSys), Nov 6-9, 2022, Boston, USA. 
-    url: https://tanrui.github.io/pub/sensys22-Telesonar.pdf
-  - title: Sardino Ultra-Fast Dynamic Ensemble for Secure Visual Sensing at Mobile Edge. Qun Song, Zhenyu Yan, Wenjie Luo, Rui Tan. The International Conference on Embedded Wireless Systems and Networks (EWSN 2022).
-    url: https://arxiv.org/pdf/2204.08189.pdf 
-  - title: Demo Abstract 3D Simultaneous Localization and Mapping with Power Network Electromagnetic Radiation. Rongrong Wang, Zhenyu Yan, Yuting Wu, Rui Tan, Chris Xiaoxuan Lu. The 21st ACM/IEEE International Conference on Information Processing in Sensor Networks (IPSN), May 4-6, 2022, Milan, Italy. 
-    url: https://tanrui.github.io/pub/3D-EMR-demo.pdf
-  - title: ILLOC In-Hall Localization with Standard LoRaWAN Uplink Frames. Dongfang Guo, Chaojie Gu, Linshan Jiang, Wenjie Luo, Rui Tan. Proceedings of the ACM on Interactive, Mobile, Wearable and Ubiquitous Technologies (IMWUT).
-    url: https://tanrui.github.io/pub/ILLOC-final.pdf
-  - title: Demo Abstract Infrastructure-Free Smartphone Indoor Localization Using Room Acoustic Responses. Dongfang Guo, Wenjie Luo; Chaojie Gu; Yuting Wu; Qun Song; Zhenyu Yan; Rui Tan. The 19th ACM Conference on Embedded Networked Sensor Systems (SenSys), November 15-17, 2021, Coimbra, Portugal.
-    url: https://tanrui.github.io/pub/EchoLoc-demo.pdf
-  - title: LIMU-BERT Unleashing the Potential of Unlabeled Data for IMU Sensing Applications. Huatao Xu, Pengfei Zhou, Rui Tan, Mo Li, Guobin Shen. The 19th ACM Conference on Embedded Networked Sensor Systems (SenSys), November 15-17, 2021, Coimbra, Portugal. 
-    url: https://tanrui.github.io/pub/LIMU_BERT.pdf
-  - title: An Electromagnetic Covert Channel based on Neural Network Architecture. Chaojie Gu, Jiale Chen, Rui Tan, Linshan Jiang. The 27th IEEE International Conference on Parallel and Distributed Systems (ICPADS), December 14-16, 2021, Beijing, China. 
-    url: https://tanrui.github.io/pub/PMU-EMR.pdf
-  - title: Split Convolutional Neural Networks for Distributed Inference on Concurrent IoT Sensors. Jiale Chen, Duc Van Le, Rui Tan, Daren Ho. The 27th IEEE International Conference on Parallel and Distributed Systems (ICPADS), December 14-16, 2021, Beijing, China.
-    url: https://tanrui.github.io/pub/splitCNN.pdf
-  - title: Understanding Credibility of Adversarial Examples against Smart Grid A Case Study for Voltage Stability Assessment. Qun Song, Rui Tan, Chao Ren, Yan Xu. The 12th ACM International Conference on Future Energy Systems (e-Energy), June 28 - July 2, 2021, Torino, Italy.
-    url: https://tanrui.github.io/pub/eenergy21-final68.pdf
-  - title: EFCam Configuration-Adaptive Fog-Assisted Wireless Cameras with Reinforcement Learning. Siyuan Zhou, Duc Van Le, Joy Qiping Yang, Rui Tan, Daren Ho. International Conference on Sensing, Communication and Networking (SECON), July 6-9, 2021, held online.
-    url: https://tanrui.github.io/pub/EFCam-SECON21.pdf
-  - title: Improving Quality Control with Industrial AIoT at HP Factories Experiences and Learned Lessons. Joy Qiping Yang, Siyuan Zhou; Duc Van Le; Daren Ho; Rui Tan. International Conference on Sensing, Communication and Networking (SECON), July 6-9, 2021, held online. 
-    url: https://tanrui.github.io/pub/IET-SECON21.pdf
-  - title: PhyAug Physics-Directed Data Augmentation for Deep Sensing Model Transfer in Cyber-Physical Systems. Wenjie Luo, Zhenyu Yan, Qun Song, Rui Tan. The 20th ACM/IEEE International Conference on Information Processing in Sensor Networks (IPSN), May 18-21, Nashville, Tennessee, USA.   
-    url: https://arxiv.org/pdf/2104.01160.pdf
-  - title: Experiences and Learned Lessons from an Air Free-Cooled Tropical Data Center Testbed. Duc Van Le, Yingbo Liu, Rongrong Wang, Rui Tan, Lek Heng Ngoh. The 7th ACM International Conference on Systems for Energy-Efficient Built Environments (BuildSys), November 16-19, 2020, Yokohama, Japan. 
-    url: https://tanrui.github.io/pub/experience-buildsys20.pdf
-  - title: Real-Time Cooling Power Attribution for Co-located Data Center Rooms with Distinct Temperatures. Rongrong Wang, Duc Van Le, Rui Tan, Yew-Wah Wong, Yonggang Wen. The 7th ACM International Conference on Systems for Energy-Efficient Built Environments (BuildSys), November 16-19, 2020, Yokohama, Japan.
-    url: https://tanrui.github.io/pub/attribution-buildsys.pdf
-  - title: Attack-Aware Data Timestamping in Low-Power Synchronization-Free LoRaWAN. Chaojie Gu, Linshan Jiang, Rui Tan, Mo Li, Jun Huang. The 40th IEEE International Conference on Distributed Computing Systems (ICDCS), July 8-10, 2020, Singapore. 
-    url: https://tanrui.github.io/pub/timestamping-ICDCS20.pdf
-  - title: Challenges of Privacy-Preserving Machine Learning in IoT. Mengyao Zheng, Dixing Xu, Linshan Jiang, Chaojie Gu, Rui Tan, Peng Cheng. The 1st International Workshop on Challenges in Artificial Intelligence and Machine Learning for Internet of Things (AIChallengeIoT) with SenSys'19, November 10, 2019, New York, NY, USA.
-    url: https://tanrui.github.io/pub/aichallengeiot19-final3.pdf
-  - title: Control of Air Free-Cooled Data Centers in Tropics via Deep Reinforcement Learning. Duc Van Le, Yingbo Liu, Rongrong Wang, Rui Tan, Yew-Wah Wong, Yonggang Wen. The 6th ACM International Conference on Systems for Energy-Efficient Built Environments, Cities, and Transportation (BuildSys), November 13-14, 2019, New York, NY, USA.
-    url: https://personal.ntu.edu.sg/tanrui/pub/TDC-buildsys.pdf
-  - title: Moving Target Defense for Embedded Deep Visual Sensing against Adversarial Examples. Qun Song, Zhenyu Yan, Rui Tan. The 17th ACM Conference on Embedded Networked Sensor Systems (SenSys), November 10-13, 2019, New York, NY, USA. 
-    url: https://personal.ntu.edu.sg/tanrui/pub/deepMTD.pdf
-  - title: On Lightweight Privacy-Preserving Collaborative Learning for Internet-of-Things Objects. Linshan Jiang, Rui Tan, Xin Lou, Guosheng Lin. The 4th ACM/IEEE International Conference on Internet of Things Design and Implementation (IoTDI), April 16-18, 2019, Montreal, Canada. CPS-IoT Week 2019. 
-    url: https://personal.ntu.edu.sg/tanrui/pub/IoTDI19-final.pdf
-  - title: Managing Industrial Communication Delays with Software-Defined Networking. Rutvij H. Jhaveri, Rui Tan, Arvind Easwaran, Sagar V. Ramani. The 25th IEEE International Conference on Embedded and Real-Time Computing Systems and Applications (RTCSA), August 18-21, 2019, Hangzhou, China.
-    url: https://tanrui.github.io/pub/RTCSA19.pdf
-  - title: Real-Time QoS Routing Scheme in SDN-based Robotic Cyber-Physical Systems. Rutvij H. Jhaveri, Rui Tan, Sagar V. Ramani. The 5th IEEE International Conference on Mechatronics Systems and Robots*, May 3-5, 2019, Singapore.
-    url: "#"
-  - title: Towards Touch-to-Access Device Authentication Using Induced Body Electric Potentials. Zhenyu Yan, Qun Song, Rui Tan, Yang Li, Adams Wai Kin Kong. The 25th Annual Internatinal Conference on Mobile Computing and Networking (MobiCom), October 21-25, 2019, Los Cabos, Mexico.  
-    url: https://personal.ntu.edu.sg/tanrui/pub/mobicom022-yanA.pdf
-  - title: Resilience Bounds of Sensing-Based Network Clock Synchronization. Rui Tan, Linshan Jiang, Arvind Easwaran, Jothi Prasanna Shanmuga Sundaram. The 24th IEEE International Conference on Parallel and Distributed Systems (ICPADS), December 11-13, 2018, Sentosa, Singapore.
-    url: https://personal.ntu.edu.sg/tanrui/pub/sync-resilience.pdf
-  - title: Deep Room Recognition Using Inaudible Echos. Qun Song, Chaojie Gu, Rui Tan. Proceedings of the ACM on Interactive, Mobile, Wearable and Ubiquitous Technologies (IMWUT). The ACM International Joint Conference on Pervasive and Ubiquitous Computing (Ubicomp), October 8-12, 2018, Singapore.
-    url: https://personal.ntu.edu.sg/tanrui/pub/RoomRecognize.pdf
-  - title: Differentially Private Collaborative Learning for the IoT Edge. Linshan Jiang, Xin Lou, Rui Tan, Jun Zhao. The 2nd International Workshop on Crowd Intelligence for Smart Cities Technology and Applications (CICS), co-located with EWSN'19, Feb 25, 2019, Beijing, China. 
-    url: https://personal.ntu.edu.sg/tanrui/pub/dp-learning-CISC.pdf
-  - title: LoRa-Based Localization Opportunities and Challenges. Chaojie Gu, Linshan Jiang, Rui Tan. The 1st Workshop on Low Power Wide Area Networks for Internet of Things (LPNET), co-located with EWSN'19, Feb 25, 2019, Beijing, China. Invited paper.
-    url: https://personal.ntu.edu.sg/tanrui/pub/lora-localization-workshop.pdf
-  - title: A Testbed and Data Yields for Studying Data Center Energy Efficiency and Reliability. Duc Van Le, Yingbo Liu; Rongrong Wang; Rui Tan; Lek Heng Ngoh. The Data Acquisition to Analysis Workshop with SenSys'18, November 4, 2018, Shenzhen, China.
-    url: https://personal.ntu.edu.sg/tanrui/pub/DATA2018.pdf
-  - title: Urban Electric Load Forecasting with Mobile Phone Location Data. Stefan Selvarajoo, Schläpfer Markus Stefan, Rui Tan. Asian Conference on Energy, Power and Transportation Electrification (ACEPT), October 31 - November 1, 2018, Singapore.
-    url: "#"
-  - title: One-Hop Out-of-Band Control Planes for Low-Power Multi-Hop Wireless Networks. Chaojie Gu, Rui Tan, Xin Lou, Dusit Niyato. The 37th Annual IEEE International Conference on Computer Communications (INFOCOM), April 15 - 19, 2018, Honolulu, HI. 
-    url: https://personal.ntu.edu.sg/tanrui/pub/LoRaCP-infocom.pdf
-  - title: Application-Layer Clock Synchronization for Wearables Using Skin Electric Potentials Induced by Powerline Radiation. Zhenyu Yan, Yang Li, Rui Tan, Jun Huang. The 15th ACM Conference on Embedded Networked Sensor Systems (SenSys), November 5-8, 2017, Delft, The Netherlands.
-    url: https://personal.ntu.edu.sg/tanrui/pub/touchsync.pdf
-  - title: Optimal False Data Injection Attack against Automatic Generation Control in Power Grids. Rui Tan, Hoang Hai Nguyen, Eddy. Y. S. Foo, Xinshu Dong, David K. Y. Yau, Zbigniew Kalbarczyk, Ravishankar K. Iyer, Hoay Beng Gooi. The 7th ACM/IEEE International Conference on Cyber-Physical Systems (ICCPS), April 11-14, 2016, Vienna, Austria. CPS Week 2016.
-    url: https://personal.ntu.edu.sg/tanrui/pub/AGC.pdf
+#  - title: Indoor Smartphone SLAM with Learned Echoic Location Features. 
+#    authors: Wenjie Luo, Qun Song, Zhenyu Yan, Rui Tan, Guosheng Lin. 
+#    site: The 20th ACM Conference on Embedded Networked Sensor Systems (SenSys), Nov 6-9, 2022, Boston, USA.
+#    url: https://tanrui.github.io/pub/sensys22-ELFSLAM.pdf
+#  - title: PriMask Cascadable and Collusion-Resilient Data Masking for Mobile Cloud Inference. 
+#    authors: Linshan Jiang, Qun Song, Rui Tan, Mo Li. 
+#    site: The 20th ACM Conference on Embedded Networked Sensor Systems (SenSys), Nov 6-9, 2022, Boston, USA.
+#    url: https://tanrui.github.io/pub/sensys22-PriMask.pdf
+#  - title: Telesonar Robocall Alarm System by Detecting Echo Channel and Breath Timing. 
+#    authors: Zhenyu Yan, Rui Tan, Qun Song, Chris Xiaoxuan Lu. 
+#    site: The 20th ACM Conference on Embedded Networked Sensor Systems (SenSys), Nov 6-9, 2022, Boston, USA. 
+#    url: https://tanrui.github.io/pub/sensys22-Telesonar.pdf
+#  - title: Sardino Ultra-Fast Dynamic Ensemble for Secure Visual Sensing at Mobile Edge. 
+#    authors: Qun Song, Zhenyu Yan, Wenjie Luo, Rui Tan. 
+#    site: The International Conference on Embedded Wireless Systems and Networks (EWSN 2022).
+#    url: https://arxiv.org/pdf/2204.08189.pdf 
+#  - title: Demo Abstract 3D Simultaneous Localization and Mapping with Power Network Electromagnetic Radiation. Rongrong Wang, Zhenyu Yan, Yuting Wu, Rui Tan, Chris Xiaoxuan Lu. The 21st ACM/IEEE International Conference on Information Processing in Sensor Networks (IPSN), May 4-6, 2022, Milan, Italy. 
+#   url: https://tanrui.github.io/pub/3D-EMR-demo.pdf
+#  - title: ILLOC In-Hall Localization with Standard LoRaWAN Uplink Frames. Dongfang Guo, Chaojie Gu, Linshan Jiang, Wenjie Luo, Rui Tan. Proceedings of the ACM on Interactive, Mobile, Wearable and Ubiquitous Technologies (IMWUT).
+#    url: https://tanrui.github.io/pub/ILLOC-final.pdf
+#  - title: Demo Abstract Infrastructure-Free Smartphone Indoor Localization Using Room Acoustic Responses. Dongfang Guo, Wenjie Luo; Chaojie Gu; Yuting Wu; Qun Song; Zhenyu Yan; Rui Tan. The 19th ACM Conference on Embedded Networked Sensor Systems (SenSys), November 15-17, 2021, Coimbra, Portugal.
+#    url: https://tanrui.github.io/pub/EchoLoc-demo.pdf
+#  - title: LIMU-BERT Unleashing the Potential of Unlabeled Data for IMU Sensing Applications. Huatao Xu, Pengfei Zhou, Rui Tan, Mo Li, Guobin Shen. The 19th ACM Conference on Embedded Networked Sensor Systems (SenSys), November 15-17, 2021, Coimbra, Portugal. 
+#    url: https://tanrui.github.io/pub/LIMU_BERT.pdf
+# - title: An Electromagnetic Covert Channel based on Neural Network Architecture. Chaojie Gu, Jiale Chen, Rui Tan, Linshan Jiang. The 27th IEEE International Conference on Parallel and Distributed Systems (ICPADS), December 14-16, 2021, Beijing, China. 
+#    url: https://tanrui.github.io/pub/PMU-EMR.pdf
+#  - title: Split Convolutional Neural Networks for Distributed Inference on Concurrent IoT Sensors. Jiale Chen, Duc Van Le, Rui Tan, Daren Ho. The 27th IEEE International Conference on Parallel and Distributed Systems (ICPADS), December 14-16, 2021, Beijing, China.
+#    url: https://tanrui.github.io/pub/splitCNN.pdf
+#  - title: Understanding Credibility of Adversarial Examples against Smart Grid A Case Study for Voltage Stability Assessment. Qun Song, Rui Tan, Chao Ren, Yan Xu. The 12th ACM International Conference on Future Energy Systems (e-Energy), June 28 - July 2, 2021, Torino, Italy.
+#    url: https://tanrui.github.io/pub/eenergy21-final68.pdf
+#  - title: EFCam Configuration-Adaptive Fog-Assisted Wireless Cameras with Reinforcement Learning. Siyuan Zhou, Duc Van Le, Joy Qiping Yang, Rui Tan, Daren Ho. International Conference on Sensing, Communication and Networking (SECON), July 6-9, 2021, held online.
+#    url: https://tanrui.github.io/pub/EFCam-SECON21.pdf
+#  - title: Improving Quality Control with Industrial AIoT at HP Factories Experiences and Learned Lessons. Joy Qiping Yang, Siyuan Zhou; Duc Van Le; Daren Ho; Rui Tan. International Conference on Sensing, Communication and Networking (SECON), July 6-9, 2021, held online. 
+#    url: https://tanrui.github.io/pub/IET-SECON21.pdf
+#  - title: PhyAug Physics-Directed Data Augmentation for Deep Sensing Model Transfer in Cyber-Physical Systems. Wenjie Luo, Zhenyu Yan, Qun Song, Rui Tan. The 20th ACM/IEEE International Conference on Information Processing in Sensor Networks (IPSN), May 18-21, Nashville, Tennessee, USA.   
+#    url: https://arxiv.org/pdf/2104.01160.pdf
+#  - title: Experiences and Learned Lessons from an Air Free-Cooled Tropical Data Center Testbed. Duc Van Le, Yingbo Liu, Rongrong Wang, Rui Tan, Lek Heng Ngoh. The 7th ACM International Conference on Systems for Energy-Efficient Built Environments (BuildSys), November 16-19, 2020, Yokohama, Japan. 
+#    url: https://tanrui.github.io/pub/experience-buildsys20.pdf
+#  - title: Real-Time Cooling Power Attribution for Co-located Data Center Rooms with Distinct Temperatures. Rongrong Wang, Duc Van Le, Rui Tan, Yew-Wah Wong, Yonggang Wen. The 7th ACM International Conference on Systems for Energy-Efficient Built Environments (BuildSys), November 16-19, 2020, Yokohama, Japan.
+#    url: https://tanrui.github.io/pub/attribution-buildsys.pdf
+#  - title: Attack-Aware Data Timestamping in Low-Power Synchronization-Free LoRaWAN. Chaojie Gu, Linshan Jiang, Rui Tan, Mo Li, Jun Huang. The 40th IEEE International Conference on Distributed Computing Systems (ICDCS), July 8-10, 2020, Singapore. 
+#    url: https://tanrui.github.io/pub/timestamping-ICDCS20.pdf
+#  - title: Challenges of Privacy-Preserving Machine Learning in IoT. Mengyao Zheng, Dixing Xu, Linshan Jiang, Chaojie Gu, Rui Tan, Peng Cheng. The 1st International Workshop on Challenges in Artificial Intelligence and Machine Learning for Internet of Things (AIChallengeIoT) with SenSys'19, November 10, 2019, New York, NY, USA.
+#    url: https://tanrui.github.io/pub/aichallengeiot19-final3.pdf
+#  - title: Control of Air Free-Cooled Data Centers in Tropics via Deep Reinforcement Learning. Duc Van Le, Yingbo Liu, Rongrong Wang, Rui Tan, Yew-Wah Wong, Yonggang Wen. The 6th ACM International Conference on Systems for Energy-Efficient Built Environments, Cities, and Transportation (BuildSys), November 13-14, 2019, New York, NY, USA.
+#    url: https://personal.ntu.edu.sg/tanrui/pub/TDC-buildsys.pdf
+#  - title: Moving Target Defense for Embedded Deep Visual Sensing against Adversarial Examples. Qun Song, Zhenyu Yan, Rui Tan. The 17th ACM Conference on Embedded Networked Sensor Systems (SenSys), November 10-13, 2019, New York, NY, USA. 
+#    url: https://personal.ntu.edu.sg/tanrui/pub/deepMTD.pdf
+#  - title: On Lightweight Privacy-Preserving Collaborative Learning for Internet-of-Things Objects. Linshan Jiang, Rui Tan, Xin Lou, Guosheng Lin. The 4th ACM/IEEE International Conference on Internet of Things Design and Implementation (IoTDI), April 16-18, 2019, Montreal, Canada. CPS-IoT Week 2019. 
+#    url: https://personal.ntu.edu.sg/tanrui/pub/IoTDI19-final.pdf
+#  - title: Managing Industrial Communication Delays with Software-Defined Networking. Rutvij H. Jhaveri, Rui Tan, Arvind Easwaran, Sagar V. Ramani. The 25th IEEE International Conference on Embedded and Real-Time Computing Systems and Applications (RTCSA), August 18-21, 2019, Hangzhou, China.
+#    url: https://tanrui.github.io/pub/RTCSA19.pdf
+#  - title: Real-Time QoS Routing Scheme in SDN-based Robotic Cyber-Physical Systems. Rutvij H. Jhaveri, Rui Tan, Sagar V. Ramani. The 5th IEEE International Conference on Mechatronics Systems and Robots*, May 3-5, 2019, Singapore.
+#   url: "#"
+#  - title: Towards Touch-to-Access Device Authentication Using Induced Body Electric Potentials. Zhenyu Yan, Qun Song, Rui Tan, Yang Li, Adams Wai Kin Kong. The 25th Annual Internatinal Conference on Mobile Computing and Networking (MobiCom), October 21-25, 2019, Los Cabos, Mexico.  
+#    url: https://personal.ntu.edu.sg/tanrui/pub/mobicom022-yanA.pdf
+#  - title: Resilience Bounds of Sensing-Based Network Clock Synchronization. Rui Tan, Linshan Jiang, Arvind Easwaran, Jothi Prasanna Shanmuga Sundaram. The 24th IEEE International Conference on Parallel and Distributed Systems (ICPADS), December 11-13, 2018, Sentosa, Singapore.
+#    url: https://personal.ntu.edu.sg/tanrui/pub/sync-resilience.pdf
+#  - title: Deep Room Recognition Using Inaudible Echos. Qun Song, Chaojie Gu, Rui Tan. Proceedings of the ACM on Interactive, Mobile, Wearable and Ubiquitous Technologies (IMWUT). The ACM International Joint Conference on Pervasive and Ubiquitous Computing (Ubicomp), October 8-12, 2018, Singapore.
+#    url: https://personal.ntu.edu.sg/tanrui/pub/RoomRecognize.pdf
+#  - title: Differentially Private Collaborative Learning for the IoT Edge. Linshan Jiang, Xin Lou, Rui Tan, Jun Zhao. The 2nd International Workshop on Crowd Intelligence for Smart Cities Technology and Applications (CICS), co-located with EWSN'19, Feb 25, 2019, Beijing, China. 
+#    url: https://personal.ntu.edu.sg/tanrui/pub/dp-learning-CISC.pdf
+#  - title: LoRa-Based Localization Opportunities and Challenges. Chaojie Gu, Linshan Jiang, Rui Tan. The 1st Workshop on Low Power Wide Area Networks for Internet of Things (LPNET), co-located with EWSN'19, Feb 25, 2019, Beijing, China. Invited paper.
+#    url: https://personal.ntu.edu.sg/tanrui/pub/lora-localization-workshop.pdf
+#  - title: A Testbed and Data Yields for Studying Data Center Energy Efficiency and Reliability. Duc Van Le, Yingbo Liu; Rongrong Wang; Rui Tan; Lek Heng Ngoh. The Data Acquisition to Analysis Workshop with SenSys'18, November 4, 2018, Shenzhen, China.
+#    url: https://personal.ntu.edu.sg/tanrui/pub/DATA2018.pdf
+#  - title: Urban Electric Load Forecasting with Mobile Phone Location Data. Stefan Selvarajoo, Schläpfer Markus Stefan, Rui Tan. Asian Conference on Energy, Power and Transportation Electrification (ACEPT), October 31 - November 1, 2018, Singapore.
+#    url: "#"
+#  - title: One-Hop Out-of-Band Control Planes for Low-Power Multi-Hop Wireless Networks. Chaojie Gu, Rui Tan, Xin Lou, Dusit Niyato. The 37th Annual IEEE International Conference on Computer Communications (INFOCOM), April 15 - 19, 2018, Honolulu, HI. 
+#    url: https://personal.ntu.edu.sg/tanrui/pub/LoRaCP-infocom.pdf
+#  - title: Application-Layer Clock Synchronization for Wearables Using Skin Electric Potentials Induced by Powerline Radiation. Zhenyu Yan, Yang Li, Rui Tan, Jun Huang. The 15th ACM Conference on Embedded Networked Sensor Systems (SenSys), November 5-8, 2017, Delft, The Netherlands.
+#    url: https://personal.ntu.edu.sg/tanrui/pub/touchsync.pdf
+#  - title: Optimal False Data Injection Attack against Automatic Generation Control in Power Grids. Rui Tan, Hoang Hai Nguyen, Eddy. Y. S. Foo, Xinshu Dong, David K. Y. Yau, Zbigniew Kalbarczyk, Ravishankar K. Iyer, Hoay Beng Gooi. The 7th ACM/IEEE International Conference on Cyber-Physical Systems (ICCPS), April 11-14, 2016, Vienna, Austria. CPS Week 2016.
+#    url: https://personal.ntu.edu.sg/tanrui/pub/AGC.pdf
 
 
 
@@ -102,54 +118,64 @@ degrees:
   institution:
     name: Journal
   publications:
-  - title: NNFacet Splitting Neural Network for Concurrent Smart Sensors. Jiale Chen, Duc Van Le, Rui Tan, Daren Ho. IEEE Transactions on Mobile Computing (TMC). In press. 
+  - title: NNFacet Splitting Neural Network for Concurrent Smart Sensors. 
+    authors: Jiale Chen, Duc Van Le, Rui Tan, Daren Ho. 
+    site: IEEE Transactions on Mobile Computing (TMC). In press. 
     url: https://tanrui.github.io/pub/NNFacet.pdf
-  - title: On Credibility of Adversarial Examples against Learning-Based Grid Voltage Stability Assessment. Qun Song, Rui Tan, Chao Ren, Yan Xu, Yang Lou, Jianping Wang, Hoay Beng Gooi. IEEE Transactions on Dependable and Secure Computing (TDSC). Special Issue on Reliability and Robustness in AI-Based Cybersecurity Solutions. In press.
+  - title: On Credibility of Adversarial Examples against Learning-Based Grid Voltage Stability Assessment. 
+    authors: Qun Song, Rui Tan, Chao Ren, Yan Xu, Yang Lou, Jianping Wang, Hoay Beng Gooi. 
+    site: IEEE Transactions on Dependable and Secure Computing (TDSC). Special Issue on Reliability and Robustness in AI-Based Cybersecurity Solutions. In press.
     url: https://tanrui.github.io/pub/Assess-TDSC.pdf
-  - title: Physics-Directed Data Augmentation for Deep Model Transfer to Specific Sensor. Wenjie Luo, Zhenyu Yan, Qun Song, Rui Tan. ACM Transactions on Sensor Networks (TOSN). In press. 
+  - title: Physics-Directed Data Augmentation for Deep Model Transfer to Specific Sensor. 
+    authors: Wenjie Luo, Zhenyu Yan, Qun Song, Rui Tan. 
+    site: ACM Transactions on Sensor Networks (TOSN). In press. 
     url: https://tanrui.github.io/pub/PhyAug-TOSN.pdf
-  - title: Configuration-Adaptive Wireless Visual Sensing System with Deep Reinforcement Learning. Siyuan Zhou, Duc Van Le, Rui Tan, Joy Qiping Yang, Daren Ho. IEEE Transactions on Mobile Computing (TMC). In press. 
+  - title: Configuration-Adaptive Wireless Visual Sensing System with Deep Reinforcement Learning. 
+    authors: Siyuan Zhou, Duc Van Le, Rui Tan, Joy Qiping Yang, Daren Ho. 
+    site: IEEE Transactions on Mobile Computing (TMC). In press. 
     url: https://tanrui.github.io/pub/EFCam-TMC.pdf
-  - title: Air Free-Cooled Tropical Data Center Design, Evaluation, and Learned Lessons. Duc Van Le, Yingbo Liu, Rongrong Wang, Rui Tan, Lek Heng Ngoh. IEEE Transactions on Sustainable Computing. In press.
+  - title: Air Free-Cooled Tropical Data Center Design, Evaluation, and Learned Lessons. 
+    authors: Duc Van Le, Yingbo Liu, Rongrong Wang, Rui Tan, Lek Heng Ngoh. 
+    site: IEEE Transactions on Sustainable Computing. In press.
     url: https://tanrui.github.io/pub/TDC-TSUSC.pdf
-  - title: A Data-Assisted First-Principle Approach to Modeling Server Outlet Temperature in Air Free-Cooled Data Centers. Yingbo Liu, Duc Van Le, Rui Tan. Future Generation Computer Systems. In press.
-    url: "#"
-  - title: Real-Time Cooling Power Attribution for Co-Located Data Center Rooms with Distinct Temperatures and Humidities. Rongrong Wang, Duc Van Le, Rui Tan, Yew-Wah Wong. ACM Transactions on Cyber-Physical Systems (TCPS). In press. 
-    url: https://tanrui.github.io/pub/attribution-TCPS.pdf
-  - title: Attack-Aware Synchronization-Free Data Timestamping in LoRaWAN. Chaojie Gu, Linshan Jiang, Rui Tan, Mo Li, Jun Huang. ACM Transactions on Sensor Networks (TOSN). In press. 
-    url: https://tanrui.github.io/pub/LoRaTS-TOSN.pdf
-  - title: Touch-to-Access Device Authentication for Indoor Smart Objects. Zhenyu Yan, Qun Song, Rui Tan. IEEE Transactions on Mobile Computing (TMC). In press.
-    url: https://tanrui.github.io/pub/TouchAuth-TMC.pdf
-  - title: DeepMTD Moving Target Defense for Deep Visual Sensing against Adversarial Examples. Qun Song, Zhenyu Yan, Rui Tan. ACM Transactions on Sensor Networks (TOSN). In press.
-    url: https://tanrui.github.io/pub/DeepMTD-TOSN.pdf
-  - title: On Lightweight Privacy-Preserving Collaborative Learning for Internet of Things by Independent Random Projections. Linshan Jiang, Rui Tan, Xin Lou, Guosheng Lin. ACM Transactions on Internet of Things (TIOT). In press.
-    url: https://arxiv.org/pdf/2012.07626.pdf
-  - title: Deep Reinforcement Learning for Tropical Air Free-Cooled Data Center Control. Duc Van Le, Yingbo Liu, Rongrong Wang, Rui Tan, Yew-Wah Wong, Yonggang Wen. ACM Transactions on Sensor Networks. Special issue on Computational Intelligence in Internet of Things. In press. 
-    url: https://arxiv.org/pdf/2012.06834.pdf
-  - title: Resilience Bounds of Network Clock Synchronization with Fault Correction. Linshan Jiang, Rui Tan, Arvind Easwaran. ACM Transactions on Sensor Networks. Article No. 38.
-    url: https://personal.ntu.edu.sg/tanrui/pub/ncs-bounds.pdf
-  - title: Covert Device Association among Colluding Apps via Edge Processor Workload. Hangtai Li, Yingbo Liu, Rui Tan. IEEE Internet of Things Journal. Vol. 7, No. 11, November 2020. 
-    url: https://tanrui.github.io/pub/IoTJ-covert.pdf
-  - title: Lightweight and Unobtrusive Data Obfuscation at IoT Edge for Remote Inference. Dixing Xu, Mengyao Zheng; Linshan Jiang, Chaojie Gu, Rui Tan, Peng Cheng. IEEE Internet of Things Journal. Special Issue on Artificial Intelligence Powered Edge Computing for Internet of Things. Vol. 7, No. 10, October 2020.
-    url: https://arxiv.org/pdf/1912.09859.pdf
-  - title: One-hop Out-of-band Control Planes for Multi-hop Wireless Sensor Networks. Chaojie Gu, Rui Tan, Xin Lou. ACM Transactions on Sensor Networks (TOSN). July 2019, Article No. 40.
-    url: https://personal.ntu.edu.sg/tanrui/pub/LoRaCP-TOSN.pdf
-  - title: Moving Target Defense Approach to Detecting Stuxnet-like Attacks. Jue Tian, Rui Tan, Xiaohong Guan, Zhanbo Xu, Ting Liu. IEEE Transactions on Smart Grid (TSG)*. Vol. 11, No. 1, Jan 2020. 
-    url: https://personal.ntu.edu.sg/tanrui/pub/MTD-SL.PDF
-  - title: Wearables Clock Synchronization Using Skin Electric Potentials. Zhenyu Yan, Rui Tan, Yang Li, Jun Huang. IEEE Transactions on Mobile Computing (TMC). Vol. 18, No. 12, Dec 2019. 
-    url: https://personal.ntu.edu.sg/tanrui/pub/touchsync-TMC.pdf
-  - title: Enhanced Hidden Moving Target Defense in Smart Grids. Jue Tian, Rui Tan, Xiaohong Guan, Ting Liu. IEEE Transactions on Smart Grid (TSG). Vol. 10, No. 2, Mar 2019.
-    url: https://personal.ntu.edu.sg/tanrui/pub/MTD-TSG.pdf
-  - title: Unsupervised Residential Power Usage Monitoring using a Wireless Sensor Network. Rui Tan, Dennis E. Phillips; Mohammad-Mahdi Moazzami; Guoliang Xing; Jinzhu Chen. ACM Transactions on Sensor Networks (TOSN). Vol. 13, No. 3, September 2017.
-    url: https://personal.ntu.edu.sg/tanrui/pub/power-TOSN.pdf
-  - title: Modeling and Mitigating Impact of False Data Injection Attacks on Automatic Generation Control. Rui Tan, Hoang Hai Nguyen, Eddy. Y. S. Foo, David K. Y. Yau, Zbigniew Kalbarczyk, Ravishankar K. Iyer, Hoay Beng Gooi. IEEE Transactions on Information Forensics and Security (TIFS). Vol. 12, No. 7, pp. 1609-1624, July 2017.
-    url: https://personal.ntu.edu.sg/tanrui/pub/AGC-TIFS.pdf
-  - title: Hidden Moving Target Defense in Smart Grids. Jue Tian, Rui Tan, Xiaohong Guan, Ting Liu. The 2nd Workshop on Cyber-Physical Security and Resilience in Smart Grids (CPSR-SG), April 21, 2017, Pittsburgh, PA, USA. CPS Week 2017. 
-    url: https://personal.ntu.edu.sg/tanrui/pub/MTD-CPSR.pdf
-  - title: A Joint Data Compression and Encryption Approach for Wireless Energy Auditing Networks. Rui Tan, Sheng-Yuan Chiu, Hoang Hai Nguyen, David Yau, Deokwoo Jung. ACM Transactions on Sensor Networks (TOSN).* Vol. 13, No. 2, June 2017.   
-    url: https://personal.ntu.edu.sg/tanrui/pub/safety-TCPS.pdf
-  - title: Collaborative Load Management with Safety Assurance in Smart Grids. Rui Tan, Hoang Hai Nguyen, David Yau. ACM Transactions on Cyber-Physical Systems (TCPS). Vol. 1, No. 2, February 2017. 
-    url: https://personal.ntu.edu.sg/tanrui/pub/safety-TCPS.pdf 
+#  - title: A Data-Assisted First-Principle Approach to Modeling Server Outlet Temperature in Air Free-Cooled Data Centers. Yingbo Liu, Duc Van Le, Rui Tan. Future Generation Computer Systems. In press.
+#    url: "#"
+#  - title: Real-Time Cooling Power Attribution for Co-Located Data Center Rooms with Distinct Temperatures and Humidities. Rongrong Wang, Duc Van Le, Rui Tan, Yew-Wah Wong. ACM Transactions on Cyber-Physical Systems (TCPS). In press. 
+#    url: https://tanrui.github.io/pub/attribution-TCPS.pdf
+#  - title: Attack-Aware Synchronization-Free Data Timestamping in LoRaWAN. Chaojie Gu, Linshan Jiang, Rui Tan, Mo Li, Jun Huang. ACM Transactions on Sensor Networks (TOSN). In press. 
+#    url: https://tanrui.github.io/pub/LoRaTS-TOSN.pdf
+#  - title: Touch-to-Access Device Authentication for Indoor Smart Objects. Zhenyu Yan, Qun Song, Rui Tan. IEEE Transactions on Mobile Computing (TMC). In press.
+#    url: https://tanrui.github.io/pub/TouchAuth-TMC.pdf
+#  - title: DeepMTD Moving Target Defense for Deep Visual Sensing against Adversarial Examples. Qun Song, Zhenyu Yan, Rui Tan. ACM Transactions on Sensor Networks (TOSN). In press.
+#    url: https://tanrui.github.io/pub/DeepMTD-TOSN.pdf
+#  - title: On Lightweight Privacy-Preserving Collaborative Learning for Internet of Things by Independent Random Projections. Linshan Jiang, Rui Tan, Xin Lou, Guosheng Lin. ACM Transactions on Internet of Things (TIOT). In press.
+#    url: https://arxiv.org/pdf/2012.07626.pdf
+#  - title: Deep Reinforcement Learning for Tropical Air Free-Cooled Data Center Control. Duc Van Le, Yingbo Liu, Rongrong Wang, Rui Tan, Yew-Wah Wong, Yonggang Wen. ACM Transactions on Sensor Networks. Special issue on Computational Intelligence in Internet of Things. In press. 
+#    url: https://arxiv.org/pdf/2012.06834.pdf
+#  - title: Resilience Bounds of Network Clock Synchronization with Fault Correction. Linshan Jiang, Rui Tan, Arvind Easwaran. ACM Transactions on Sensor Networks. Article No. 38.
+#    url: https://personal.ntu.edu.sg/tanrui/pub/ncs-bounds.pdf
+#  - title: Covert Device Association among Colluding Apps via Edge Processor Workload. Hangtai Li, Yingbo Liu, Rui Tan. IEEE Internet of Things Journal. Vol. 7, No. 11, November 2020. 
+#    url: https://tanrui.github.io/pub/IoTJ-covert.pdf
+#  - title: Lightweight and Unobtrusive Data Obfuscation at IoT Edge for Remote Inference. Dixing Xu, Mengyao Zheng; Linshan Jiang, Chaojie Gu, Rui Tan, Peng Cheng. IEEE Internet of Things Journal. Special Issue on Artificial Intelligence Powered Edge Computing for Internet of Things. Vol. 7, No. 10, October 2020.
+#    url: https://arxiv.org/pdf/1912.09859.pdf
+#  - title: One-hop Out-of-band Control Planes for Multi-hop Wireless Sensor Networks. Chaojie Gu, Rui Tan, Xin Lou. ACM Transactions on Sensor Networks (TOSN). July 2019, Article No. 40.
+#    url: https://personal.ntu.edu.sg/tanrui/pub/LoRaCP-TOSN.pdf
+#  - title: Moving Target Defense Approach to Detecting Stuxnet-like Attacks. Jue Tian, Rui Tan, Xiaohong Guan, Zhanbo Xu, Ting Liu. IEEE Transactions on Smart Grid (TSG)*. Vol. 11, No. 1, Jan 2020. 
+#    url: https://personal.ntu.edu.sg/tanrui/pub/MTD-SL.PDF
+#  - title: Wearables Clock Synchronization Using Skin Electric Potentials. Zhenyu Yan, Rui Tan, Yang Li, Jun Huang. IEEE Transactions on Mobile Computing (TMC). Vol. 18, No. 12, Dec 2019. 
+#    url: https://personal.ntu.edu.sg/tanrui/pub/touchsync-TMC.pdf
+#  - title: Enhanced Hidden Moving Target Defense in Smart Grids. Jue Tian, Rui Tan, Xiaohong Guan, Ting Liu. IEEE Transactions on Smart Grid (TSG). Vol. 10, No. 2, Mar 2019.
+#    url: https://personal.ntu.edu.sg/tanrui/pub/MTD-TSG.pdf
+#  - title: Unsupervised Residential Power Usage Monitoring using a Wireless Sensor Network. Rui Tan, Dennis E. Phillips; Mohammad-Mahdi Moazzami; Guoliang Xing; Jinzhu Chen. ACM Transactions on Sensor Networks (TOSN). Vol. 13, No. 3, September 2017.
+#    url: https://personal.ntu.edu.sg/tanrui/pub/power-TOSN.pdf
+#  - title: Modeling and Mitigating Impact of False Data Injection Attacks on Automatic Generation Control. Rui Tan, Hoang Hai Nguyen, Eddy. Y. S. Foo, David K. Y. Yau, Zbigniew Kalbarczyk, Ravishankar K. Iyer, Hoay Beng Gooi. IEEE Transactions on Information Forensics and Security (TIFS). Vol. 12, No. 7, pp. 1609-1624, July 2017.
+#    url: https://personal.ntu.edu.sg/tanrui/pub/AGC-TIFS.pdf
+#  - title: Hidden Moving Target Defense in Smart Grids. Jue Tian, Rui Tan, Xiaohong Guan, Ting Liu. The 2nd Workshop on Cyber-Physical Security and Resilience in Smart Grids (CPSR-SG), April 21, 2017, Pittsburgh, PA, USA. CPS Week 2017. 
+#    url: https://personal.ntu.edu.sg/tanrui/pub/MTD-CPSR.pdf
+#  - title: A Joint Data Compression and Encryption Approach for Wireless Energy Auditing Networks. Rui Tan, Sheng-Yuan Chiu, Hoang Hai Nguyen, David Yau, Deokwoo Jung. ACM Transactions on Sensor Networks (TOSN).* Vol. 13, No. 2, June 2017.   
+#    url: https://personal.ntu.edu.sg/tanrui/pub/safety-TCPS.pdf
+#  - title: Collaborative Load Management with Safety Assurance in Smart Grids. Rui Tan, Hoang Hai Nguyen, David Yau. ACM Transactions on Cyber-Physical Systems (TCPS). Vol. 1, No. 2, February 2017. 
+#    url: https://personal.ntu.edu.sg/tanrui/pub/safety-TCPS.pdf 
   
 
 - #name: 
@@ -157,28 +183,52 @@ degrees:
   institution:
     name: Thesis
   publications:
-  - title: Exploiting Induced Skin Electric Potential for Body-Area IoT System Functions. Zhenyu Yan
+  - title: Exploiting Induced Skin Electric Potential for Body-Area IoT System Functions. 
+    authors: Zhenyu Yan
     url: https://dr.ntu.edu.sg/bitstream/10356/137802/3/YanZhenyu-thesis.pdf
-  - title: Exploiting LoRaWAN for Efficient and Resilient IoT Networks. Chaojie Gu 
+  - title: Exploiting LoRaWAN for Efficient and Resilient IoT Networks. 
+    authors: Chaojie Gu 
     url: https://dr.ntu.edu.sg/bitstream/10356/143912/2/chaojie_thesis.pdf
-  - title: Lightweight Privacy-Preserving Deep Learning and Inference in IoT. Linshang Jiang
+  - title: Lightweight Privacy-Preserving Deep Learning and Inference in IoT. 
+    authors: Linshang Jiang
     url: https://dr.ntu.edu.sg/bitstream/10356/155000/4/thesis-revision-final.pdf
-  - title: Improving Security of Autonomous Cyber-Physical Systems against Adversarial Examples. Qun Song
+  - title: Improving Security of Autonomous Cyber-Physical Systems against Adversarial Examples. 
+    authors: Qun Song
     url: https://dr.ntu.edu.sg/bitstream/10356/161165/2/thesis.pdf
+  - title: Exploiting Sensor and Process Characteristics to Tackle Label Scarcity in AIoT Sensing.
+    authors: Wenjie Luo 
   
 - #name: Secondary School Certificate
   icon: fa-book-bookmark
   institution:
     name: Book chapters
   publications:
-  - title: Artificial Intelligence of Things for Industrial Visual Sensing Systems in HP's Factories. Digital Manufacturing, Vol. 2. Elsevier. Duc Van Le, Siyuan Zhou, Joy Qiping Yang, Jiale Chen, Daren Ho, Rui Tan. 
-  - title: Lightweight Privacy-Preserving Machine Learning and Inference. Linshan Jiang and Rui Tan. Intelligent IoT for the Digital World (Eds. Yang Yang, Xu Chen, Rui Tan, Yong Xiao). Wiley. In production.
-  - title: Time Synchronization Management for Wide-Area Applications. Zhenyu Yan, Yang Li, and Rui Tan. Intelligent IoT for the Digital World (Eds. Yang Yang, Xu Chen, Rui Tan, Yong Xiao). Wiley. In production.
+  - title: Artificial Intelligence of Things for Industrial Visual Sensing Systems in HP's Factories. 
+    authors: Duc Van Le, Siyuan Zhou, Joy Qiping Yang, Jiale Chen, Daren Ho, Rui Tan. 
+    site: Digital Manufacturing, Vol. 2. Elsevier. 
+  - title: Lightweight Privacy-Preserving Machine Learning and Inference. 
+    authors: Linshan Jiang and Rui Tan. 
+    site: Intelligent IoT for the Digital World (Eds. Yang Yang, Xu Chen, Rui Tan, Yong Xiao). Wiley. In production.
+  - title: Time Synchronization Management for Wide-Area Applications. 
+    authors: Zhenyu Yan, Yang Li, and Rui Tan. 
+    site: Intelligent IoT for the Digital World (Eds. Yang Yang, Xu Chen, Rui Tan, Yong Xiao). Wiley. In production.
 
 - #name: Secondary School Certificate
   icon: fa-chart-line
   institution:
     name: Technical report
   publications:
-  - title: Tropical Data Centre Proof-of-Concept. Duc Van Le, Yingbo Liu; Rongrong Wang; Rui Tan. Technical Report, Nanyang Technological University, 2019. 
+  - title: Tropical Data Centre Proof-of-Concept. 
+    authors: Duc Van Le, Yingbo Liu; Rongrong Wang; Rui Tan. 
+    site: Technical Report, Nanyang Technological University, 2019. 
     url: https://dr.ntu.edu.sg/bitstream/10356/137780/4/main.pdf
+
+- #name: Secondary School Certificate
+  icon: fa-standard-definition
+  institution:
+    name: Standard
+  publications:
+  - title: Deployment and Operation of Data Centre IT Equipment under Tropical Climate, Singapore Standard 697:2023. 
+    url: https://www.singaporestandardseshop.sg/Product/SSPdtDetail/f64b2a31-57a0-49ec-8716-57ccbdc33365
+
+

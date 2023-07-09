@@ -1,8 +1,7 @@
 ---
-title: 2. Members
+title: 3. Members
 menu:
   sidebar:
-    name: 2. Members
+    name: 3. Members
     identifier: members
-
 ---
