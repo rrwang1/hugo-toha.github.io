@@ -1,6 +1,6 @@
 # section information
 section:
-  name: Codes & Dataset
+  name: Code & Data
   id: projects
   enable: true
   weight: 5
@@ -23,17 +23,22 @@ projects:
   summary: This is the repo for the EWSN'22 paper "Sardino Ultra-Fast Dynamic Ensemble for Secure Visual Sensing at Mobile Edge".
   tags: ["Neural networks","Adversary defence", "Systems security"]
 
+- name: ObfNet
+  logo: /images/section/github.png
+  repo: https://github.com/ntu-aiot/ObfNet
+  summary: This repository provides code of "Lightweight and Unobtrusive Data Obfuscation at IoT Edge for Remote Inference".
+  tags: ["Edge computing","Cloud computing","Data privacy","Neural networks"]
+
+- name: TDC 1.0
+  logo: /images/section/ntulogo.png
+  repo: https://researchdata.ntu.edu.sg/dataset.xhtml?persistentId=doi:10.21979/N9/BLBQ2T
+  summary: This dataset includes sensor measurements collected from an air free-cooled data center testbed in 2018 and 2019.
+  tags: ["Data centers", "Temperature", "Humidity", "Energy usage", "Air-free cooling"]
+
 - name: TDC 2.0
   logo: /images/section/ntulogo.png
   repo: https://researchdata.ntu.edu.sg/dataset.xhtml?persistentId=doi:10.21979/N9/BLBQ2T
   summary: This dataset includes sensor measurement traces collected from an air-cooled data center testbed in 2022 and 2023.
   tags: ["Data centers", "Temperature", "Humidity", "Energy usage"]
-
-#- name: ObfNet
-#  logo: /images/section/github.png
-#  repo: https://github.com/ntu-aiot/ObfNet
-#  summary: This repository provides code of "Lightweight and Unobtrusive Data Obfuscation at IoT Edge for Remote Inference".
-#  tags: ["Edge computing","Cloud computing","Data privacy","Neural networks"]
-
 
 

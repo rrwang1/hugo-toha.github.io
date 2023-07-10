@@ -11,13 +11,13 @@ section:
 
 # Your accomplishments
 accomplishments:
-- name: Undergrad achievements
+- name: Undergrad achievements & opportunities
   courseOverview: Our group have a good history of success in working with undergraduate students. We have produced many novel research publications driven by undergrads.
-  certificateURL: " "
+  certificateURL: "https://rrwang1.github.io/posts/call/achievements/"
 
-- name: Opportunities for new undergrads
-  courseOverview: Our group has research positions available regularly. We welcome undergrads who wish to pursue research careers to apply and contact us.  
-  certificateURL: " "
+- name: Research openings
+  courseOverview: Our group has research positions available regularly. We invite motivated researchers to apply.
+  certificateURL: "https://personal.ntu.edu.sg/tanrui/robustAI.html"
 
 
  
