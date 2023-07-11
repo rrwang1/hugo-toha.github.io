@@ -12,12 +12,9 @@ mermaid: true
 tags: ["Event","Oral defence"]
 categories: ["Basic"]
 ---
-# Wenjie completed his PhD defense.
 
+## Wenjie completed his PhD defense on June 27th 2023.
 ---
-
-Wenjie completed his PhD defense on June 27th 2023.
-
 {{< vs 3 >}}
 
 {{< img src="/posts/gallery/wenjieoral.jpg" align="center">}}

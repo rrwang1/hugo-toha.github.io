@@ -11,12 +11,8 @@ hero: /images/section/ngcps.png
 tags: ["Workshop", "CPS"]
 categories: ["Basic"]
 ---
-# Workshop on Next-Generation Cyber-Physical Systems.
-
+## Workshop on Next-Generation Cyber-Physical Systems, Sep 15th 2018, University of Virginia.
 ---
-
-#### Workshop on Next-Generation Cyber-Physical Systems, Sep 15th 2018, University of Virginia.
-
 {{< vs 3 >}}
 
 {{< img src="/posts/gallery/uva18.jpg" align="center">}}

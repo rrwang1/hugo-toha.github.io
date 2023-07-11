@@ -12,11 +12,10 @@ mermaid: true
 tags: ["Event","Oral defence"]
 categories: ["Basic"]
 ---
-# Linshan completed his PhD defense.
+## Linshan completed his PhD defense on Dec 6th 2021.
 
 ---
-
-#### Linshan completed his PhD defense, Dec 6th 2021.
+ 
 
 {{< vs 3 >}}
 

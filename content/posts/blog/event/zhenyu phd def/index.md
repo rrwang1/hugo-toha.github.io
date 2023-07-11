@@ -12,12 +12,9 @@ mermaid: true
 tags: ["Event","Oral defence"]
 categories: ["Basic"]
 ---
-# Zhenyu completed his PhD defense.
 
+## Zhenyu completed his PhD defense, Feb 20th 2020.
 ---
-
-#### Zhenyu completed his PhD defense, Feb 20th 2020.
-
 {{< vs 3 >}}
 
 {{< img src="/posts/gallery/zhenyuoral.jpg" align="center">}}

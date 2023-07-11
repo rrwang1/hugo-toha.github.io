@@ -12,12 +12,11 @@ mermaid: true
 tags: ["Event","Career"]
 categories: ["Basic"]
 ---
-# Dr. Zhenyu Yan and Dr. Chaojie joined the faculty of CUHK and ZJU.
 
+
+
+## Dr. Zhenyu Yan and Dr. Chaojie joined the faculty of CUHK and ZJU.
 ---
-
-#### Dr. Zhenyu Yan and Dr. Chaojie joined the faculty of CUHK and ZJU.
-
 {{< vs 3 >}}
 
 {{< img src="/posts/gallery/zhenyu_cuhk_chaojie_zju.jpg" align="center">}}

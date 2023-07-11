@@ -11,12 +11,9 @@ hero: /images/section/ipsn20.jpg
 tags: ["Conference", "IPSN"]
 categories: ["Basic"]
 ---
-# IPSN TPC meeting 2020
 
+## IPSN TPC meeting , Washington University in St. Louis, Jan 2020.
 ---
-
-#### IPSN TPC meeting , Washington University in St. Louis, Jan 2020.
-
 {{< vs 3 >}}
 
 {{< img src="/posts/gallery/ipsntpc20.jpg" align="center">}}

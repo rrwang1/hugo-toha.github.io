@@ -12,12 +12,9 @@ mermaid: true
 tags: ["Conference", "EWSN"]
 categories: ["Basic"]
 ---
-# Keynote of LPNET, EWSN'19
 
+## Keynote "Cyber-Physical Approach to Resilient City-Scale IoT Systems", The 1st workshop on Low Power Wide Area Networks for Internet of Things, EWSN'19, Tsinghua University, Feb 2019.
 ---
-
-#### Keynote "Cyber-Physical Approach to Resilient City-Scale IoT Systems", The 1st workshop on Low Power Wide Area Networks for Internet of Things, EWSN'19, Tsinghua University, Feb 2019.
-
 {{< vs 3 >}}
 
 {{< img src="/posts/gallery/ewsn19.jpg" align="center">}}

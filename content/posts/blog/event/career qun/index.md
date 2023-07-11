@@ -12,12 +12,8 @@ mermaid: true
 tags: ["Event","Career"]
 categories: ["Basic"]
 ---
-# Qun will join TU Delft as a tenure-track Assistant Professor.
-
+## Qun joined TU Delft as a tenure-track Assistant Professor on 30th Aug 2022.
 ---
-
-#### Qun will join TU Delft as a tenure-track Assistant Professor, Aug 30th, 2022..
-
 {{< vs 3 >}}
 
 {{< img src="/posts/gallery/qun_join_tu_delft.png" align="center">}}

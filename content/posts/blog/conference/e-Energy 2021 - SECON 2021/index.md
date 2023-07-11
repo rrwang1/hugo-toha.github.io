@@ -11,7 +11,7 @@ hero: /images/section/eenergy.png
 tags: ["Conference", "e-Energy","SECON"]
 categories: ["Basic"]
 ---
-# Qun, Siyuan, and Joy presented their papers at e-Energy'21 and SECON'21
+## Qun, Siyuan, and Joy presented their papers at e-Energy'21 and SECON'21
 
 ---
 

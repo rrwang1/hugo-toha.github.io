@@ -11,12 +11,9 @@ hero: /images/section/ubicomp-2018.jpg
 tags: ["Conference", "UobiComp"]
 categories: ["Basic"]
 ---
-# Qun’s paper presentation at UbiComp 2018
 
+## Qun’s paper presentation at UbiComp, Singapore, Oct, 2018
 ---
-
-#### Qun’s paper presentation at UbiComp, Singapore, Oct, 2018
-
 {{< vs 3 >}}
 
 {{< img src="/posts/gallery/qun_ubicomp18.jpg" align="center">}}

@@ -11,12 +11,9 @@ tags: ["Conference", "CPSWeek"]
 hero: /images/section/iccps.png
 categories: ["Basic"]
 ---
-# Jiale Chen's work won best paper award at ICCPS 2023
 
+## Group member Jiale Chen’s work, “BubCam”, won best paper award at The 14th ACM/IEEE International Conference on Cyber-Physical System. Congratulations!
 ---
-
-#### Jiale’s work, “BubCam”, won best paper award at The 14th ACM/IEEE International Conference on Cyber-Physical System. Congratulations!
-
 {{< vs 3 >}}
 
 {{< img src="/posts/gallery/iccps_best_paper.jpeg" align="center" title="Jiale Chen" >}}

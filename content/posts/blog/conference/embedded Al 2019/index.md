@@ -11,12 +11,8 @@ hero: /images/section/embed.png
 tags: ["Conference", "Embedded AI"]
 categories: ["Basic"]
 ---
-# Embedded AI Submit 2019 at Shenzhen
-
+## Embedded AI Submit 2019 at Shenzhen, Dec 2019
 ---
-
-#### Embedded AI Submit, Shenzhen, Dec 2019
-
 {{< vs 3 >}}
 
 {{< img src="/posts/gallery/embeddedai19.jpg" align="center">}}

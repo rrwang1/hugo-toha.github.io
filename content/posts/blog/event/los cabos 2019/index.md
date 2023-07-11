@@ -12,12 +12,9 @@ mermaid: true
 tags: ["Event","scenery","MobiCom"]
 categories: ["Basic"]
 ---
-# Zhenyu and Rui at Los Cabos
 
+## Zhenyu and Rui at Los Cabos, Oct 2019.
 ---
-
-#### Zhenyu and Rui at Los Cabos, Oct 2019.
-
 {{< vs 3 >}}
 
 {{< img src="/posts/gallery/zhenyu_rui_loascabos.jpg" align="center">}}

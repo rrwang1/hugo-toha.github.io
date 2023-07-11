@@ -12,12 +12,9 @@ mermaid: true
 tags: ["Event","scenery","CPS-IoT"]
 categories: ["Basic"]
 ---
-# Twilight of Montreal
 
+## Twilight of Montreal, CPS-IoT Week, Apr 2019.
 ---
-
-#### Twilight of Montreal, CPS-IoT Week, Apr 2019.
-
 {{< vs 3 >}}
 
 {{< img src="/posts/gallery/cpsiot19twilight.jpg" align="center">}}

@@ -12,11 +12,9 @@ mermaid: true
 tags: ["Event","Career"]
 categories: ["Basic"]
 ---
-# Group graduate Zhenyu won the Rising Star Award of ACM SIGBED China.
-
----
-
-#### Dr. Zhenyu Yan won the Rising Star Award of ACM SIGBED China, 2021. ([Click for details](https://mp.weixin.qq.com/s/p5WL8TkmqYTG9DDT9XvsQA))
+## Group graduate Dr. Zhenyu Yan won the Rising Star Award of ACM SIGBED China, 2021.
+-----
+[Click for details](https://mp.weixin.qq.com/s/p5WL8TkmqYTG9DDT9XvsQA)
 
 {{< vs 3 >}}
 

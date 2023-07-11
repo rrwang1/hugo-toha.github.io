@@ -12,12 +12,9 @@ mermaid: true
 tags: ["Event","Oral defence"]
 categories: ["Basic"]
 ---
-# Linshan completed his PhD defense.
 
+## Qun completed her PhD defense, Aug 12th, 2022.
 ---
-
-#### Qun completed her PhD defense, Aug 12th, 2022.
-
 {{< vs 3 >}}
 
 {{< img src="/posts/gallery/qun_oral.png" align="center">}}

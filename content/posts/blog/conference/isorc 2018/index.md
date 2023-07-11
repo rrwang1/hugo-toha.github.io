@@ -11,12 +11,9 @@ hero: /images/section/isorc.png
 tags: ["Workshop", "ISORC"]
 categories: ["Basic"]
 ---
-# Landmark of Singapore, ISORC'18.
 
+## Landmark of Singapore, token on the banquet of ISORC'18.
 ---
-
-#### Landmark of Singapore, token on the banquet of ISORC'18.
-
 {{< vs 3 >}}
 
 {{< img src="/posts/gallery/isorc18.jpg" align="center">}}

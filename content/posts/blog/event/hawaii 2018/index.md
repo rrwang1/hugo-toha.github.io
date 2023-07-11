@@ -11,12 +11,9 @@ hero: /images/section/hawaii.jpg
 tags: ["Event","scenery","INFOCOM"]
 categories: ["Basic"]
 ---
-# Chaojie and Rui at Maui, Hawaii
 
+## Chaojie and Rui at Maui, Hawaii. Apr 2018.
 ---
-
-#### Maui, Hawaii. Apr 2018.
-
 {{< vs 3 >}}
 
 {{< img src="/posts/gallery/hawaii18.jpg" align="center">}}

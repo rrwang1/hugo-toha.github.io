@@ -11,12 +11,10 @@ hero: /images/section/sensys22.png
 tags: ["Conference", "SenSys"]
 categories: ["Basic"]
 ---
-# Group members/alumni presented papers on SenSys'22
 
+
+## Linshan and alumni Qun and Zhenyu presented their works on SenSys'22, Boston.
 ---
-
-#### Linshan and alumni Qun and Zhenyu presented their works on SenSys'22, Boston.
-
 {{< vs 3 >}}
 
 {{< img src="/posts/gallery/sensys22.jpg" align="center">}}

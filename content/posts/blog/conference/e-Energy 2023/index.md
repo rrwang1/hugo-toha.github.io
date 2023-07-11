@@ -11,12 +11,8 @@ hero: /images/section/eenergy.png
 tags: ["Conference", "e-Energy"]
 categories: ["Basic"]
 ---
-# ACM e-Energy'23 Successfully Concluded
-
+## ACM e-Energy'23 held at Orlando has been successfully concluded, where Prof. Rui Tan served as a TPC Co-Chair.
 ---
-
-ACM e-Energy'23 held at Orlando has been successfully concluded, where Prof. Rui Tan served as a TPC Co-Chair.
-
 [Link to album](https://photos.app.goo.gl/tjZaK8zn49CD1ACN9)
 
 {{< vs 3 >}}

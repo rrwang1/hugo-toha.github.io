@@ -11,12 +11,8 @@ hero: /images/section/mobicom.jpg
 tags: ["Conference", "MobiCom"]
 categories: ["Basic"]
 ---
-# Zhenyu's Paper Presentation at MobiCom'19
-
+## Zhenyu's paper presentation at ACM MobiCom, Oct 2019
 ---
-
-#### Zhenyu's paper presentation at ACM MobiCom, Oct 2019
-
 {{< vs 3 >}}
 
 {{< img src="/posts/gallery/zhenyu_mobicom19.jpg" align="center">}}

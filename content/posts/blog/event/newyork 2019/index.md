@@ -12,12 +12,8 @@ mermaid: true
 tags: ["Event","scenery"]
 categories: ["Basic"]
 ---
-# Central Park, New York.
-
+## Central Park, New York, Nov 2019.
 ---
-
-#### Central Park, New York, Nov 2019.
-
 {{< vs 3 >}}
 
 {{< img src="/posts/gallery/centralpark.jpg" align="center">}}
