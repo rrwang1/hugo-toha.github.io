@@ -1,9 +1,12 @@
 ---
-title: 3. Team
+title: Members
+weight: 9
 menu:
   sidebar:
-    name: 3. Team
-    identifier: members
+    name: Members
+    identifier: team
+    parent: members
+hero: /images/section/member.png
 ---
 
 ## Faculty   

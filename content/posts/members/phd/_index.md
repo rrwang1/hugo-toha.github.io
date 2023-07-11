@@ -1,8 +1,8 @@
 ---
-title: PhD Candidates
+title: Postgraduate Researchers and Students
 menu:
   sidebar:
-    name: PhD Candidates
+    name: Postgraduate Researchers and Students
     identifier: phd
     parent: members
 ---
