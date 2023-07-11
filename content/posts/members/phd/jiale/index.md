@@ -18,4 +18,4 @@ hero: /images/section/phd.jpg
   - jiale.chen@ntu.edu.sg
 - Bio: I am now a Ph.D student and research associate in HP/NTU Lab. I received my Master degree from Hong Kong University of Science and Technology in 2019. I got my bachelor degree from Southern China University of Technology in 2018.
 - Research projects:
-  - [Acoustic and imagery sensing](research/acoustic_image/)
+  - Acoustic and imagery sensing

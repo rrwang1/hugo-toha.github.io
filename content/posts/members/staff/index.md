@@ -21,5 +21,5 @@ hero: /images/section/post.png
 - Personal website: https://sites.google.com/site/levanduc2001/home
 - Publication: https://sites.google.com/site/levanduc2001/publication
 - Research projects:
-  - [Building sensing](research/acoustic_image/)
-  - [Acoustic and imagery sensing](research/acoustic_image/)
+  - Building sensing
+  - Acoustic and imagery sensing
