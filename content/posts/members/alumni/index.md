@@ -1,6 +1,6 @@
 ---
 title: Alumni
-weight: 11
+weight: 27
 menu:
   sidebar:
     name: Alumni
@@ -8,17 +8,17 @@ menu:
     parent: members
 hero: images/section/alumni.jpg
 ---
-|                                                                                                                        |                                                                                                                                                   |
-| ---------------------------------------------------------------------------------------------------------------------- | ------------------------------------------------------------------------------------------------------------------------------------------------- |
-| {{< img src="/posts/members/photo/zhenyu_yan.jpg" alt="image alt" width="100px" height="125px" position="center">}}    | &nbsp;&nbsp;&nbsp;&nbsp;[Zhenyu Yan](https://yanzhenyu.com/)&nbsp;&nbsp;&nbsp;&nbsp;PhD student and Research Fellow &nbsp;&nbsp;&nbsp;&nbsp;*Joined the faculty of CUHK in 2021*&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;       |
-| &nbsp;                                                                                                                 | &nbsp;                                                                                                                                            |
-| {{< img src="/posts/members/photo/chaojie_gu.jpg" alt="image alt" width="100px" height="125px" position="center">}}    | &nbsp;&nbsp;&nbsp;&nbsp;[Chaojie Gu](https://chaojiegu.github.io/)&nbsp;&nbsp;&nbsp;&nbsp;PhD student and Research Fellow &nbsp;&nbsp;&nbsp;&nbsp;*Joined the faculty of ZJU in 2021* &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;       |
-| &nbsp;                                                                                                                 | &nbsp;                                                                                                                                            |
-| {{< img src="/posts/members/photo/qun_song.jpg" alt="image alt" width="100px" height="125px" position="center">}}      |&nbsp;&nbsp;&nbsp;&nbsp;[Qun Song](https://song-qun.github.io/) &nbsp;&nbsp;&nbsp;&nbsp;PhD student &nbsp;&nbsp;&nbsp;&nbsp;*Joined the faculty of TU Delft in 2022* &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;       |
-| &nbsp;                                                                                                                 | &nbsp;                                                                                                                                            |
-| {{< img src="/posts/members/photo/linshan_jiang.jpg" alt="image alt" width="100px" height="125px" position="center">}} | &nbsp;&nbsp;&nbsp;&nbsp;Linshan Jiang &nbsp;&nbsp;&nbsp;&nbsp;PhD student and Research Fellow                                                                                |
-| &nbsp;                                                                                                                 |&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;       |
-| {{< img src="/posts/members/photo/qiping_yang.jpg" alt="image alt" width="100px" height="125px" position="center">}}   |&nbsp;&nbsp;&nbsp;&nbsp;Joy Qiping Yang&nbsp;&nbsp;&nbsp;&nbsp;Project officer&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;       |
+|                                                                                                                        |                                                                                                                                                                                                                                       |
+| ---------------------------------------------------------------------------------------------------------------------- | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+| {{< img src="/posts/members/photo/zhenyu_yan.jpg" alt="image alt" width="100px" height="125px" position="center">}}    | &nbsp;&nbsp;&nbsp;&nbsp;[Zhenyu Yan](https://yanzhenyu.com/)&nbsp;&nbsp;PhD student and Research Fellow *Joined faculty of CUHK in 2021*&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;       |
+| &nbsp;                                                                                                                 | &nbsp;                                                                                                                                                                                                                                |
+| {{< img src="/posts/members/photo/chaojie_gu.jpg" alt="image alt" width="100px" height="125px" position="center">}}    | &nbsp;&nbsp;&nbsp;&nbsp;[Chaojie Gu](https://chaojiegu.github.io/)&nbsp;&nbsp;PhD student and Research Fellow *Joined faculty of ZJU in 2021* &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; |
+| &nbsp;                                                                                                                 | &nbsp;                                                                                                                                                                                                                                |
+| {{< img src="/posts/members/photo/qun_song.jpg" alt="image alt" width="100px" height="125px" position="center">}}      | &nbsp;&nbsp;&nbsp;&nbsp;[Qun Song](https://song-qun.github.io/) &nbsp;&nbsp;PhD student &nbsp;&nbsp;*Joined faculty of TU Delft in 2022* &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;                  |
+| &nbsp;                                                                                                                 | &nbsp;                                                                                                                                                                                                                                |
+| {{< img src="/posts/members/photo/linshan_jiang.jpg" alt="image alt" width="100px" height="125px" position="center">}} | &nbsp;&nbsp;&nbsp;&nbsp;Linshan Jiang &nbsp;&nbsp;PhD student and Research Fellow                                                                                                                                         |
+| &nbsp;                                                                                                                 | &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;                                                                                                                                                                                      |
+| {{< img src="/posts/members/photo/qiping_yang.jpg" alt="image alt" width="100px" height="125px" position="center">}}   | &nbsp;&nbsp;&nbsp;&nbsp;Joy Qiping Yang&nbsp;&nbsp;Project officer&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;                                                                                                        |
 
 {{< vs 3 >}}
 

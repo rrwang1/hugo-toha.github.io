@@ -1,7 +1,6 @@
 ---
 title: Yimin Dai
-weight: 30
-weight: 17
+weight: 22
 menu:
   sidebar:
     name: Yimin Dai

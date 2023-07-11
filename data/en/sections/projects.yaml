@@ -31,7 +31,7 @@ projects:
 
 - name: TDC 1.0
   logo: /images/section/ntulogo.png
-  repo: https://researchdata.ntu.edu.sg/dataset.xhtml?persistentId=doi:10.21979/N9/BLBQ2T
+  repo: https://researchdata.ntu.edu.sg/dataset.xhtml?persistentId=doi:10.21979/N9/R1KU6R
   summary: This dataset includes sensor measurements collected from an air free-cooled data center testbed in 2018 and 2019.
   tags: ["Data centers", "Temperature", "Humidity", "Energy usage", "Air-free cooling"]
 

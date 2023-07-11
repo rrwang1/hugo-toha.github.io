@@ -1,6 +1,6 @@
 ---
 title: Faculty
-weight: 10
+weight: 15
 menu:
   sidebar:
     name: Faculty

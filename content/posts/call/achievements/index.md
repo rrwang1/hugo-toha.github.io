@@ -1,6 +1,6 @@
 ---
 title: Undergrad achievements & opportunities
-weight: 8
+weight: 28
 menu:
   sidebar:
     name: Undergrad achievements
@@ -8,8 +8,7 @@ menu:
     identifier: achievements
 hero: /images/section/achievement.jpg
 ---
-
-## Undergrad achievements 
+## Undergrad achievements
 
 Our group has good interest and records in working with well motivated undergraduate students either from our own School and the external on research topics that we know. We guide them to read literature, perform hands-on work, and write the research report on a selected and timely topic, such that they can make their little but novel and publishable contributions. We believe that a senior undergraduate, if willing to undertake exploratory and challenging tasks, is ready for research. With the above rationale, our group has produced the following research publications driven by undergrads:
 
@@ -34,8 +33,8 @@ Our group has good interest and records in working with well motivated undergrad
   *Asian Conference on Energy, Power and Transportation Electrification (ACEPT), 2018.*
   **The work was completed when Stefan Selvarajoo was a final-year undergrad.**
 
-
 ## Opportunities
+
 For undergrads at SCSE of NTU, you may join us through FYP or the [URECA program](https://www.ntu.edu.sg/ureca/Pages/default.aspx). For undergrads from the external, we have visiting student positions from time to time. We welcome undergrads who wish to pursue research careers to contact us. Please send the following three items to tanrui@ntu.edu.sg:
 
 - Your CV with research or lab work highlighted;

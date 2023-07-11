@@ -1,6 +1,6 @@
 ---
 title: Siyuan Zhou
-weight: 16
+weight: 20
 menu:
   sidebar:
     name: Siyuan Zhou

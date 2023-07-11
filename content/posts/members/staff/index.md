@@ -1,18 +1,18 @@
 ---
 title: Postdoctoral
-weight: 11
+weight: 16
 menu:
   sidebar:
     name: Postdoctoral
     identifier: staff
     parent: members
 
-hero: /images/section/postdoctoral.png
+hero: /images/section/post.png
 ---
 # Duc Van Le
 
 {{< vs 3 >}}
-  {{< img src="/posts/members/photo/rui_tan.jpg" alt="image alt" width="200px" height="250px" align="center">}}
+  {{< img src="/posts/members/photo/van_duc_le.jpg" alt="image alt" width="200px" height="250px" align="center">}}
 {{< vs 3 >}}
 
 - Position: Research Fellow
@@ -23,4 +23,3 @@ hero: /images/section/postdoctoral.png
 - Research projects:
   - [Building sensing](research/acoustic_image/)
   - [Acoustic and imagery sensing](research/acoustic_image/)
-
