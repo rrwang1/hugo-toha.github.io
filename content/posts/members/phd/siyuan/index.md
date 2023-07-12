@@ -16,4 +16,4 @@ hero: /images/section/phd.jpg
 - Contact: siyuan.zhou@ntu.edu.sg
 - Bio: I am currently a Ph.D student in school of computer science and engineering, Nanyang Technological University, Singapore. My currently research focuses on embedded deep visual sensing in industrial IoT.
 - Research projects:
-  - Acoustic and imagery sensing
+  - [Acoustic and imagery sensing](https://rrwang1.github.io/posts/research/iot-sensing/acoustic/)

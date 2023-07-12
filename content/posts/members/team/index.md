@@ -16,7 +16,7 @@ hero: /images/section/member.png
 
 ---
 
-#### [Rui Tan](https://personal.ntu.edu.sg/tanrui/)
+#### [Rui Tan](https://rrwang1.github.io/posts/members/faculty/)
 
 ##### Associate Professor
 
@@ -34,7 +34,7 @@ hero: /images/section/member.png
 
 ---
 
-#### Van Duc Le
+#### [Van Duc Le](https://rrwang1.github.io/posts/members/staff/)
 
 ##### Senior research fellow
 
@@ -52,7 +52,7 @@ hero: /images/section/member.png
 
 ---
 
-#### [Wenjie Luo]()
+#### [Wenjie Luo](https://rrwang1.github.io/posts/members/phd/wenjie/)
 
 ##### PhD Student
 
@@ -66,9 +66,7 @@ hero: /images/section/member.png
 
 ---
 
-## 
-
-#### [Dongfang Guo]()
+#### [Dongfang Guo](https://rrwang1.github.io/posts/members/phd/dongfang/)
 
 ##### PhD Student
 
@@ -82,9 +80,7 @@ hero: /images/section/member.png
 
 ---
 
-## 
-
-#### [Rongrong Wang]()
+#### [Rongrong Wang](https://rrwang1.github.io/posts/members/phd/rongrong/)
 
 ##### PhD Student
 
@@ -98,9 +94,7 @@ hero: /images/section/member.png
 
 ---
 
-## 
-
-#### [Siyuan Zhou]()
+#### [Siyuan Zhou](https://rrwang1.github.io/posts/members/phd/siyuan/)
 
 ##### PhD Student
 
@@ -114,9 +108,7 @@ hero: /images/section/member.png
 
 ---
 
-## 
-
-#### [Jiale Chen]()
+#### [Jiale Chen](https://rrwang1.github.io/posts/members/phd/jiale/)
 
 ##### PhD Student
 
@@ -130,9 +122,7 @@ hero: /images/section/member.png
 
 ---
 
-## 
-
-#### [Yimin Dai]()
+#### [Yimin Dai](https://rrwang1.github.io/posts/members/phd/yimin/)
 
 ##### PhD Student
 
@@ -146,11 +136,9 @@ hero: /images/section/member.png
 
 ---
 
-## 
+#### [Yuting Wu](https://rrwang1.github.io/posts/members/phd/yuting/)
 
-#### [Yuting Wu]()
-
-##### Research associate
+##### Research Associate
 
 {{< vs 5 >}}
 {{< /split >}}
@@ -162,11 +150,9 @@ hero: /images/section/member.png
 
 ---
 
-## 
+#### [Zhuoran Chen](https://rrwang1.github.io/posts/members/phd/zhuoran/)
 
-#### [Zhuoran Chen]()
-
-##### Research assistant
+##### Project Officer
 
 {{< vs 5 >}}
 {{< /split >}}
@@ -182,9 +168,7 @@ hero: /images/section/member.png
 
 ---
 
-## 
-
-#### [Huimin Chen]()
+#### [Huimin Chen](https://rrwang1.github.io/posts/members/visit/huimin/)
 
 ##### Visiting Student (PhD candidate at ZJU)
 
@@ -198,9 +182,7 @@ hero: /images/section/member.png
 
 ---
 
-## 
-
-#### [Lilin Xu]()
+#### [Lilin Xu](https://rrwang1.github.io/posts/members/visit/lilin/)
 
 ##### Visiting Student (master candidate at ZJU)
 
@@ -218,9 +200,7 @@ hero: /images/section/member.png
 
 ---
 
-## }
-
-#### [Zhenyu Yan]()
+#### [Zhenyu Yan](https://yanzhenyu.com/)
 
 ##### PhD student and Research Fellow *Joined the faculty of CUHK in 2021*
 
@@ -234,9 +214,7 @@ hero: /images/section/member.png
 
 ---
 
-## }
-
-#### [Chaojie Gu]()
+#### [Chaojie Gu](https://chaojiegu.github.io/)
 
 ##### PhD student and Research Fellow *Joined the faculty of ZJU in 2021*
 
@@ -250,9 +228,7 @@ hero: /images/section/member.png
 
 ---
 
-## }
-
-#### [Qun Song]()
+#### [Qun Song](https://song-qun.github.io/)
 
 ##### PhD student  *Joined the faculty of TU Delft in 2022*
 
@@ -266,9 +242,7 @@ hero: /images/section/member.png
 
 ---
 
-## }
-
-#### [Linshan Jiang]()
+#### [Linshan Jiang](https://scholar.google.com.sg/citations?user=S01E5-cAAAAJ&hl=en)
 
 ##### PhD student and Research Fellow
 
@@ -281,8 +255,6 @@ hero: /images/section/member.png
 {{< split 1 11>}}
 
 ---
-
-## }
 
 #### Joy Qiping Yang
 

@@ -21,5 +21,5 @@ hero: /images/section/post.png
 - Personal website: https://sites.google.com/site/levanduc2001/home
 - Publication: https://sites.google.com/site/levanduc2001/publication
 - Research projects:
-  - Building sensing
-  - Acoustic and imagery sensing
+  - [Building sensing](https://rrwang1.github.io/posts/research/iot-sensing/building/)
+  - [Acoustic and imagery sensing](https://rrwang1.github.io/posts/research/iot-sensing/acoustic/)

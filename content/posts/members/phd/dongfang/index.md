@@ -15,5 +15,5 @@ hero: /images/section/phd.jpg
 - Contact: dongfang.guo@ntu.edu.sg
 - Bio: Dongfang Guo is a Ph.D student and Research Associate at SCSE, NTU. He received his B.Eng. degree from University of Electronic Science and Technology of China, and his M.Sc. degree from Nanyang Technological University, Singapore. His research interests lie in the field of Internet of Things and Cyber-Physical Systems.
 - Research projects:
-  - LoRa radio sensing
-  - Acoustic and imagery sensing
+  - [LoRa radio sensing](https://rrwang1.github.io/posts/research/iot-sensing/lora/)
+  - [Acoustic and imagery sensing](https://rrwang1.github.io/posts/research/iot-sensing/acoustic/)
