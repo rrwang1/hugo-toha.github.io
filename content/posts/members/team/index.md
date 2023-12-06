@@ -16,7 +16,7 @@ hero: /images/section/member.png
 
 ---
 
-#### [Rui Tan](https://rrwang1.github.io/posts/members/faculty/)
+#### [Rui Tan](https://ntuiot.xyz/posts/members/faculty/)
 
 ##### Associate Professor
 
@@ -34,7 +34,7 @@ hero: /images/section/member.png
 
 ---
 
-#### [Van Duc Le](https://rrwang1.github.io/posts/members/staff/)
+#### [Van Duc Le](https://ntuiot.xyz/posts/members/staff/)
 
 ##### Senior research fellow
 
@@ -46,19 +46,13 @@ hero: /images/section/member.png
 
 ### Postgraduate Researchers and Students
 
-{{< img src="/posts/members/photo/wenjie_luo.jpg" alt="image alt" width="160px" height="200px" float="left">}}
 
 {{< split 1 11>}}
 
 ---
 
-#### [Wenjie Luo](https://rrwang1.github.io/posts/members/phd/wenjie/)
-
-##### PhD Student
-
-{{< vs 6 >}}
 {{< /split >}}
-{{< vs 2 >}}
+
 
 {{< img src="/posts/members/photo/dongfang_guo.jpg" alt="image alt" width="160px" height="200px" float="left">}}
 {{< vs 2 >}}
@@ -66,7 +60,7 @@ hero: /images/section/member.png
 
 ---
 
-#### [Dongfang Guo](https://rrwang1.github.io/posts/members/phd/dongfang/)
+#### [Dongfang Guo](https://ntuiot.xyz/posts/members/phd/dongfang/)
 
 ##### PhD Student
 
@@ -82,7 +76,7 @@ hero: /images/section/member.png
 ---
 
 
-#### [Rongrong Wang](https://rrwang1.github.io/posts/members/phd/rongrong/)
+#### [Rongrong Wang](https://ntuiot.xyz/posts/members/phd/rongrong/)
 
 ##### PhD Student
 
@@ -98,7 +92,7 @@ hero: /images/section/member.png
 ---
 
 
-#### [Siyuan Zhou](https://rrwang1.github.io/posts/members/phd/siyuan/)
+#### [Siyuan Zhou](https://ntuiot.xyz/posts/members/phd/siyuan/)
 
 ##### PhD Student
 
@@ -114,7 +108,7 @@ hero: /images/section/member.png
 ---
 
 
-#### [Jiale Chen](https://rrwang1.github.io/posts/members/phd/jiale/)
+#### [Jiale Chen](https://ntuiot.xyz/posts/members/phd/jiale/)
 
 ##### PhD Student
 
@@ -130,7 +124,7 @@ hero: /images/section/member.png
 ---
 
 
-#### [Yimin Dai](https://rrwang1.github.io/posts/members/phd/yimin/)
+#### [Yimin Dai](https://ntuiot.xyz/posts/members/phd/yimin/)
 
 ##### PhD Student
 
@@ -146,7 +140,7 @@ hero: /images/section/member.png
 ---
 
 
-#### [Yuting Wu](https://rrwang1.github.io/posts/members/phd/yuting/)
+#### [Yuting Wu](https://ntuiot.xyz/posts/members/phd/yuting/)
 
 
 ##### Research Associate
@@ -163,7 +157,7 @@ hero: /images/section/member.png
 ---
 
 
-#### [Zhuoran Chen](https://rrwang1.github.io/posts/members/phd/zhuoran/)
+#### [Zhuoran Chen](https://ntuiot.xyz/posts/members/phd/zhuoran/)
 
 ##### Project Officer
 
@@ -182,7 +176,7 @@ hero: /images/section/member.png
 
 ---
 
-#### [Huimin Chen](https://rrwang1.github.io/posts/members/visit/huimin/)
+#### [Huimin Chen](https://ntuiot.xyz/posts/members/visit/huimin/)
 
 ##### Visiting Student (PhD candidate at ZJU)
 
@@ -190,26 +184,16 @@ hero: /images/section/member.png
 {{< /split >}}
 {{< vs 2 >}}
 
-{{< img src="/posts/members/photo/lilin.jpg" alt="image alt" width="160px" height="200px" float="left">}}
-{{< vs 2 >}}
-{{< split 1 11>}}
 
 ---
-
-#### [Lilin Xu](https://rrwang1.github.io/posts/members/visit/lilin/)
-
-##### Visiting Student (master candidate at ZJU)
-
-{{< vs 5 >}}
-{{< /split >}}
-{{< vs 2 >}}
-
----
-
+{{< vs 1 >}}
+### Alumni
+{{< vs 1 >}}
 - [Zhenyu Yan](https://yanzhenyu.com/) (PhD student and Research Fellow; *Joined the faculty of CUHK in 2021*)   
 - [Chaojie Gu](https://chaojiegu.github.io/) (PhD student and Research Fellow; *Joined the faculty of ZJU in 2021*)   
 - [Qun Song](https://song-qun.github.io/) (PhD student; *Joined the faculty of TU Delft in 2022*)
 - [Linshan Jiang](https://scholar.google.com.sg/citations?user=S01E5-cAAAAJ&hl=en) (PhD student and Research Fellow)
+- Wenjie Luo (PhD student)
 - Yingbo Liu (Research Fellow; *Joined the faculty of YNUFE in 2019* )
 - Rutvij H. Jhaveri (Research Fellow; *Joined the faculty of PDEU India in 2019* )
 - Joy Qiping Yang (Project officer)
@@ -218,3 +202,4 @@ hero: /images/section/member.png
 - Dixing Xu (Visiting Student)
 - Chongrong Fang (Visiting Student; *Joined the faculty of SJTU in 2021* )
 - Jue Tian (Visiting Student)
+- Lilin Xu (Visiting Student; *Master candidate at ZJU)
