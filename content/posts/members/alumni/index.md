@@ -31,4 +31,4 @@ hero: images/section/alumni.jpg
 - Dixing Xu (Visiting Student)
 - Chongrong Fang (Visiting Student; *Joined the faculty of SJTU in 2021* )
 - Jue Tian (Visiting Student)
-- Lilin Xu (Visiting Student; *Master candidate at ZJU* )
+- Lilin Xu (Visiting Student)
