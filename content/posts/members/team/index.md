@@ -122,11 +122,28 @@ hero: /images/section/member.png
 {{< /split >}}
 {{< vs 2 >}}
 
+{{< img src="/posts/members/photo/zimo_ma.png" alt="image alt" width="160px" height="200px" float="left">}}
+{{< vs 2 >}}
+{{< split 1 11>}}
+
+---
+
+
+#### [Zimo Ma](https://ntuiot.xyz/posts/members/phd/zimo/)
+
+##### PhD Student
+
+{{< vs 5 >}}
+{{< /split >}}
+{{< vs 2 >}}
+
 {{< img src="/posts/members/photo/yuting_wu.jpg" alt="image alt" width="160px" height="200px" float="left">}}
 {{< vs 2 >}}
 {{< split 1 11>}}
 
 ---
+
+
 
 #### [Yuting Wu](https://ntuiot.xyz/posts/members/phd/yuting/)
 
