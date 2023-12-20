@@ -197,7 +197,7 @@ hero: /images/section/member.png
 - [Chaojie Gu](https://chaojiegu.github.io/) (PhD student and Research Fellow; *Joined the faculty of ZJU in 2021*)
 - [Qun Song](https://song-qun.github.io/) (PhD student; *Joined the faculty of TU Delft in 2022*)
 - [Linshan Jiang](https://scholar.google.com.sg/citations?user=S01E5-cAAAAJ&hl=en) (PhD student and Research Fellow)
-- Wenjie Luo (PhD student)
+- [Wenjie Luo](https://wenjieluo.xyz/) (PhD student)
 - Yingbo Liu (Research Fellow; *Joined the faculty of YNUFE in 2019* )
 - Rutvij H. Jhaveri (Research Fellow; *Joined the faculty of PDEU India in 2019* )
 - Joy Qiping Yang (Project officer)

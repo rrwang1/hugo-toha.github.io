@@ -17,4 +17,4 @@ hero: /images/section/researcher.jpg
 - Contact: chen1192@e.ntu.edu.sg
 - Bio: Zhuoran Chen is a Project Officer at HP-NTU Digital Manufacturing Corporate Lab. He received his bachelor’s degree in computer engineering from Nanyang Technological University, Singapore, in 2021. His current research directions are 3D sensing and hardware acceleration in mobile computing.   
 - Research project: 
-    - [Acoustic and imagery sensing](https://rrwang1.github.io/posts/research/iot-sensing/acoustic/)
+    - [Acoustic and imagery sensing](https://ntuiot.xyz/posts/research/iot-sensing/acoustic/)

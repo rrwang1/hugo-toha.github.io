@@ -128,7 +128,7 @@ Jue Tian, Rui Tan, Xiaohong Guan, Ting Liu.
 25. **A Joint Data Compression and Encryption Approach for Wireless Energy Auditing Networks.**    
 Rui Tan, Sheng-Yuan Chiu, Hoang Hai Nguyen, David Yau, Deokwoo Jung.    
 *ACM Transactions on Sensor Networks (TOSN).* Vol. 13, No. 2, June 2017.    
-[PDF](https://personal.ntu.edu.sg/tanrui/pub/safety-TCPS.pdf)    
+[PDF](https://personal.ntu.edu.sg/tanrui/pub/JICE-TOSN.pdf)    
 
 26. **Collaborative Load Management with Safety Assurance in Smart Grids.**    
 Rui Tan, Hoang Hai Nguyen, David Yau.    

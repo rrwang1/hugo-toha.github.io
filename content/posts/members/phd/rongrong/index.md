@@ -19,5 +19,5 @@ hero: /images/section/phd.jpg
   - [Control of Air Free-Cooled Data Centers in Tropics via Deep Reinforcement Learning.](https://personal.ntu.edu.sg/tanrui/pub/TDC-buildsys.pdf)
   - [A Testbed and Data Yields for Studying Data Center Energy Efficiency and Reliability.](https://personal.ntu.edu.sg/tanrui/pub/DATA2018.pdf)
 - Research projects:
-  - [Building sensing](https://rrwang1.github.io/posts/research/iot-sensing/building/)
-  - [Powerline radiation sensing](https://rrwang1.github.io/posts/research/iot-sensing/powerline/)
+  - [Building sensing](https://ntuiot.xyz/posts/research/iot-sensing/building/)
+  - [Powerline radiation sensing](https://ntuiot.xyz/posts/research/iot-sensing/powerline/)

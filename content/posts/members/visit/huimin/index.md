@@ -15,4 +15,4 @@ hero: /images/section/visit.png
 - Contact: N2207910A@e.ntu.edu.sg
 - Bio: I am currently a Ph.D. student at the college of control science and engineering, Zhejiang University. I received my B.Eng. degree from Nanjing University of Aeronautics and Astronautics in 2018. Now I am a visiting student at NTU under Prof. Tan Rui, and my research interest lies in acoustic sensing.
 - Research projects:
-  - Acoustic and imagery sensing
+  - [Acoustic and imagery sensing](https://ntuiot.xyz/posts/research/iot-sensing/acoustic/)

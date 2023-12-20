@@ -105,6 +105,7 @@ Siyuan Zhou, Duc Van Le, Joy Qiping Yang, Rui Tan, Daren Ho.
 
 20. **Improving Quality Control with Industrial AIoT at HP Factories: Experiences and Learned Lessons.**    
 Joy Qiping Yang, Siyuan Zhou; Duc Van Le; Daren Ho; Rui Tan.    
+[PDF](https://tanrui.github.io/pub/IET-SECON21.pdf)
 
 21. **PhyAug: Physics-Directed Data Augmentation for Deep Sensing Model Transfer in Cyber-Physical Systems.**    
 Wenjie Luo, Zhenyu Yan, Qun Song, Rui Tan.    
@@ -154,6 +155,7 @@ Rutvij H. Jhaveri, Rui Tan, Arvind Easwaran, Sagar V. Ramani.
 30. **Real-Time QoS Routing Scheme in SDN-based Robotic Cyber-Physical Systems.**    
 Rutvij H. Jhaveri, Rui Tan, Sagar V. Ramani.    
 *The 5th IEEE International Conference on Mechatronics Systems and Robots*, May 3-5, 2019, Singapore.    
+[PDF](https://d1wqtxts1xzle7.cloudfront.net/94869241/2004.04466-libre.pdf?1669474210=&response-content-disposition=inline%3B+filename%3DReal_time_QoS_Routing_Scheme_in_SDN_base.pdf&Expires=1703077684&Signature=Kv2QT0F345nIkbbKUzCin3nnczUDjemmmdqrbhowaG8ujUkigoUC6cL48G2xQSTAXRiyUzR~eFSU4Fab8ezXSXp3cDsPTugKF5~L0s-nfZpz7iD375lisTl7qn4NOgqMW1-ohiXFyh6hhhNZBMA4lcHYgvCMizSJQdAjCW3Us1K2zHFIPFbWE4kuQZrqNlpWTpiY906poLW2irSLwqzJwGYFQms5kf2orKMXB1BEtTFvC4fHG-DGO94grn5AtJpmd-7J2VtRP64eExyPzk-scwQ20vv-LihNHugPstWAwGe8qxTq4qeQIBuH-bCDyxHoo52v9OnHN4SutIVjTifgXg__&Key-Pair-Id=APKAJLOHF5GGSLRBV4ZA)
 
 31. **Towards Touch-to-Access Device Authentication Using Induced Body Electric Potentials.**    
 Zhenyu Yan, Qun Song, Rui Tan, Yang Li, Adams Wai Kin Kong.    
@@ -182,11 +184,13 @@ Chaojie Gu, Linshan Jiang, Rui Tan.
 
 36. **A Testbed and Data Yields for Studying Data Center Energy Efficiency and Reliability.**    
 Duc Van Le, Yingbo Liu; Rongrong Wang; Rui Tan; Lek Heng Ngoh.    
-*The Data: Acquisition to Analysis Workshop with SenSys'18*, November 4, 2018, Shenzhen, China.[PDF](https://personal.ntu.edu.sg/tanrui/pub/DATA2018.pdf)    
+*The Data: Acquisition to Analysis Workshop with SenSys'18*, November 4, 2018, Shenzhen, China.    
+[PDF](https://personal.ntu.edu.sg/tanrui/pub/DATA2018.pdf)    
 
 37. **Urban Electric Load Forecasting with Mobile Phone Location Data.**    
 Stefan Selvarajoo, Schläpfer Markus Stefan, Rui Tan.    
 *Asian Conference on Energy, Power and Transportation Electrification (ACEPT)*, October 31 - November 1, 2018, Singapore.    
+[Abstract](https://ieeexplore.ieee.org/abstract/document/8610757)
 
 38. **One-Hop Out-of-Band Control Planes for Low-Power Multi-Hop Wireless Networks.**    
 Chaojie Gu, Rui Tan, Xin Lou, Dusit Niyato.    
