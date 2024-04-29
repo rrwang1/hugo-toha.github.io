@@ -42,7 +42,6 @@ hero: /images/section/member.png
 {{< /split >}}
 {{< vs 3 >}}
 
-
 {{< img src="/posts/members/photo/xiangzhong_luo.png" alt="image alt" width="160px" height="200px" float="left">}}
 {{< vs 2 >}}
 {{< split 1 11>}}
@@ -60,7 +59,6 @@ hero: /images/section/member.png
 ---
 
 ### Postgraduate Researchers and Students
-
 
 {{< split 1 11>}}
 
@@ -80,7 +78,6 @@ hero: /images/section/member.png
 
 {{< vs 5 >}}
 {{< /split >}}
-
 
 {{< img src="/posts/members/photo/rongrong_wang.jpg" alt="image alt" width="160px" height="200px" float="left">}}
 {{< vs 2 >}}
@@ -166,6 +163,22 @@ hero: /images/section/member.png
 {{< vs 5 >}}
 {{< /split >}}
 {{< vs 3 >}}
+
+<!--
+{{< img src="/posts/members/photo/yuting_wu.jpg" alt="image alt" width="160px" height="200px" float="left">}}
+{{< vs 2 >}}
+{{< split 1 11>}}
+
+---
+
+#### [Yihan Xu](https://ntuiot.xyz/posts/members/phd/yihan/)
+
+##### PhD Student
+
+{{< vs 5 >}}
+{{< /split >}}
+{{< vs 3 >}}
+-->
 
 {{< img src="/posts/members/photo/nguyen.png" alt="image alt" width="160px" height="200px" float="left">}}
 {{< vs 2 >}}
