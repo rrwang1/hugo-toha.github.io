@@ -11,6 +11,12 @@ section:
 
 # your projects
 projects:
+- name: FedCFC
+  logo: /images/section/github.png
+  repo: https://github.com/hhhddyy/FedCFC
+  summary: This is the repo of the FedCFC code.
+  tags: ["Continuous-time neural network", "Federated learning", "Time series processing", "Edge computing"]
+
 - name: PhyAug
   logo: /images/section/github.png
   repo: https://github.com/jiegev5/PhyAug 

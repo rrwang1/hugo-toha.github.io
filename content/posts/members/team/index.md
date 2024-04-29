@@ -34,9 +34,24 @@ hero: /images/section/member.png
 
 ---
 
-#### [Van Duc Le](https://ntuiot.xyz/posts/members/staff/)
+#### [Van Duc Le](https://ntuiot.xyz/posts/members/staff/duc/)
 
 ##### Senior research fellow
+
+{{< vs 5 >}}
+{{< /split >}}
+{{< vs 3 >}}
+
+
+{{< img src="/posts/members/photo/xiangzhong_luo.png" alt="image alt" width="160px" height="200px" float="left">}}
+{{< vs 2 >}}
+{{< split 1 11>}}
+
+---
+
+#### [Xiangzhong Luo](https://ntuiot.xyz/posts/members/staff/xiangzhong/)
+
+##### Research fellow
 
 {{< vs 5 >}}
 {{< /split >}}
@@ -45,6 +60,7 @@ hero: /images/section/member.png
 ---
 
 ### Postgraduate Researchers and Students
+
 
 {{< split 1 11>}}
 
@@ -64,7 +80,7 @@ hero: /images/section/member.png
 
 {{< vs 5 >}}
 {{< /split >}}
-{{< vs 2 >}}
+
 
 {{< img src="/posts/members/photo/rongrong_wang.jpg" alt="image alt" width="160px" height="200px" float="left">}}
 {{< vs 2 >}}
@@ -92,7 +108,7 @@ hero: /images/section/member.png
 
 {{< vs 5 >}}
 {{< /split >}}
-{{< vs 2 >}}
+{{< vs 3 >}}
 
 {{< img src="/posts/members/photo/jiale_chen.jpg" alt="image alt" width="160px" height="200px" float="left">}}
 {{< vs 2 >}}
@@ -106,11 +122,12 @@ hero: /images/section/member.png
 
 {{< vs 5 >}}
 {{< /split >}}
-{{< vs 2 >}}
+{{< vs 3 >}}
 
 {{< img src="/posts/members/photo/yimin_dai.jpg" alt="image alt" width="160px" height="200px" float="left">}}
 {{< vs 2 >}}
 {{< split 1 11>}}
+{{< vs 2 >}}
 
 ---
 
@@ -120,7 +137,7 @@ hero: /images/section/member.png
 
 {{< vs 5 >}}
 {{< /split >}}
-{{< vs 2 >}}
+{{< vs 3 >}}
 
 {{< img src="/posts/members/photo/zimo_ma.png" alt="image alt" width="160px" height="200px" float="left">}}
 {{< vs 2 >}}
@@ -128,14 +145,13 @@ hero: /images/section/member.png
 
 ---
 
-
 #### [Zimo Ma](https://ntuiot.xyz/posts/members/phd/zimo/)
 
 ##### PhD Student
 
 {{< vs 5 >}}
 {{< /split >}}
-{{< vs 2 >}}
+{{< vs 3 >}}
 
 {{< img src="/posts/members/photo/yuting_wu.jpg" alt="image alt" width="160px" height="200px" float="left">}}
 {{< vs 2 >}}
@@ -143,15 +159,27 @@ hero: /images/section/member.png
 
 ---
 
-
-
 #### [Yuting Wu](https://ntuiot.xyz/posts/members/phd/yuting/)
 
-##### Research Associate
+##### PhD Student
 
 {{< vs 5 >}}
 {{< /split >}}
+{{< vs 3 >}}
+
+{{< img src="/posts/members/photo/nguyen.png" alt="image alt" width="160px" height="200px" float="left">}}
 {{< vs 2 >}}
+{{< split 1 11>}}
+
+---
+
+#### [Duc Phuc Nguyen](https://ntuiot.xyz/posts/members/phd/nguyen/)
+
+##### PhD Student
+
+{{< vs 5 >}}
+{{< /split >}}
+{{< vs 3 >}}
 
 {{< img src="/posts/members/photo/zhuoran_chen.jpg" alt="image alt" width="160px" height="200px" float="left">}}
 {{< vs 2 >}}
@@ -165,7 +193,7 @@ hero: /images/section/member.png
 
 {{< vs 5 >}}
 {{< /split >}}
-{{< vs 2 >}}
+{{< vs 3 >}}
 
 ---
 
@@ -184,6 +212,19 @@ hero: /images/section/member.png
 {{< vs 5 >}}
 {{< /split >}}
 {{< vs 2 >}}
+
+{{< img src="/posts/members/photo/shihao_shen.jpg" alt="image alt" width="160px" height="200px" float="left">}}
+{{< split 1 11>}}
+
+---
+
+#### [Shihao Shen](https://ntuiot.xyz/posts/members/visit/shihao/)
+
+##### Visiting Student (PhD candidate at TJU)
+
+{{< vs 5 >}}
+{{< /split >}}
+{{< vs 3 >}}
 
 ---
 

@@ -15,18 +15,18 @@ degrees:
   institution:
     name: Conference and workshop
   publications: 
-  - title: Effects of Learning-Based Action-Space Attacks on Autonomous Driving Agents.
-    authors: Yuting Wu, Xin Lou, Pengfei Zhou, Rui Tan, Zbigniew Kalbarczyk, Ravishankar K. Iyer. 
-    site: ICCPS Work-in-Progress session, May 9-12, 2023, San Antonio, Texas, USA. CPS-IoT Week 2023.
-    url: "https://tanrui.github.io/pub/iccpswip2023-final24.pdf"
-  - title: Towards Efficient Personalized Driver Behavior Modeling with Machine Unlearning. 
-    authors: Qun Song, Rui Tan, Jianping Wang. 
-    site: The 7th IEEE/ACM Workshop on the Internet of Safe Things (SafeThings), May 9, 2023, San Antonio, Texas, USA. CPS-IoT Week 2023.
-    url: "https://tanrui.github.io/pub/unlearning.pdf"
-  - title: Physics-Informed Machine Learning Model Generalization in AIoT Opportunities and Challenges. 
-    authors: Wenjie Luo, Rui Tan. 
-    site: The 3rd Workshop on Data-Driven and Intelligent Cyber-Physical Systems for Smart Cities (DI-CPS), May 9, 2023, San Antonio, Texas, USA. CPS-IoT Week 2023.
-    url: "https://tanrui.github.io/pub/PIML-AIoT.pdf"
+  - title: FedCFC On-Device Personalized Federated Learning with Closed-Form Continuous-Time Neural Networks.
+    authors: Yimin Dai, Rui Tan. 
+    site: The 23rd ACM/IEEE International Conference on Information Processing in Sensor Networks (IPSN), May 13-16, 2024, Hong Kong. (Acceptance ratio is 20/93=21.5%) CPS-IoT Week 2024.
+    url: "https://tanrui.github.io/pub/FedCFC.pdf"
+  - title: Invisible Optical Adversarial Stripes on Traffic Sign against Autonomous Vehicles. 
+    authors: Dongfang Guo, Yuting Wu, Yimin Dai, Pengfei Zhou, Xin Lou, Rui Tan. 
+    site: The 22nd ACM International Conference on Mobile Systems, Applications, and Services (MobiSys), June 3-7, 2024, Tokyo, Japan. (Acceptance ratio is 43/263=16.3%).
+    url: "https://tanrui.github.io/pub/GhostStripe-MobiSys.pdf"
+  - title: Incentive Temperature Control for Green Colocation Data Centers via Reinforcement Learning. 
+    authors: Rongrong Wang, Duc Van Le, Jikun Kang, Rui Tan, Xue Liu. 
+    site: The 32nd IEEE/ACM International Symposium on Quality of Service (IWQoS), June 19-21, 2024, Guangzhou, China.
+    url: "https://tanrui.github.io/pub/IncentiveDC-IWQoS.pdf"
   - title: BubCam A Vision System for Automated Quality Inspection at Manufacturing Lines. 
     authors: Jiale Chen, Duc Van Le, Rui Tan, Daren Ho. 
     site: The 14th ACM/IEEE International Conference on Cyber-Physical Systems (ICCPS) May 9-12, 2023, San Antonio, Texas, USA. (Acceptance ratio is 25.6%) CPS-IoT Week 2023.
@@ -35,6 +35,18 @@ degrees:
     authors: Yimin Dai, Xian Shuai, Rui Tan, Guoliang Xing. 
     site: The 22nd ACM/IEEE International Conference on Information Processing in Sensor Networks (IPSN), May 9-12, 2023, San Antonio, Texas, USA. Conditionally accepted. CPS-IoT Week 2023.
     url: https://tanrui.github.io/pub/ImmTrack.pdf
+#  - title: Effects of Learning-Based Action-Space Attacks on Autonomous Driving Agents.
+#    authors: Yuting Wu, Xin Lou, Pengfei Zhou, Rui Tan, Zbigniew Kalbarczyk, Ravishankar K. Iyer. 
+#    site: ICCPS Work-in-Progress session, May 9-12, 2023, San Antonio, Texas, USA. CPS-IoT Week 2023.
+#    url: "https://tanrui.github.io/pub/iccpswip2023-final24.pdf"
+#  - title: Towards Efficient Personalized Driver Behavior Modeling with Machine Unlearning. 
+#    authors: Qun Song, Rui Tan, Jianping Wang. 
+#    site: The 7th IEEE/ACM Workshop on the Internet of Safe Things (SafeThings), May 9, 2023, San Antonio, Texas, USA. CPS-IoT Week 2023.
+#    url: "https://tanrui.github.io/pub/unlearning.pdf"
+#  - title: Physics-Informed Machine Learning Model Generalization in AIoT Opportunities and Challenges. 
+#    authors: Wenjie Luo, Rui Tan. 
+#    site: The 3rd Workshop on Data-Driven and Intelligent Cyber-Physical Systems for Smart Cities (DI-CPS), May 9, 2023, San Antonio, Texas, USA. CPS-IoT Week 2023.
+#    url: "https://tanrui.github.io/pub/PIML-AIoT.pdf"
 #  - title: Indoor Smartphone SLAM with Learned Echoic Location Features. 
 #    authors: Wenjie Luo, Qun Song, Zhenyu Yan, Rui Tan, Guosheng Lin. 
 #    site: The 20th ACM Conference on Embedded Networked Sensor Systems (SenSys), Nov 6-9, 2022, Boston, USA.
@@ -119,6 +131,14 @@ degrees:
   institution:
     name: Journal
   publications:
+  - title: Impacts of Increasing Temperature and Relative Humidity in Air-Cooled Tropical Data Centers. 
+    authors: Duc Van Le, Jing Zhou, Rongrong Wang, Rui Tan, Fei Duan. 
+    site: IEEE Transactions on Sustainable Computing. In press. 
+    url: https://tanrui.github.io/pub/TDC2-TSUSC.pdf
+  - title: A Collaborative Visual Sensing System for Precise Quality Inspection at Manufacturing Lines. 
+    authors: Jiale Chen, Duc Van Le, Rui Tan, Daren Ho. 
+    site: ACM Transactions on Cyber-Physical Systems (TCPS). In press.
+    url: https://tanrui.github.io/pub/BubCam-TCPS.pdf
   - title: NNFacet Splitting Neural Network for Concurrent Smart Sensors. 
     authors: Jiale Chen, Duc Van Le, Rui Tan, Daren Ho. 
     site: IEEE Transactions on Mobile Computing (TMC). In press. 
@@ -131,14 +151,14 @@ degrees:
     authors: Wenjie Luo, Zhenyu Yan, Qun Song, Rui Tan. 
     site: ACM Transactions on Sensor Networks (TOSN). In press. 
     url: https://tanrui.github.io/pub/PhyAug-TOSN.pdf
-  - title: Configuration-Adaptive Wireless Visual Sensing System with Deep Reinforcement Learning. 
-    authors: Siyuan Zhou, Duc Van Le, Rui Tan, Joy Qiping Yang, Daren Ho. 
-    site: IEEE Transactions on Mobile Computing (TMC). In press. 
-    url: https://tanrui.github.io/pub/EFCam-TMC.pdf
-  - title: Air Free-Cooled Tropical Data Center Design, Evaluation, and Learned Lessons. 
-    authors: Duc Van Le, Yingbo Liu, Rongrong Wang, Rui Tan, Lek Heng Ngoh. 
-    site: IEEE Transactions on Sustainable Computing. In press.
-    url: https://tanrui.github.io/pub/TDC-TSUSC.pdf
+#  - title: Configuration-Adaptive Wireless Visual Sensing System with Deep Reinforcement Learning. 
+#    authors: Siyuan Zhou, Duc Van Le, Rui Tan, Joy Qiping Yang, Daren Ho. 
+#    site: IEEE Transactions on Mobile Computing (TMC). In press. 
+#    url: https://tanrui.github.io/pub/EFCam-TMC.pdf
+#  - title: Air Free-Cooled Tropical Data Center Design, Evaluation, and Learned Lessons. 
+#    authors: Duc Van Le, Yingbo Liu, Rongrong Wang, Rui Tan, Lek Heng Ngoh. 
+#    site: IEEE Transactions on Sustainable Computing. In press.
+#    url: https://tanrui.github.io/pub/TDC-TSUSC.pdf
 #  - title: A Data-Assisted First-Principle Approach to Modeling Server Outlet Temperature in Air Free-Cooled Data Centers. Yingbo Liu, Duc Van Le, Rui Tan. Future Generation Computer Systems. In press.
 #    url: "#"
 #  - title: Real-Time Cooling Power Attribution for Co-Located Data Center Rooms with Distinct Temperatures and Humidities. Rongrong Wang, Duc Van Le, Rui Tan, Yew-Wah Wong. ACM Transactions on Cyber-Physical Systems (TCPS). In press. 

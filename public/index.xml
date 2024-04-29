@@ -404,9 +404,8 @@ The acoustic and imagery sensing modalities provide abundant information about t
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
       <guid>https://ntuiot.xyz/posts/papers/pubs/</guid>
-      <description>Orientation-Aware 3D SLAM in Alternating Magnetic Field from Powerlines.. Rongrong Wang, Rui Tan, Zhenyu Yan, Chris Xiaoxuan Lu. Proceedings of the ACM on Interactive, Mobile, Wearable and Ubiquitous Technologies (IMWUT). The ACM International Joint Conference on Pervasive and Ubiquitous Computing (Ubicomp), October 5-9, 2024, Melbourne, Australia.
-PDF
-Susceptibility of Autonomous Driving Agents to Learning-Based Action-Space Attacks. Yuting Wu, Pengfei Zhou, Xin Lou, Rui Tan, Zbigniew Kalbarczyk, Ravishankar K. Iyer. The 9th International Workshop on Safety and Security Intelligent Vehicle (SSIV) with DSN&#39;23, June 27, 2023, Porto, Portugal.</description>
+      <description>FedCFC On-Device Personalized Federated Learning with Closed-Form Continuous-Time Neural Networks Yimin Dai, Rui Tan. The 23rd ACM/IEEE International Conference on Information Processing in Sensor Networks (IPSN), May 13-16, 2024, Hong Kong. CPS-IoT Week 2024. (Acceptance ratio: 21.5%) PDF, Code
+Invisible Optical Adversarial Stripes on Traffic Sign against Autonomous Vehicles. Dongfang Guo, Yuting Wu, Yimin Dai, Pengfei Zhou, Xin Lou, Rui Tan. The 22nd ACM International Conference on Mobile Systems, Applications, and Services (MobiSys), June 3-7, 2024, Tokyo, Japan.</description>
     </item>
     
     <item>
@@ -415,9 +414,8 @@ Susceptibility of Autonomous Driving Agents to Learning-Based Action-Space Attac
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
       <guid>https://ntuiot.xyz/posts/papers/journal/</guid>
-      <description>Design, Deployment, and Evaluation of an Industrial AIoT System for Quality Control at HP Factories. Duc Van Le, Joy Qiping Yang; Siyuan Zhou; Daren Ho; Rui Tan. ACM Transactions on Sensor Networks (TOSN). In press. Preprint
-Indoor Smartphone SLAM with Acoustic Echoes. Wenjie Luo, Qun Song, Zhenyu Yan, Rui Tan, Guosheng Lin. IEEE Transactions on Mobile Computing (TMC). In press. Preprint
-NNFacet: Splitting Neural Network for Concurrent Smart Sensors. Jiale Chen, Duc Van Le, Rui Tan, Daren Ho.</description>
+      <description>Impacts of Increasing Temperature and Relative Humidity in Air-Cooled Tropical Data Centers. Duc Van Le, Jing Zhou, Rongrong Wang, Rui Tan, Fei Duan. IEEE Transactions on Sustainable Computing In press. Preprint Data
+A Collaborative Visual Sensing System for Precise Quality Inspection at Manufacturing Lines. Jiale Chen, Duc Van Le, Rui Tan, Daren Ho. ACM Transactions on Cyber-Physical Systems (TCPS). In press. Special Issue: Best Papers of ICCPS 2023. Preprint</description>
     </item>
     
     <item>
@@ -466,7 +464,7 @@ Time Synchronization Management for Wide-Area Applications. Zhenyu Yan, Yang Li,
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
       <guid>https://ntuiot.xyz/posts/members/team/</guid>
-      <description>Faculty Rui Tan Associate Professor Postdoctoral Van Duc Le Senior research fellow Postgraduate Researchers and Students Dongfang Guo PhD Student Rongrong Wang PhD Student Siyuan Zhou PhD Student Jiale Chen PhD Student Yimin Dai PhD Student Zimo Ma PhD Student Yuting Wu Research Associate Zhuoran Chen Project Officer Visiting Students Huimin Chen Visiting Student (PhD candidate at ZJU) Alumni Zhenyu Yan (PhD student and Research Fellow; Joined the faculty of CUHK in 2021) Chaojie Gu (PhD student and Research Fellow; Joined the faculty of ZJU in 2021) Qun Song (PhD student; Joined the faculty of TU Delft in 2022) Linshan Jiang (PhD student and Research Fellow) Wenjie Luo (PhD student) Yingbo Liu (Research Fellow; Joined the faculty of YNUFE in 2019 ) Rutvij H.</description>
+      <description>Faculty Rui Tan Associate Professor Postdoctoral Van Duc Le Senior research fellow Xiangzhong Luo Research fellow Postgraduate Researchers and Students Dongfang Guo PhD Student Rongrong Wang PhD Student Siyuan Zhou PhD Student Jiale Chen PhD Student Yimin Dai PhD Student Zimo Ma PhD Student Yuting Wu PhD Student Duc Phuc Nguyen PhD Student Zhuoran Chen Project Officer Visiting Students Huimin Chen Visiting Student (PhD candidate at ZJU) Shihao Shen Visiting Student (PhD candidate at TJU) Alumni Zhenyu Yan (PhD student and Research Fellow; Joined the faculty of CUHK in 2021) Chaojie Gu (PhD student and Research Fellow; Joined the faculty of ZJU in 2021) Qun Song (PhD student; Joined the faculty of TU Delft in 2022) Linshan Jiang (PhD student and Research Fellow) Wenjie Luo (PhD student) Yingbo Liu (Research Fellow; Joined the faculty of YNUFE in 2019 ) Rutvij H.</description>
     </item>
     
     <item>
@@ -479,12 +477,21 @@ Time Synchronization Management for Wide-Area Applications. Zhenyu Yan, Yang Li,
     </item>
     
     <item>
-      <title>Postdoctoral</title>
-      <link>https://ntuiot.xyz/posts/members/staff/</link>
+      <title>Duc Van Le</title>
+      <link>https://ntuiot.xyz/posts/members/staff/duc/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>https://ntuiot.xyz/posts/members/staff/</guid>
-      <description>Duc Van Le Position: Research Fellow Contact: vdle@ntu.edu.sg Bio: Duc Van Le is research fellow at the HP-NTU Digital Manufacturing Corporate Lab, Nanyang Technological University (NTU), Singapore. He obtained his B.Eng. degree in electronics and telecommunications engineering from the Le Quy Don Technical University, Vietnam, and PhD degree in computer engineering from the University of Ulsan, South Korea, in 2011 and 2016, respectively. Before joining NTU, he worked as a research fellow at Department of Computer Science, National University of Singapore (NUS) from 2016 to 2018.</description>
+      <guid>https://ntuiot.xyz/posts/members/staff/duc/</guid>
+      <description>Position: Research Fellow Contact: vdle@ntu.edu.sg Bio: Duc Van Le is research fellow at the HP-NTU Digital Manufacturing Corporate Lab, Nanyang Technological University (NTU), Singapore. He obtained his B.Eng. degree in electronics and telecommunications engineering from the Le Quy Don Technical University, Vietnam, and PhD degree in computer engineering from the University of Ulsan, South Korea, in 2011 and 2016, respectively. Before joining NTU, he worked as a research fellow at Department of Computer Science, National University of Singapore (NUS) from 2016 to 2018.</description>
+    </item>
+    
+    <item>
+      <title>Xiangzhong Luo</title>
+      <link>https://ntuiot.xyz/posts/members/staff/xiangzhong/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://ntuiot.xyz/posts/members/staff/xiangzhong/</guid>
+      <description>Position: Research Fellow Contact: xiangzhong.luo@ntu.edu.sg Bio: Xiangzhong Luo is a research fellow at the School of Computer Science and Engineering, Nanyang Technological University, Singapore. He received the B.Eng. and Ph.D. degrees from Shanghai Jiao Tong University, China, and Nanyang Technological University, Singapore, in 2019 and 2023, respectively. His current research interests include efficient and robust deep learning algorithms. </description>
     </item>
     
     <item>
@@ -542,12 +549,21 @@ Time Synchronization Management for Wide-Area Applications. Zhenyu Yan, Yang Li,
     </item>
     
     <item>
+      <title>Duc Phuc Nguyen</title>
+      <link>https://ntuiot.xyz/posts/members/phd/nguyen/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://ntuiot.xyz/posts/members/phd/nguyen/</guid>
+      <description>Position: PhD Student Contact: ucphuc001@e.ntu.edu.sg Bio: Duc Phuc Nguyen is currently a PhD student in the School of Computer Science and Engineering (SCSE) at Nanyang Technological University, Singapore. He obtained his bachelor&amp;rsquo;s degree in Computer Science and Engineering from Ho Chi Minh City University of Technology (HCMUT), Vietnam National University Ho Chi Minh City (VNU-HCM), Vietnam, in 2023, where he was a Research Assistant in the ML4U Research Team, working on the topics of computer vision and deep learning.</description>
+    </item>
+    
+    <item>
       <title>Yuting Wu</title>
       <link>https://ntuiot.xyz/posts/members/phd/yuting/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
       <guid>https://ntuiot.xyz/posts/members/phd/yuting/</guid>
-      <description>Position: Research Associate Contact: yuting.wu@ntu.edu.sg Bio: Yuting Wu received M.Sc. (2020) in Electrical and Electronic Engineering from Nanyang Technological University, Singapore, and his B.Eng degree in Automation from North-eastern University, China (2019). Previously, he was a Research Associate (2020-2021) at the Centre for System Intelligence and Efficiency, NTU, researching Reinforcement learning applications. Currently, He works as Research Associate on the SCALE project under Prof. Tan Rui. Research project: Acoustic and imagery sensing </description>
+      <description>Position: PhD Student Contact: yuting.wu@ntu.edu.sg Bio: Yuting Wu received M.Sc. (2020) in Electrical and Electronic Engineering from Nanyang Technological University, Singapore, and his B.Eng degree in Automation from North-eastern University, China (2019). Previously, he was a Research Associate (2020-2021) at the Centre for System Intelligence and Efficiency, NTU, researching Reinforcement learning applications. Currently, He works as Research Associate on the SCALE project under Prof. Tan Rui. Research project: Acoustic and imagery sensing </description>
     </item>
     
     <item>
@@ -566,6 +582,15 @@ Time Synchronization Management for Wide-Area Applications. Zhenyu Yan, Yang Li,
       
       <guid>https://ntuiot.xyz/posts/members/visit/huimin/</guid>
       <description>Position: Visting Student Contact: N2207910A@e.ntu.edu.sg Bio: I am currently a Ph.D. student at the college of control science and engineering, Zhejiang University. I received my B.Eng. degree from Nanjing University of Aeronautics and Astronautics in 2018. Now I am a visiting student at NTU under Prof. Tan Rui, and my research interest lies in acoustic sensing. Research projects: Acoustic and imagery sensing </description>
+    </item>
+    
+    <item>
+      <title>Shihao Shen</title>
+      <link>https://ntuiot.xyz/posts/members/visit/shihao/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://ntuiot.xyz/posts/members/visit/shihao/</guid>
+      <description>Position: Visting Student Contact: N2308651E@e.ntu.edu.sg Bio: I am currently a Ph.D. student at the college of intelligence and computing, Tianjin University. I received my B.Eng. degree from Tianjin University in 2019. Now I am a visiting student at NTU under Prof. Tan Rui, and my research interest lies in distributed container clouds, scheduling optimization, and edge computing. </description>
     </item>
     
     <item>

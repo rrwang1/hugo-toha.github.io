@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Postdoctoral on NTU IoT Research Group</title>
+    <link>https://ntuiot.xyz/posts/members/staff/</link>
+    <description>Recent content in Postdoctoral on NTU IoT Research Group</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en</language><atom:link href="https://ntuiot.xyz/posts/members/staff/index.xml" rel="self" type="application/rss+xml" /><item>
+      <title>Duc Van Le</title>
+      <link>https://ntuiot.xyz/posts/members/staff/duc/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://ntuiot.xyz/posts/members/staff/duc/</guid>
+      <description>Position: Research Fellow Contact: vdle@ntu.edu.sg Bio: Duc Van Le is research fellow at the HP-NTU Digital Manufacturing Corporate Lab, Nanyang Technological University (NTU), Singapore. He obtained his B.Eng. degree in electronics and telecommunications engineering from the Le Quy Don Technical University, Vietnam, and PhD degree in computer engineering from the University of Ulsan, South Korea, in 2011 and 2016, respectively. Before joining NTU, he worked as a research fellow at Department of Computer Science, National University of Singapore (NUS) from 2016 to 2018.</description>
+    </item>
+    
+    <item>
+      <title>Xiangzhong Luo</title>
+      <link>https://ntuiot.xyz/posts/members/staff/xiangzhong/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://ntuiot.xyz/posts/members/staff/xiangzhong/</guid>
+      <description>Position: Research Fellow Contact: xiangzhong.luo@ntu.edu.sg Bio: Xiangzhong Luo is a research fellow at the School of Computer Science and Engineering, Nanyang Technological University, Singapore. He received the B.Eng. and Ph.D. degrees from Shanghai Jiao Tong University, China, and Nanyang Technological University, Singapore, in 2019 and 2023, respectively. His current research interests include efficient and robust deep learning algorithms. </description>
+    </item>
+    
+    
+  </channel>
+</rss>

@@ -1,18 +1,14 @@
 ---
-title: Postdoctoral
+title: Duc Van Le
 weight: 16
 menu:
   sidebar:
-    name: Postdoctoral
-    identifier: staff
-    parent: members
-
+    name: Duc Van Le
+    identifier: duc
+    parent: staff
 hero: /images/section/post.png
 ---
-# Duc Van Le
-
-{{< vs 3 >}}
-  {{< img src="/posts/members/photo/van_duc_le.jpg" alt="image alt" width="200px" height="250px" align="center">}}
+{{< img src="/posts/members/photo/van_duc_le.jpg" alt="image alt" width="200px" height="250px" align="center">}}
 {{< vs 3 >}}
 
 - Position: Research Fellow
